@@ -1,5 +1,29 @@
 struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1253	indication	3389	Tuberculosis	not_genetic	ftivazide
+5203	indication	213500	Ovarian cancer	not_genetic	rucaparib
+1667	off-label use	213500	Ovarian cancer	not_genetic	megestrol acetate
+2707	indication	213500	Ovarian cancer	not_genetic	topotecan
+1678	indication	213500	Ovarian cancer	not_genetic	melphalan
+141	indication	213500	Ovarian cancer	not_genetic	altretamine
+210	off-label use	213500	Ovarian cancer	not_genetic	anastrozole
+2638	indication	213500	Ovarian cancer	not_genetic	thiotepa
+2561	off-label use	213500	Ovarian cancer	not_genetic	tamoxifen
+1112	off-label use	213500	Ovarian cancer	not_genetic	etoposide
+1399	indication	213500	Ovarian cancer	not_genetic	hydroxycarbamide
+4392	indication	213500	Ovarian cancer	not_genetic	cisplatin
+2044	indication	213500	Ovarian cancer	not_genetic	paclitaxel
+1283	indication	213500	Ovarian cancer	not_genetic	gemcitabine
+2739	indication	213500	Ovarian cancer	not_genetic	tretamine
+4133	indication	213500	Ovarian cancer	not_genetic	carboplatin
+939	off-label use	213500	Ovarian cancer	not_genetic	docetaxel
+1556	off-label use	213500	Ovarian cancer	not_genetic	letrozole
+1559	off-label use	213500	Ovarian cancer	not_genetic	leuprorelin
+960	indication	213500	Ovarian cancer	not_genetic	doxorubicin
+480	off-label use	213500	Ovarian cancer	not_genetic	capecitabine
+4633	indication	213500	Ovarian cancer	not_genetic	trabectedin
+4907	indication	213500	Ovarian cancer	not_genetic	olaparib
+296	indication	213500	Ovarian cancer	not_genetic	belotecan
+5206	indication	277	Severe combined immunodeficiency due to adenosine deaminase deficiency	rare_genetic	pegademase
 5205	indication	58017	Hairy cell leukemia	not_genetic	interferon alfa-2b
 2098	indication	58017	Hairy cell leukemia	not_genetic	pentostatin
 667	indication	58017	Hairy cell leukemia	not_genetic	cladribine
@@ -44,6 +68,21 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2544	indication	217071	Renal cell carcinoma	not_genetic	sunitinib
 2446	indication	217071	Renal cell carcinoma	not_genetic	sirolimus
 4225	indication	217071	Renal cell carcinoma	not_genetic	axitinib
+658	indication	79211	Combined hyperlipidemia	rare_genetic	ciprofibrate
+1125	indication	79211	Combined hyperlipidemia	rare_genetic	ezetimibe
+2214	indication	79211	Combined hyperlipidemia	rare_genetic	pitavastatin
+1229	indication	79211	Combined hyperlipidemia	rare_genetic	fluvastatin
+4505	indication	79211	Combined hyperlipidemia	rare_genetic	choline fenofibrate
+257	indication	79211	Combined hyperlipidemia	rare_genetic	atorvastatin
+1612	indication	79211	Combined hyperlipidemia	rare_genetic	lovastatin
+577	indication	79211	Combined hyperlipidemia	rare_genetic	cerivastatin
+1152	indication	79211	Combined hyperlipidemia	rare_genetic	fenofibrate
+2835	indication	79211	Combined hyperlipidemia	rare_genetic	nicotinic acid
+2406	indication	79211	Combined hyperlipidemia	rare_genetic	rosuvastatin
+2239	indication	79211	Combined hyperlipidemia	rare_genetic	pravastatin
+2445	indication	79211	Combined hyperlipidemia	rare_genetic	simvastatin
+1444	indication	79211	Combined hyperlipidemia	rare_genetic	inositol
+76	indication	79211	Combined hyperlipidemia	rare_genetic	acipimox
 5199	indication	77259	Gaucher disease type 1	rare_genetic	taliglucerase alfa
 4989	indication	77259	Gaucher disease type 1	rare_genetic	velaglucerase alfa
 5129	indication	77259	Gaucher disease type 1	rare_genetic	alglucerase
@@ -63,6 +102,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4133	off-label use	519	Acute myeloid leukemia	not_genetic	carboplatin
 4980	indication	519	Acute myeloid leukemia	not_genetic	gemtuzumab ozogamicin
 5011	indication	519	Acute myeloid leukemia	not_genetic	aldesleukin
+5183	indication	3394	Soft tissue sarcoma	not_genetic	olaratumab
+4118	indication	3394	Soft tissue sarcoma	not_genetic	pazopanib
+5212	indication	3394	Soft tissue sarcoma	not_genetic	tasonermin
 1588	indication	963	Acromegaly	not_genetic	lisuride
 5015	indication	963	Acromegaly	not_genetic	pegvisomant
 1546	indication	963	Acromegaly	not_genetic	lanreotide
@@ -84,6 +126,25 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1527	indication	182	Chromomycosis	not_genetic	ketoconazole
 1513	off-label use	182	Chromomycosis	not_genetic	itraconazole
 2597	off-label use	182	Chromomycosis	not_genetic	terbinafine
+5148	indication	70587	Infant acute respiratory distress syndrome	not_genetic	poractant alfa
+4884	indication	70587	Infant acute respiratory distress syndrome	not_genetic	calfactant
+4750	indication	70587	Infant acute respiratory distress syndrome	not_genetic	cetyl alcohol
+730	indication	70587	Infant acute respiratory distress syndrome	not_genetic	colfosceril palmitate
+4738	indication	70587	Infant acute respiratory distress syndrome	not_genetic	tyloxapol
+1388	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone
+348	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	betamethasone
+4213	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone acetate
+4456	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone succinate
+2726	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone acetonide
+1768	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	methylprednisolone
+2725	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone
+2245	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	prednisolone
+734	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	cortisone acetate
+349	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	betamethasone acetate
+2727	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone diacetate
+824	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	dexamethasone
+4232	indication	70587	Infant acute respiratory distress syndrome	not_genetic	lucinactant
+5108	indication	70587	Infant acute respiratory distress syndrome	not_genetic	beractant
 5133	indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	venetoclax
 4878	indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	idelalisib
 2098	off-label use	67038	B-cell chronic lymphocytic leukemia	not_genetic	pentostatin
@@ -115,6 +176,32 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5212	indication	69078	Liposarcoma	not_genetic	tasonermin
 2825	indication	69078	Liposarcoma	not_genetic	vincristine
 774	indication	69078	Liposarcoma	not_genetic	dactinomycin
+5082	indication	513	Acute lymphoblastic leukemia	not_genetic	pegaspargase
+5070	indication	513	Acute lymphoblastic leukemia	not_genetic	asparaginase
+786	indication	513	Acute lymphoblastic leukemia	not_genetic	daunorubicin
+2253	indication	513	Acute lymphoblastic leukemia	not_genetic	prednisone
+349	indication	513	Acute lymphoblastic leukemia	not_genetic	betamethasone acetate
+2725	indication	513	Acute lymphoblastic leukemia	not_genetic	triamcinolone
+2825	indication	513	Acute lymphoblastic leukemia	not_genetic	vincristine
+2632	off-label use	513	Acute lymphoblastic leukemia	not_genetic	thioguanine
+2245	indication	513	Acute lymphoblastic leukemia	not_genetic	prednisolone
+4213	indication	513	Acute lymphoblastic leukemia	not_genetic	hydrocortisone acetate
+4456	indication	513	Acute lymphoblastic leukemia	not_genetic	hydrocortisone succinate
+1768	indication	513	Acute lymphoblastic leukemia	not_genetic	methylprednisolone
+2726	indication	513	Acute lymphoblastic leukemia	not_genetic	triamcinolone acetonide
+1388	indication	513	Acute lymphoblastic leukemia	not_genetic	hydrocortisone
+1708	indication	513	Acute lymphoblastic leukemia	not_genetic	mercaptopurine
+1751	indication	513	Acute lymphoblastic leukemia	not_genetic	methotrexate
+2727	indication	513	Acute lymphoblastic leukemia	not_genetic	triamcinolone diacetate
+734	indication	513	Acute lymphoblastic leukemia	not_genetic	cortisone acetate
+960	indication	513	Acute lymphoblastic leukemia	not_genetic	doxorubicin
+2590	indication	513	Acute lymphoblastic leukemia	not_genetic	teniposide
+348	indication	513	Acute lymphoblastic leukemia	not_genetic	betamethasone
+691	indication	513	Acute lymphoblastic leukemia	not_genetic	clofarabine
+824	indication	513	Acute lymphoblastic leukemia	not_genetic	dexamethasone
+770	indication	513	Acute lymphoblastic leukemia	not_genetic	cytarabine
+2826	indication	513	Acute lymphoblastic leukemia	not_genetic	vindesine
+5216	indication	513	Acute lymphoblastic leukemia	not_genetic	crisantaspase
 5087	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	denileukin diftitox
 4507	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	halcinonide
 1832	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	mometasone furoate
@@ -155,6 +242,61 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4682	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	panobinostat
 354	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	betamethasone valerate
 351	indication	171901	Primary cutaneous T-cell lymphoma	not_genetic	betamethasone benzoate
+5089	indication	92	Juvenile idiopathic arthritis	not_genetic	abatacept
+4978	indication	92	Juvenile idiopathic arthritis	not_genetic	etanercept
+4904	indication	92	Juvenile idiopathic arthritis	not_genetic	adalimumab
+2397	indication	92	Juvenile idiopathic arthritis	not_genetic	rofecoxib
+607	off-label use	92	Juvenile idiopathic arthritis	not_genetic	chloroquine
+1768	indication	92	Juvenile idiopathic arthritis	not_genetic	methylprednisolone
+2253	indication	92	Juvenile idiopathic arthritis	not_genetic	prednisone
+2013	indication	92	Juvenile idiopathic arthritis	not_genetic	oxaprozin
+348	indication	92	Juvenile idiopathic arthritis	not_genetic	betamethasone
+2245	indication	92	Juvenile idiopathic arthritis	not_genetic	prednisolone
+568	indication	92	Juvenile idiopathic arthritis	not_genetic	celecoxib
+4510	off-label use	92	Juvenile idiopathic arthritis	not_genetic	magnesium salicylate
+2725	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone
+1751	indication	92	Juvenile idiopathic arthritis	not_genetic	methotrexate
+2416	off-label use	92	Juvenile idiopathic arthritis	not_genetic	salicylic acid
+2699	indication	92	Juvenile idiopathic arthritis	not_genetic	tolmetin
+4349	indication	92	Juvenile idiopathic arthritis	not_genetic	aurothioglucose
+1103	indication	92	Juvenile idiopathic arthritis	not_genetic	etodolac
+1676	indication	92	Juvenile idiopathic arthritis	not_genetic	meloxicam
+1883	indication	92	Juvenile idiopathic arthritis	not_genetic	naproxen
+4122	off-label use	92	Juvenile idiopathic arthritis	not_genetic	auranofin
+1395	off-label use	92	Juvenile idiopathic arthritis	not_genetic	hydroxychloroquine
+2500	off-label use	92	Juvenile idiopathic arthritis	not_genetic	sulfadiazine
+1863	off-label use	92	Juvenile idiopathic arthritis	not_genetic	nabumetone
+1407	indication	92	Juvenile idiopathic arthritis	not_genetic	ibuprofen
+2525	indication	92	Juvenile idiopathic arthritis	not_genetic	sulfasalazine
+2727	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone diacetate
+2210	off-label use	92	Juvenile idiopathic arthritis	not_genetic	piroxicam
+734	indication	92	Juvenile idiopathic arthritis	not_genetic	cortisone acetate
+4706	indication	92	Juvenile idiopathic arthritis	not_genetic	sodium aurothiomalate
+4207	indication	92	Juvenile idiopathic arthritis	not_genetic	lithium carbonate
+3851	indication	92	Juvenile idiopathic arthritis	not_genetic	dexibuprofen
+4933	indication	92	Juvenile idiopathic arthritis	not_genetic	tocilizumab
+266	indication	92	Juvenile idiopathic arthritis	not_genetic	azapropazone
+43	indication	92	Juvenile idiopathic arthritis	not_genetic	aceclofenac
+1817	off-label use	92	Juvenile idiopathic arthritis	not_genetic	misoprostol
+2534	indication	92	Juvenile idiopathic arthritis	not_genetic	sulindac
+2013	off-label use	92	Juvenile idiopathic arthritis	not_genetic	oxaprozin
+1650	off-label use	92	Juvenile idiopathic arthritis	not_genetic	meclofenamic acid
+1440	indication	92	Juvenile idiopathic arthritis	not_genetic	indomethacin
+824	indication	92	Juvenile idiopathic arthritis	not_genetic	dexamethasone
+1676	off-label use	92	Juvenile idiopathic arthritis	not_genetic	meloxicam
+4213	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone acetate
+1103	off-label use	92	Juvenile idiopathic arthritis	not_genetic	etodolac
+2699	off-label use	92	Juvenile idiopathic arthritis	not_genetic	tolmetin
+865	indication	92	Juvenile idiopathic arthritis	not_genetic	diclofenac
+349	indication	92	Juvenile idiopathic arthritis	not_genetic	betamethasone acetate
+1528	off-label use	92	Juvenile idiopathic arthritis	not_genetic	ketoprofen
+4456	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone succinate
+2726	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone acetonide
+1388	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone
+4967	indication	92	Juvenile idiopathic arthritis	not_genetic	golimumab
+4968	indication	92	Juvenile idiopathic arthritis	not_genetic	certolizumab pegol
+4974	indication	92	Juvenile idiopathic arthritis	not_genetic	infliximab
+47	indication	92	Juvenile idiopathic arthritis	not_genetic	acemetacin
 5067	indication	29073	Multiple myeloma	not_genetic	ixazomib
 5063	indication	29073	Multiple myeloma	not_genetic	daratumumab
 5072	indication	29073	Multiple myeloma	not_genetic	elotuzumab
@@ -182,6 +324,36 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 826	indication	29073	Multiple myeloma	not_genetic	dexamethasone acetate
 758	indication	29073	Multiple myeloma	not_genetic	cyclophosphamide
 982	indication	827	Stargardt disease	rare_genetic	echothiophate
+72	indication	101998	Rare epilepsy	not_genetic	acetylpheneturide
+1263	indication	101998	Rare epilepsy	not_genetic	aminohydroxybutyric acid
+489	indication	101998	Rare epilepsy	not_genetic	carbamazepine
+2095	indication	101998	Rare epilepsy	not_genetic	pentobarbital
+1540	indication	101998	Rare epilepsy	not_genetic	lamotrigine
+2139	indication	101998	Rare epilepsy	not_genetic	phensuximide
+2751	indication	101998	Rare epilepsy	not_genetic	trimethadione
+184	indication	101998	Rare epilepsy	not_genetic	amobarbital
+1695	indication	101998	Rare epilepsy	not_genetic	mephenytoin
+3827	indication	101998	Rare epilepsy	not_genetic	salacetamide
+852	indication	101998	Rare epilepsy	not_genetic	diazepam
+2428	indication	101998	Rare epilepsy	not_genetic	secobarbital
+2633	indication	101998	Rare epilepsy	not_genetic	thiopental
+2134	indication	101998	Rare epilepsy	not_genetic	phenobarbital
+2267	indication	101998	Rare epilepsy	not_genetic	primidone
+2114	indication	101998	Rare epilepsy	not_genetic	phenacemide
+2134	off-label use	101998	Rare epilepsy	not_genetic	phenobarbital
+2152	indication	101998	Rare epilepsy	not_genetic	phenytoin
+1696	indication	101998	Rare epilepsy	not_genetic	methylphenobarbital
+1247	indication	101998	Rare epilepsy	not_genetic	fosphenytoin
+1740	indication	101998	Rare epilepsy	not_genetic	metharbital
+2803	off-label use	101998	Rare epilepsy	not_genetic	valproic acid
+56	off-label use	101998	Rare epilepsy	not_genetic	acetazolamide
+2059	indication	101998	Rare epilepsy	not_genetic	paramethadione
+1606	off-label use	101998	Rare epilepsy	not_genetic	lorazepam
+1758	indication	101998	Rare epilepsy	not_genetic	methsuximide
+1140	indication	101998	Rare epilepsy	not_genetic	felbamate
+2803	indication	101998	Rare epilepsy	not_genetic	valproic acid
+1072	indication	101998	Rare epilepsy	not_genetic	ethadione
+5053	indication	101998	Rare epilepsy	not_genetic	amino(diphenylhydantoin) valeric acid
 5048	indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	pitolisant
 196	indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	amfetaminil
 4566	indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	sodium oxybate
@@ -195,9 +367,17 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1209	off-label use	2073	Narcolepsy-cataplexy syndrome	not_genetic	fluoxetine
 2820	indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	viloxazine
 5049	indication	436	Hypophosphatasia	rare_genetic	asfotase alfa
+5000	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	evolocumab
+4747	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	mipomersen
+1125	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	ezetimibe
+2406	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	rosuvastatin
+257	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	atorvastatin
+2445	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	simvastatin
+4721	indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	lomitapide
 5017	indication	208650	Cryopyrin-associated periodic syndrome	rare_genetic	anakinra
 4952	indication	208650	Cryopyrin-associated periodic syndrome	rare_genetic	canakinumab
 5105	indication	208650	Cryopyrin-associated periodic syndrome	rare_genetic	rilonacept
+5017	indication	1451	CINCA syndrome	rare_genetic	anakinra
 5018	indication	324	Fabry disease	rare_genetic	agalsidase beta
 5021	indication	324	Fabry disease	rare_genetic	agalsidase alfa
 5110	indication	324	Fabry disease	rare_genetic	migalastat
@@ -209,6 +389,116 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5159	indication	98878	Hemophilia A	rare_genetic	eptacog alfa (activated)
 5178	indication	98878	Hemophilia A	rare_genetic	efmoroctocog alfa
 5228	indication	98878	Hemophilia A	rare_genetic	simoctocog alfa
+5013	indication	181376	Rare diabetes mellitus type 2	not_genetic	trelagliptin
+4901	indication	181376	Rare diabetes mellitus type 2	not_genetic	insulin glargine
+4885	indication	181376	Rare diabetes mellitus type 2	not_genetic	dulaglutide
+4833	indication	181376	Rare diabetes mellitus type 2	not_genetic	gemigliptin
+4830	indication	181376	Rare diabetes mellitus type 2	not_genetic	empagliflozin
+1299	indication	181376	Rare diabetes mellitus type 2	not_genetic	gliclazide
+1298	indication	181376	Rare diabetes mellitus type 2	not_genetic	glibornuride
+4340	indication	181376	Rare diabetes mellitus type 2	not_genetic	alogliptin
+4758	indication	181376	Rare diabetes mellitus type 2	not_genetic	canagliflozin
+4304	indication	181376	Rare diabetes mellitus type 2	not_genetic	dapagliflozin
+3642	indication	181376	Rare diabetes mellitus type 2	not_genetic	vildagliptin
+1300	indication	181376	Rare diabetes mellitus type 2	not_genetic	glimepiride
+2179	indication	181376	Rare diabetes mellitus type 2	not_genetic	pioglitazone
+1886	indication	181376	Rare diabetes mellitus type 2	not_genetic	nateglinide
+4175	indication	181376	Rare diabetes mellitus type 2	not_genetic	linagliptin
+1806	indication	181376	Rare diabetes mellitus type 2	not_genetic	miglitol
+2694	indication	181376	Rare diabetes mellitus type 2	not_genetic	tolazamide
+4114	indication	181376	Rare diabetes mellitus type 2	not_genetic	saxagliptin
+57	indication	181376	Rare diabetes mellitus type 2	not_genetic	acetohexamide
+4164	indication	181376	Rare diabetes mellitus type 2	not_genetic	liraglutide
+1725	indication	181376	Rare diabetes mellitus type 2	not_genetic	metformin
+39	indication	181376	Rare diabetes mellitus type 2	not_genetic	acarbose
+2448	indication	181376	Rare diabetes mellitus type 2	not_genetic	sitagliptin
+1314	indication	181376	Rare diabetes mellitus type 2	not_genetic	glibenclamide
+2366	indication	181376	Rare diabetes mellitus type 2	not_genetic	repaglinide
+622	indication	181376	Rare diabetes mellitus type 2	not_genetic	chlorpropamide
+1301	indication	181376	Rare diabetes mellitus type 2	not_genetic	glipizide
+2767	indication	181376	Rare diabetes mellitus type 2	not_genetic	troglitazone
+2696	indication	181376	Rare diabetes mellitus type 2	not_genetic	tolbutamide
+4815	indication	181376	Rare diabetes mellitus type 2	not_genetic	lixisenatide
+4890	indication	181376	Rare diabetes mellitus type 2	not_genetic	ipragliflozin
+4891	indication	181376	Rare diabetes mellitus type 2	not_genetic	luseogliflozin
+4892	indication	181376	Rare diabetes mellitus type 2	not_genetic	tofogliflozin
+4895	indication	181376	Rare diabetes mellitus type 2	not_genetic	teneligliptin
+4896	indication	181376	Rare diabetes mellitus type 2	not_genetic	anagliptin
+2845	indication	181376	Rare diabetes mellitus type 2	not_genetic	voglibose
+1818	indication	181376	Rare diabetes mellitus type 2	not_genetic	mitiglinide
+505	indication	181376	Rare diabetes mellitus type 2	not_genetic	carbutamide
+1305	indication	181376	Rare diabetes mellitus type 2	not_genetic	glisoxepide
+1302	indication	181376	Rare diabetes mellitus type 2	not_genetic	gliquidone
+4927	indication	181376	Rare diabetes mellitus type 2	not_genetic	albiglutide
+5002	indication	181376	Rare diabetes mellitus type 2	not_genetic	insulin lispro
+5003	indication	181376	Rare diabetes mellitus type 2	not_genetic	insulin human
+423	indication	181376	Rare diabetes mellitus type 2	not_genetic	buformin
+1321	indication	181376	Rare diabetes mellitus type 2	not_genetic	glymidine
+5054	indication	181376	Rare diabetes mellitus type 2	not_genetic	omarigliptin
+5078	indication	181376	Rare diabetes mellitus type 2	not_genetic	lobeglitazone
+5013	indication	101952	Rare diabetes mellitus	not_genetic	trelagliptin
+4901	indication	101952	Rare diabetes mellitus	not_genetic	insulin glargine
+4885	indication	101952	Rare diabetes mellitus	not_genetic	dulaglutide
+4833	indication	101952	Rare diabetes mellitus	not_genetic	gemigliptin
+4830	indication	101952	Rare diabetes mellitus	not_genetic	empagliflozin
+1299	indication	101952	Rare diabetes mellitus	not_genetic	gliclazide
+1298	indication	101952	Rare diabetes mellitus	not_genetic	glibornuride
+4340	indication	101952	Rare diabetes mellitus	not_genetic	alogliptin
+4758	indication	101952	Rare diabetes mellitus	not_genetic	canagliflozin
+4304	indication	101952	Rare diabetes mellitus	not_genetic	dapagliflozin
+3642	indication	101952	Rare diabetes mellitus	not_genetic	vildagliptin
+1300	indication	101952	Rare diabetes mellitus	not_genetic	glimepiride
+2179	indication	101952	Rare diabetes mellitus	not_genetic	pioglitazone
+1886	indication	101952	Rare diabetes mellitus	not_genetic	nateglinide
+4175	indication	101952	Rare diabetes mellitus	not_genetic	linagliptin
+1806	indication	101952	Rare diabetes mellitus	not_genetic	miglitol
+2694	indication	101952	Rare diabetes mellitus	not_genetic	tolazamide
+4114	indication	101952	Rare diabetes mellitus	not_genetic	saxagliptin
+57	indication	101952	Rare diabetes mellitus	not_genetic	acetohexamide
+4164	indication	101952	Rare diabetes mellitus	not_genetic	liraglutide
+1725	indication	101952	Rare diabetes mellitus	not_genetic	metformin
+39	indication	101952	Rare diabetes mellitus	not_genetic	acarbose
+2448	indication	101952	Rare diabetes mellitus	not_genetic	sitagliptin
+1314	indication	101952	Rare diabetes mellitus	not_genetic	glibenclamide
+2366	indication	101952	Rare diabetes mellitus	not_genetic	repaglinide
+622	indication	101952	Rare diabetes mellitus	not_genetic	chlorpropamide
+1301	indication	101952	Rare diabetes mellitus	not_genetic	glipizide
+2767	indication	101952	Rare diabetes mellitus	not_genetic	troglitazone
+2696	indication	101952	Rare diabetes mellitus	not_genetic	tolbutamide
+4815	indication	101952	Rare diabetes mellitus	not_genetic	lixisenatide
+4890	indication	101952	Rare diabetes mellitus	not_genetic	ipragliflozin
+4891	indication	101952	Rare diabetes mellitus	not_genetic	luseogliflozin
+4892	indication	101952	Rare diabetes mellitus	not_genetic	tofogliflozin
+4895	indication	101952	Rare diabetes mellitus	not_genetic	teneligliptin
+4896	indication	101952	Rare diabetes mellitus	not_genetic	anagliptin
+2845	indication	101952	Rare diabetes mellitus	not_genetic	voglibose
+1818	indication	101952	Rare diabetes mellitus	not_genetic	mitiglinide
+505	indication	101952	Rare diabetes mellitus	not_genetic	carbutamide
+1305	indication	101952	Rare diabetes mellitus	not_genetic	glisoxepide
+1302	indication	101952	Rare diabetes mellitus	not_genetic	gliquidone
+4927	indication	101952	Rare diabetes mellitus	not_genetic	albiglutide
+5002	indication	101952	Rare diabetes mellitus	not_genetic	insulin lispro
+5003	indication	101952	Rare diabetes mellitus	not_genetic	insulin human
+423	indication	101952	Rare diabetes mellitus	not_genetic	buformin
+1321	indication	101952	Rare diabetes mellitus	not_genetic	glymidine
+5054	indication	101952	Rare diabetes mellitus	not_genetic	omarigliptin
+5078	indication	101952	Rare diabetes mellitus	not_genetic	lobeglitazone
+4960	indication	101952	Rare diabetes mellitus	not_genetic	insulin degludec
+4981	indication	101952	Rare diabetes mellitus	not_genetic	insulin aspart
+4985	indication	101952	Rare diabetes mellitus	not_genetic	insulin detemir
+5057	indication	101952	Rare diabetes mellitus	not_genetic	insulin glulisine
+1999	indication	68402	Rare parkinsonian disorder	not_genetic	orphenadrine
+2105	indication	68402	Rare parkinsonian disorder	not_genetic	pergolide
+1567	indication	68402	Rare parkinsonian disorder	not_genetic	levodopa
+374	indication	68402	Rare parkinsonian disorder	not_genetic	biperiden
+496	indication	68402	Rare parkinsonian disorder	not_genetic	carbidopa
+144	indication	68402	Rare parkinsonian disorder	not_genetic	amantadine
+2276	indication	68402	Rare parkinsonian disorder	not_genetic	procyclidine
+2745	indication	68402	Rare parkinsonian disorder	not_genetic	trihexyphenidyl
+333	indication	68402	Rare parkinsonian disorder	not_genetic	benzatropine
+1780	indication	68402	Rare parkinsonian disorder	not_genetic	metixene
+2202	indication	68402	Rare parkinsonian disorder	not_genetic	piribedil
+1673	indication	68402	Rare parkinsonian disorder	not_genetic	melevodopa
 4848	indication	739	Prader-Willi syndrome	rare_genetic	somatropin
 495	indication	739	Prader-Willi syndrome	rare_genetic	carbetocin
 2607	off-label use	739	Prader-Willi syndrome	rare_genetic	testosterone
@@ -229,8 +519,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2342	indication	881	Turner syndrome	rare_genetic	quinestrol
 1962	indication	881	Turner syndrome	rare_genetic	norethisterone
 2608	indication	881	Turner syndrome	rare_genetic	testosterone undecanoate
+4848	indication	99226	Monosomy X	rare_genetic	somatropin
+3927	off-label use	99226	Monosomy X	rare_genetic	androstanolone
+2011	off-label use	99226	Monosomy X	rare_genetic	oxandrolone
+1064	indication	99226	Monosomy X	rare_genetic	estradiol valerate
+1057	indication	99226	Monosomy X	rare_genetic	estradiol
+1059	indication	99226	Monosomy X	rare_genetic	estradiol cypionate
+2342	indication	99226	Monosomy X	rare_genetic	quinestrol
+1962	indication	99226	Monosomy X	rare_genetic	norethisterone
+2608	indication	99226	Monosomy X	rare_genetic	testosterone undecanoate
 4997	indication	579	Mucopolysaccharidosis type 1	rare_genetic	laronidase
 4999	indication	582	Mucopolysaccharidosis type 4	rare_genetic	elosulfase alfa
+4999	indication	309297	Mucopolysaccharidosis type 4A	rare_genetic	elosulfase alfa
 4987	indication	2686	Cyclic neutropenia	rare_genetic	filgrastim
 4976	indication	90281	Discoid lupus erythematosus	not_genetic	triamcinolone hexacetonide
 1217	indication	90281	Discoid lupus erythematosus	not_genetic	fludroxycortide
@@ -264,6 +564,14 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1832	indication	90281	Discoid lupus erythematosus	not_genetic	mometasone furoate
 354	indication	90281	Discoid lupus erythematosus	not_genetic	betamethasone valerate
 351	indication	90281	Discoid lupus erythematosus	not_genetic	betamethasone benzoate
+4976	indication	254367	Rare lichen planus	not_genetic	triamcinolone hexacetonide
+30	off-label use	254367	Rare lichen planus	not_genetic	methoxsalen
+2727	indication	254367	Rare lichen planus	not_genetic	triamcinolone diacetate
+2726	indication	254367	Rare lichen planus	not_genetic	triamcinolone acetonide
+2725	indication	254367	Rare lichen planus	not_genetic	triamcinolone
+78	off-label use	254367	Rare lichen planus	not_genetic	acitretin
+2616	off-label use	254367	Rare lichen planus	not_genetic	thalidomide
+1116	off-label use	254367	Rare lichen planus	not_genetic	etretinate
 4977	indication	160	Castleman disease	not_genetic	siltuximab
 4933	indication	160	Castleman disease	not_genetic	tocilizumab
 4190	indication	160	Castleman disease	not_genetic	ruxolitinib
@@ -298,6 +606,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 854	indication	913	Zollinger-Ellison syndrome	not_genetic	diazoxide
 1980	off-label use	913	Zollinger-Ellison syndrome	not_genetic	octreotide
 4918	indication	580	Mucopolysaccharidosis type 2	rare_genetic	idursulfase
+343	indication	182090	Pulmonary arterial hypertension	not_genetic	beraprost
+3548	indication	182090	Pulmonary arterial hypertension	not_genetic	sitaxentan
+4807	indication	182090	Pulmonary arterial hypertension	not_genetic	riociguat
+4809	indication	182090	Pulmonary arterial hypertension	not_genetic	macitentan
+1034	indication	182090	Pulmonary arterial hypertension	not_genetic	epoprostenol
+2441	indication	182090	Pulmonary arterial hypertension	not_genetic	sildenafil
+1422	indication	182090	Pulmonary arterial hypertension	not_genetic	iloprost
+4337	indication	182090	Pulmonary arterial hypertension	not_genetic	ambrisentan
+392	indication	182090	Pulmonary arterial hypertension	not_genetic	bosentan
+2720	indication	182090	Pulmonary arterial hypertension	not_genetic	treprostinil
+5077	indication	182090	Pulmonary arterial hypertension	not_genetic	selexipag
+2601	indication	182090	Pulmonary arterial hypertension	not_genetic	terguride
 4190	indication	729	Polycythemia vera	not_genetic	ruxolitinib
 1647	indication	729	Polycythemia vera	not_genetic	mechlorethamine
 2795	indication	729	Polycythemia vera	not_genetic	uracil mustard
@@ -305,6 +625,11 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2272	off-label use	729	Polycythemia vera	not_genetic	procarbazine
 1708	off-label use	729	Polycythemia vera	not_genetic	mercaptopurine
 5036	indication	729	Polycythemia vera	not_genetic	sodium phosphate (32P)
+4901	indication	181371	Rare diabetes mellitus type 1	not_genetic	insulin glargine
+5002	indication	181371	Rare diabetes mellitus type 1	not_genetic	insulin lispro
+5003	indication	181371	Rare diabetes mellitus type 1	not_genetic	insulin human
+4903	indication	2032	Idiopathic pulmonary fibrosis	not_genetic	nintedanib
+4224	indication	2032	Idiopathic pulmonary fibrosis	not_genetic	pirfenidone
 4903	indication	79126	Acute interstitial pneumonia	not_genetic	nintedanib
 4224	indication	79126	Acute interstitial pneumonia	not_genetic	pirfenidone
 322	indication	3386	American trypanosomiasis	not_genetic	benznidazole
@@ -318,10 +643,50 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1810	indication	507	Leishmaniasis	not_genetic	miltefosine
 1187	off-label use	507	Leishmaniasis	not_genetic	fluconazole
 2090	off-label use	507	Leishmaniasis	not_genetic	pentamidine
+2588	indication	290849	Rare head and neck tumor	not_genetic	temoporfin
 4834	indication	355	Gaucher disease	rare_genetic	eliglustat
 2845	indication	355	Gaucher disease	rare_genetic	voglibose
 1807	indication	355	Gaucher disease	rare_genetic	miglustat
 4932	indication	355	Gaucher disease	rare_genetic	imiglucerase
+1917	indication	181422	Rare hyperlipidemia	rare_genetic	nicomol
+362	indication	181422	Rare hyperlipidemia	rare_genetic	bezafibrate
+1921	indication	181422	Rare hyperlipidemia	rare_genetic	nicotinyl alcohol
+1612	indication	181422	Rare hyperlipidemia	rare_genetic	lovastatin
+727	indication	181422	Rare hyperlipidemia	rare_genetic	cholestyramine
+1920	off-label use	181422	Rare hyperlipidemia	rare_genetic	nicotine
+1152	indication	181422	Rare hyperlipidemia	rare_genetic	fenofibrate
+1445	off-label use	181422	Rare hyperlipidemia	rare_genetic	inositol nicotinate
+1444	off-label use	181422	Rare hyperlipidemia	rare_genetic	inositol
+2269	indication	181422	Rare hyperlipidemia	rare_genetic	probucol
+2646	indication	181422	Rare hyperlipidemia	rare_genetic	levothyroxine
+846	indication	181422	Rare hyperlipidemia	rare_genetic	dextrothyroxine
+694	indication	181422	Rare hyperlipidemia	rare_genetic	clofibrate
+2784	indication	181422	Rare hyperlipidemia	rare_genetic	tyramine
+728	indication	181422	Rare hyperlipidemia	rare_genetic	colestipol
+4505	indication	181422	Rare hyperlipidemia	rare_genetic	choline fenofibrate
+1125	indication	181422	Rare hyperlipidemia	rare_genetic	ezetimibe
+2835	indication	181422	Rare hyperlipidemia	rare_genetic	nicotinic acid
+4851	indication	181422	Rare hyperlipidemia	rare_genetic	colestilan
+4852	indication	181422	Rare hyperlipidemia	rare_genetic	colextran
+76	indication	181422	Rare hyperlipidemia	rare_genetic	acipimox
+658	indication	181422	Rare hyperlipidemia	rare_genetic	ciprofibrate
+1285	indication	181422	Rare hyperlipidemia	rare_genetic	gemfibrozil
+3174	off-label use	181422	Rare hyperlipidemia	rare_genetic	eicosapentaenoic acid
+2406	indication	181422	Rare hyperlipidemia	rare_genetic	rosuvastatin
+2239	indication	181422	Rare hyperlipidemia	rare_genetic	pravastatin
+257	indication	181422	Rare hyperlipidemia	rare_genetic	atorvastatin
+2445	indication	181422	Rare hyperlipidemia	rare_genetic	simvastatin
+1444	indication	181422	Rare hyperlipidemia	rare_genetic	inositol
+1413	indication	181422	Rare hyperlipidemia	rare_genetic	icosapent ethyl
+5126	indication	181422	Rare hyperlipidemia	rare_genetic	omega-3-carboxylic acids
+2214	indication	181422	Rare hyperlipidemia	rare_genetic	pitavastatin
+1229	indication	181422	Rare hyperlipidemia	rare_genetic	fluvastatin
+577	indication	181422	Rare hyperlipidemia	rare_genetic	cerivastatin
+5047	indication	181422	Rare hyperlipidemia	rare_genetic	saroglitazar
+5016	indication	181422	Rare hyperlipidemia	rare_genetic	alirocumab
+5000	indication	181422	Rare hyperlipidemia	rare_genetic	evolocumab
+4326	indication	181422	Rare hyperlipidemia	rare_genetic	laropiprant
+5172	indication	181422	Rare hyperlipidemia	rare_genetic	alipogene tiparvovec
 4876	indication	86885	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	not_genetic	belinostat
 4119	indication	86885	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	not_genetic	romidepsin
 4117	indication	86885	Primary cutaneous peripheral T-cell lymphoma not otherwise specified	not_genetic	pralatrexate
@@ -331,17 +696,69 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 780	off-label use	98896	Duchenne muscular dystrophy	rare_genetic	dantrolene
 5182	indication	98896	Duchenne muscular dystrophy	rare_genetic	eteplirsen
 793	indication	98896	Duchenne muscular dystrophy	rare_genetic	deflazacort
+600	indication	137820	Rare endometriosis	not_genetic	chlormadinone
+1965	indication	137820	Rare endometriosis	not_genetic	norethynodrel
+779	indication	137820	Rare endometriosis	not_genetic	danazol
+1572	off-label use	137820	Rare endometriosis	not_genetic	levonorgestrel
+1714	indication	137820	Rare endometriosis	not_genetic	mestranol
+4261	off-label use	137820	Rare endometriosis	not_genetic	ferrous fumarate
+2279	indication	137820	Rare endometriosis	not_genetic	progesterone
+1559	indication	137820	Rare endometriosis	not_genetic	leuprorelin
+2713	indication	137820	Rare endometriosis	not_genetic	tranexamic acid
+1659	indication	137820	Rare endometriosis	not_genetic	medroxyprogesterone
+1868	indication	137820	Rare endometriosis	not_genetic	nafarelin
+1327	indication	137820	Rare endometriosis	not_genetic	goserelin
+1963	indication	137820	Rare endometriosis	not_genetic	norethindrone acetate
+1962	indication	137820	Rare endometriosis	not_genetic	norethisterone
 4836	indication	79278	Autosomal erythropoietic protoporphyria	rare_genetic	afamelanotide
+4846	indication	91378	Hereditary angioedema	rare_genetic	ecallantide
+4186	indication	91378	Hereditary angioedema	rare_genetic	icatibant
+2477	indication	91378	Hereditary angioedema	rare_genetic	stanozolol
+5152	indication	91378	Hereditary angioedema	rare_genetic	conestat alfa
+4826	indication	528	Berardinelli-Seip congenital lipodystrophy	rare_genetic	metreleptin
 4826	indication	79086	Acquired generalized lipodystrophy	not_genetic	metreleptin
 4826	indication	79087	Partial acquired lipodystrophy	not_genetic	metreleptin
+4742	indication	213761	Rare cancer of cervix uteri	not_genetic	bleomycin
+4133	off-label use	213761	Rare cancer of cervix uteri	not_genetic	carboplatin
+26	off-label use	213761	Rare cancer of cervix uteri	not_genetic	fluorouracil
+2044	off-label use	213761	Rare cancer of cervix uteri	not_genetic	paclitaxel
+2707	indication	213761	Rare cancer of cervix uteri	not_genetic	topotecan
+4956	indication	213761	Rare cancer of cervix uteri	not_genetic	bevacizumab
+1118	indication	180257	Rare malignant breast tumor	not_genetic	everolimus
+939	indication	180257	Rare malignant breast tumor	not_genetic	docetaxel
+4133	off-label use	180257	Rare malignant breast tumor	not_genetic	carboplatin
+26	off-label use	180257	Rare malignant breast tumor	not_genetic	fluorouracil
+960	indication	180257	Rare malignant breast tumor	not_genetic	doxorubicin
+2044	indication	180257	Rare malignant breast tumor	not_genetic	paclitaxel
+1517	indication	180257	Rare malignant breast tumor	not_genetic	ixabepilone
+1030	indication	180257	Rare malignant breast tumor	not_genetic	epirubicin
+758	indication	180257	Rare malignant breast tumor	not_genetic	cyclophosphamide
+2480	indication	33069	Dravet syndrome	rare_genetic	stiripentol
+4413	indication	181399	Rare hyperthyroidism	rare_genetic	dibromotyrosine
+497	indication	181399	Rare hyperthyroidism	rare_genetic	carbimazole
+4446	off-label use	181399	Rare hyperthyroidism	rare_genetic	iodine
+1745	indication	181399	Rare hyperthyroidism	rare_genetic	thiamazole
+2308	indication	181399	Rare hyperthyroidism	rare_genetic	propylthiouracil
+2640	indication	181399	Rare hyperthyroidism	rare_genetic	thiouracil
+5038	indication	181399	Rare hyperthyroidism	rare_genetic	sodium iodide (131I)
 4807	indication	70591	Chronic thromboembolic pulmonary hypertension	not_genetic	riociguat
 2601	indication	70591	Chronic thromboembolic pulmonary hypertension	not_genetic	terguride
 1807	indication	646	Niemann-Pick disease type C	rare_genetic	miglustat
+4723	indication	416	Primary hyperoxaluria	rare_genetic	succinimide
 4653	indication	795	Rare form of salmonellosis	not_genetic	chloramphenicol succinate
 589	indication	795	Rare form of salmonellosis	not_genetic	chloramphenicol
 2514	off-label use	795	Rare form of salmonellosis	not_genetic	sulfamethoxazole
 2755	off-label use	795	Rare form of salmonellosis	not_genetic	trimethoprim
 198	indication	795	Rare form of salmonellosis	not_genetic	ampicillin
+4653	indication	99745	Typhoid	not_genetic	chloramphenicol succinate
+1981	indication	99745	Typhoid	not_genetic	ofloxacin
+659	indication	99745	Typhoid	not_genetic	ciprofloxacin
+2755	off-label use	99745	Typhoid	not_genetic	trimethoprim
+2514	off-label use	99745	Typhoid	not_genetic	sulfamethoxazole
+589	indication	99745	Typhoid	not_genetic	chloramphenicol
+198	off-label use	99745	Typhoid	not_genetic	ampicillin
+192	off-label use	99745	Typhoid	not_genetic	amoxicillin
+1967	indication	99745	Typhoid	not_genetic	norfloxacin
 4192	indication	69	Amyloidosis	not_genetic	tafamidis
 66	indication	69	Amyloidosis	not_genetic	acetylcysteine
 769	indication	69	Amyloidosis	not_genetic	cysteine
@@ -351,6 +768,49 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4190	indication	98274	Myeloproliferative neoplasm	not_genetic	ruxolitinib
 4188	indication	848	Beta-thalassemia	rare_genetic	deferiprone
 3128	indication	848	Beta-thalassemia	rare_genetic	deferasirox
+4188	indication	220489	Rare hereditary hemochromatosis	rare_genetic	deferiprone
+4326	indication	101953	Rare dyslipidemia	rare_genetic	laropiprant
+76	indication	101953	Rare dyslipidemia	rare_genetic	acipimox
+658	indication	101953	Rare dyslipidemia	rare_genetic	ciprofibrate
+1285	indication	101953	Rare dyslipidemia	rare_genetic	gemfibrozil
+4505	indication	101953	Rare dyslipidemia	rare_genetic	choline fenofibrate
+1612	indication	101953	Rare dyslipidemia	rare_genetic	lovastatin
+1152	indication	101953	Rare dyslipidemia	rare_genetic	fenofibrate
+2835	indication	101953	Rare dyslipidemia	rare_genetic	nicotinic acid
+3174	off-label use	101953	Rare dyslipidemia	rare_genetic	eicosapentaenoic acid
+2406	indication	101953	Rare dyslipidemia	rare_genetic	rosuvastatin
+2239	indication	101953	Rare dyslipidemia	rare_genetic	pravastatin
+257	indication	101953	Rare dyslipidemia	rare_genetic	atorvastatin
+2445	indication	101953	Rare dyslipidemia	rare_genetic	simvastatin
+1444	indication	101953	Rare dyslipidemia	rare_genetic	inositol
+1413	indication	101953	Rare dyslipidemia	rare_genetic	icosapent ethyl
+5126	indication	101953	Rare dyslipidemia	rare_genetic	omega-3-carboxylic acids
+1125	indication	101953	Rare dyslipidemia	rare_genetic	ezetimibe
+2214	indication	101953	Rare dyslipidemia	rare_genetic	pitavastatin
+1229	indication	101953	Rare dyslipidemia	rare_genetic	fluvastatin
+577	indication	101953	Rare dyslipidemia	rare_genetic	cerivastatin
+5047	indication	101953	Rare dyslipidemia	rare_genetic	saroglitazar
+5016	indication	101953	Rare dyslipidemia	rare_genetic	alirocumab
+5000	indication	101953	Rare dyslipidemia	rare_genetic	evolocumab
+1917	indication	101953	Rare dyslipidemia	rare_genetic	nicomol
+362	indication	101953	Rare dyslipidemia	rare_genetic	bezafibrate
+1921	indication	101953	Rare dyslipidemia	rare_genetic	nicotinyl alcohol
+727	indication	101953	Rare dyslipidemia	rare_genetic	cholestyramine
+1920	off-label use	101953	Rare dyslipidemia	rare_genetic	nicotine
+1445	off-label use	101953	Rare dyslipidemia	rare_genetic	inositol nicotinate
+1444	off-label use	101953	Rare dyslipidemia	rare_genetic	inositol
+2269	indication	101953	Rare dyslipidemia	rare_genetic	probucol
+2646	indication	101953	Rare dyslipidemia	rare_genetic	levothyroxine
+846	indication	101953	Rare dyslipidemia	rare_genetic	dextrothyroxine
+694	indication	101953	Rare dyslipidemia	rare_genetic	clofibrate
+2784	indication	101953	Rare dyslipidemia	rare_genetic	tyramine
+728	indication	101953	Rare dyslipidemia	rare_genetic	colestipol
+4851	indication	101953	Rare dyslipidemia	rare_genetic	colestilan
+4852	indication	101953	Rare dyslipidemia	rare_genetic	colextran
+1285	off-label use	101953	Rare dyslipidemia	rare_genetic	gemfibrozil
+2831	off-label use	101953	Rare dyslipidemia	rare_genetic	retinol
+2843	off-label use	101953	Rare dyslipidemia	rare_genetic	phytomenadione
+5172	indication	101953	Rare dyslipidemia	rare_genetic	alipogene tiparvovec
 4330	indication	547	Non-Hodgkin lymphoma	not_genetic	pixantrone
 4742	indication	547	Non-Hodgkin lymphoma	not_genetic	bleomycin
 2795	indication	547	Non-Hodgkin lymphoma	not_genetic	uracil mustard
@@ -385,6 +845,34 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1423	indication	44890	Gastrointestinal stromal tumor	rare_genetic	imatinib
 958	indication	44890	Gastrointestinal stromal tumor	rare_genetic	doxifluridine
 1184	indication	44890	Gastrointestinal stromal tumor	rare_genetic	floxuridine
+4742	indication	98293	Hodgkin lymphoma	not_genetic	bleomycin
+1647	indication	98293	Hodgkin lymphoma	not_genetic	mechlorethamine
+2638	indication	98293	Hodgkin lymphoma	not_genetic	thiotepa
+960	indication	98293	Hodgkin lymphoma	not_genetic	doxorubicin
+1112	off-label use	98293	Hodgkin lymphoma	not_genetic	etoposide
+2725	indication	98293	Hodgkin lymphoma	not_genetic	triamcinolone
+3944	off-label use	98293	Hodgkin lymphoma	not_genetic	etoposide phosphate
+1596	indication	98293	Hodgkin lymphoma	not_genetic	lomustine
+348	indication	98293	Hodgkin lymphoma	not_genetic	betamethasone
+2727	indication	98293	Hodgkin lymphoma	not_genetic	triamcinolone diacetate
+2823	indication	98293	Hodgkin lymphoma	not_genetic	vinblastine
+773	indication	98293	Hodgkin lymphoma	not_genetic	dacarbazine
+2253	indication	98293	Hodgkin lymphoma	not_genetic	prednisone
+1768	indication	98293	Hodgkin lymphoma	not_genetic	methylprednisolone
+824	indication	98293	Hodgkin lymphoma	not_genetic	dexamethasone
+734	indication	98293	Hodgkin lymphoma	not_genetic	cortisone acetate
+2825	indication	98293	Hodgkin lymphoma	not_genetic	vincristine
+1388	indication	98293	Hodgkin lymphoma	not_genetic	hydrocortisone
+4213	indication	98293	Hodgkin lymphoma	not_genetic	hydrocortisone acetate
+4456	indication	98293	Hodgkin lymphoma	not_genetic	hydrocortisone succinate
+2272	indication	98293	Hodgkin lymphoma	not_genetic	procarbazine
+512	indication	98293	Hodgkin lymphoma	not_genetic	carmustine
+588	indication	98293	Hodgkin lymphoma	not_genetic	chlorambucil
+1030	off-label use	98293	Hodgkin lymphoma	not_genetic	epirubicin
+349	indication	98293	Hodgkin lymphoma	not_genetic	betamethasone acetate
+2726	indication	98293	Hodgkin lymphoma	not_genetic	triamcinolone acetonide
+2245	indication	98293	Hodgkin lymphoma	not_genetic	prednisolone
+4964	indication	98293	Hodgkin lymphoma	not_genetic	brentuximab vedotin
 667	off-label use	33226	Waldenström macroglobulinemia	not_genetic	cladribine
 588	off-label use	33226	Waldenström macroglobulinemia	not_genetic	chlorambucil
 1189	off-label use	33226	Waldenström macroglobulinemia	not_genetic	fludarabine phosphate
@@ -392,6 +880,14 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1048	indication	1679	Diphtheria	not_genetic	erythromycin
 4459	indication	1679	Diphtheria	not_genetic	procaine benzylpenicillin
 2082	indication	1679	Diphtheria	not_genetic	benzylpenicillin
+1567	indication	97349	Postencephalitic parkinsonism	not_genetic	levodopa
+403	indication	97349	Postencephalitic parkinsonism	not_genetic	bromocriptine
+333	indication	97349	Postencephalitic parkinsonism	not_genetic	benzatropine
+144	indication	97349	Postencephalitic parkinsonism	not_genetic	amantadine
+2276	indication	97349	Postencephalitic parkinsonism	not_genetic	procyclidine
+374	indication	97349	Postencephalitic parkinsonism	not_genetic	biperiden
+2745	indication	97349	Postencephalitic parkinsonism	not_genetic	trihexyphenidyl
+496	indication	97349	Postencephalitic parkinsonism	not_genetic	carbidopa
 1344	indication	43393	Lambert-Eaton myasthenic syndrome	not_genetic	guanidine
 4336	indication	43393	Lambert-Eaton myasthenic syndrome	not_genetic	amifampridine
 2083	off-label use	91546	Lyme disease	not_genetic	phenoxymethylpenicillin
@@ -405,6 +901,23 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 546	off-label use	91546	Lyme disease	not_genetic	cefotaxime
 564	off-label use	91546	Lyme disease	not_genetic	ceftriaxone
 566	indication	91546	Lyme disease	not_genetic	cefuroxime axetil
+2326	indication	98022	Rare headache	not_genetic	pseudoephedrine
+1336	indication	98022	Rare headache	not_genetic	guaifenesin
+463	indication	98022	Rare headache	not_genetic	caffeine
+2415	indication	98022	Rare headache	not_genetic	salicylamide
+1024	indication	98022	Rare headache	not_genetic	ephedrine
+842	indication	98022	Rare headache	not_genetic	dextromethorphan
+52	indication	98022	Rare headache	not_genetic	paracetamol
+725	indication	98022	Rare headache	not_genetic	codeine
+1883	indication	98022	Rare headache	not_genetic	naproxen
+2146	indication	98022	Rare headache	not_genetic	phenylephrine
+2132	indication	98022	Rare headache	not_genetic	pheniramine
+666	indication	98022	Rare headache	not_genetic	citric acid
+1407	indication	98022	Rare headache	not_genetic	ibuprofen
+74	indication	98022	Rare headache	not_genetic	acetylsalicylic acid
+4510	indication	98022	Rare headache	not_genetic	magnesium salicylate
+4207	indication	98022	Rare headache	not_genetic	lithium carbonate
+3851	indication	98022	Rare headache	not_genetic	dexibuprofen
 2514	off-label use	1304	Brucellosis	not_genetic	sulfamethoxazole
 197	indication	1304	Brucellosis	not_genetic	amphotericin B
 961	indication	1304	Brucellosis	not_genetic	doxycycline
@@ -416,6 +929,47 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2481	indication	1304	Brucellosis	not_genetic	streptomycin
 2611	indication	1304	Brucellosis	not_genetic	tetracycline
 2755	off-label use	1304	Brucellosis	not_genetic	trimethoprim
+2600	off-label use	79384	Rare urticaria	not_genetic	terfenadine
+581	off-label use	79384	Rare urticaria	not_genetic	cetirizine
+1170	off-label use	79384	Rare urticaria	not_genetic	fexofenadine
+616	indication	79384	Rare urticaria	not_genetic	chlorphenamine
+1566	off-label use	79384	Rare urticaria	not_genetic	levocetirizine
+4411	indication	79384	Rare urticaria	not_genetic	dexchlorpheniramine
+1738	indication	79384	Rare urticaria	not_genetic	methapyrilene
+2284	indication	79384	Rare urticaria	not_genetic	promazine
+2076	indication	79384	Rare urticaria	not_genetic	pempidine
+765	indication	79384	Rare urticaria	not_genetic	cyproheptadine
+2132	indication	79384	Rare urticaria	not_genetic	pheniramine
+1605	off-label use	79384	Rare urticaria	not_genetic	loratadine
+1400	indication	79384	Rare urticaria	not_genetic	hydroxyzine
+920	indication	79384	Rare urticaria	not_genetic	diphenylpyraline
+499	indication	79384	Rare urticaria	not_genetic	carbinoxamine
+671	indication	79384	Rare urticaria	not_genetic	clemastine
+2763	indication	79384	Rare urticaria	not_genetic	triprolidine
+268	indication	79384	Rare urticaria	not_genetic	azatadine
+2129	indication	79384	Rare urticaria	not_genetic	phenindamine
+1742	indication	79384	Rare urticaria	not_genetic	methdilazine
+645	off-label use	79384	Rare urticaria	not_genetic	cimetidine
+2331	indication	79384	Rare urticaria	not_genetic	mepyramine
+2150	indication	79384	Rare urticaria	not_genetic	phenyltoloxamine
+2762	indication	79384	Rare urticaria	not_genetic	tripelennamine
+2286	indication	79384	Rare urticaria	not_genetic	promethazine
+408	indication	79384	Rare urticaria	not_genetic	brompheniramine
+962	indication	79384	Rare urticaria	not_genetic	doxylamine
+249	off-label use	79384	Rare urticaria	not_genetic	astemizole
+224	indication	79384	Rare urticaria	not_genetic	antazoline
+2749	indication	79384	Rare urticaria	not_genetic	alimemazine
+1688	indication	79384	Rare urticaria	not_genetic	pecazine
+830	indication	79384	Rare urticaria	not_genetic	dexbrompheniramine
+4353	indication	79384	Rare urticaria	not_genetic	bilastine
+999	indication	79384	Rare urticaria	not_genetic	emedastine
+288	indication	79384	Rare urticaria	not_genetic	bamipine
+3096	indication	101941	Rare biliary tract disease	not_genetic	cholic acid
+1379	indication	101941	Rare biliary tract disease	not_genetic	homatropine
+794	indication	101941	Rare biliary tract disease	not_genetic	dehydrocholic acid
+3909	indication	449266	Pleural empyema	not_genetic	clindamycin phosphate
+2656	indication	449266	Pleural empyema	not_genetic	ticarcillin
+678	indication	449266	Pleural empyema	not_genetic	clindamycin
 780	indication	423	Malignant hyperthermia of anesthesia	rare_genetic	dantrolene
 2041	indication	83311	Rocky Mountain spotted fever	not_genetic	oxytetracycline
 961	indication	83311	Rocky Mountain spotted fever	not_genetic	doxycycline
@@ -464,6 +1018,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1140	indication	2382	Lennox-Gastaut syndrome	rare_genetic	felbamate
 2706	indication	2382	Lennox-Gastaut syndrome	rare_genetic	topiramate
 682	indication	2382	Lennox-Gastaut syndrome	rare_genetic	clobazam
+2620	indication	101944	Rare pulmonary disease	not_genetic	theophylline
+2199	indication	101944	Rare pulmonary disease	not_genetic	pirbuterol
+2621	indication	423717	Cutaneous larva migrans	not_genetic	thiabendazole
 2621	indication	504	Creeping myiasis	not_genetic	thiabendazole
 2245	indication	79098	Sympathetic ophthalmia	not_genetic	prednisolone
 2725	indication	79098	Sympathetic ophthalmia	not_genetic	triamcinolone
@@ -481,6 +1038,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 3909	off-label use	108	Babesiosis	not_genetic	clindamycin phosphate
 258	off-label use	108	Babesiosis	not_genetic	atovaquone
 4523	off-label use	108	Babesiosis	not_genetic	quinine
+734	indication	95409	Acute adrenal insufficiency	not_genetic	cortisone acetate
+2245	indication	95409	Acute adrenal insufficiency	not_genetic	prednisolone
+824	indication	95409	Acute adrenal insufficiency	not_genetic	dexamethasone
+4213	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone acetate
+2727	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone diacetate
+349	indication	95409	Acute adrenal insufficiency	not_genetic	betamethasone acetate
+348	indication	95409	Acute adrenal insufficiency	not_genetic	betamethasone
+2725	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone
+2726	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone acetonide
+1388	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone
+4456	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone succinate
+1768	indication	95409	Acute adrenal insufficiency	not_genetic	methylprednisolone
 824	indication	1656	Dermatitis herpetiformis	not_genetic	dexamethasone
 4456	indication	1656	Dermatitis herpetiformis	not_genetic	hydrocortisone succinate
 734	indication	1656	Dermatitis herpetiformis	not_genetic	cortisone acetate
@@ -497,6 +1066,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2726	indication	1656	Dermatitis herpetiformis	not_genetic	triamcinolone acetonide
 2725	indication	1656	Dermatitis herpetiformis	not_genetic	triamcinolone
 1770	indication	1656	Dermatitis herpetiformis	not_genetic	methylprednisolone acetate
+1417	indication	137586	Herpes simplex virus keratitis	not_genetic	idoxuridine
+2743	indication	137586	Herpes simplex virus keratitis	not_genetic	trifluridine
+2818	indication	137586	Herpes simplex virus keratitis	not_genetic	vidarabine
 1423	indication	2467	Systemic mastocytosis	not_genetic	imatinib
 4477	off-label use	2467	Systemic mastocytosis	not_genetic	sodium citrate
 4520	off-label use	2467	Systemic mastocytosis	not_genetic	potassium hydrogencarbonate
@@ -511,6 +1083,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4522	off-label use	2467	Systemic mastocytosis	not_genetic	carbaldrate
 741	indication	2467	Systemic mastocytosis	not_genetic	cromoglicic acid
 4325	off-label use	2467	Systemic mastocytosis	not_genetic	alum
+2073	indication	50251	Pleural mesothelioma	not_genetic	pemetrexed
 2082	indication	99918	Streptococcal toxic-shock syndrome	not_genetic	benzylpenicillin
 2349	indication	99918	Streptococcal toxic-shock syndrome	not_genetic	quinupristin
 4169	indication	99918	Streptococcal toxic-shock syndrome	not_genetic	ceftaroline fosamil
@@ -565,6 +1138,17 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 348	indication	85138	Addison disease	not_genetic	betamethasone
 2253	indication	85138	Addison disease	not_genetic	prednisone
 1388	indication	85138	Addison disease	not_genetic	hydrocortisone
+2245	indication	101959	Chronic primary adrenal insufficiency	not_genetic	prednisolone
+1768	indication	101959	Chronic primary adrenal insufficiency	not_genetic	methylprednisolone
+734	indication	101959	Chronic primary adrenal insufficiency	not_genetic	cortisone acetate
+824	indication	101959	Chronic primary adrenal insufficiency	not_genetic	dexamethasone
+2727	indication	101959	Chronic primary adrenal insufficiency	not_genetic	triamcinolone diacetate
+4456	indication	101959	Chronic primary adrenal insufficiency	not_genetic	hydrocortisone succinate
+2725	indication	101959	Chronic primary adrenal insufficiency	not_genetic	triamcinolone
+1191	indication	101959	Chronic primary adrenal insufficiency	not_genetic	fludrocortisone acetate
+348	indication	101959	Chronic primary adrenal insufficiency	not_genetic	betamethasone
+2253	indication	101959	Chronic primary adrenal insufficiency	not_genetic	prednisone
+1388	indication	101959	Chronic primary adrenal insufficiency	not_genetic	hydrocortisone
 2722	indication	520	Acute promyelocytic leukemia	not_genetic	tretinoin
 1751	off-label use	520	Acute promyelocytic leukemia	not_genetic	methotrexate
 1708	indication	520	Acute promyelocytic leukemia	not_genetic	mercaptopurine
@@ -613,6 +1197,10 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1187	off-label use	228123	Coccidioidomycosis	not_genetic	fluconazole
 961	indication	83317	Scrub typhus	not_genetic	doxycycline
 1261	indication	83317	Scrub typhus	not_genetic	fusidic acid
+2095	off-label use	238624	Idiopathic intracranial hypertension	not_genetic	pentobarbital
+935	indication	238624	Idiopathic intracranial hypertension	not_genetic	mannitol
+56	off-label use	238624	Idiopathic intracranial hypertension	not_genetic	acetazolamide
+2633	indication	238624	Idiopathic intracranial hypertension	not_genetic	thiopental
 2253	off-label use	767	Polyarteritis nodosa	not_genetic	prednisone
 734	off-label use	767	Polyarteritis nodosa	not_genetic	cortisone acetate
 824	off-label use	767	Polyarteritis nodosa	not_genetic	dexamethasone
@@ -621,6 +1209,14 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2725	off-label use	767	Polyarteritis nodosa	not_genetic	triamcinolone
 348	off-label use	767	Polyarteritis nodosa	not_genetic	betamethasone
 2245	off-label use	767	Polyarteritis nodosa	not_genetic	prednisolone
+2253	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	prednisone
+734	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	cortisone acetate
+824	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	dexamethasone
+1768	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	methylprednisolone
+2727	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	triamcinolone diacetate
+2725	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	triamcinolone
+348	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	betamethasone
+2245	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	prednisolone
 2589	indication	251589	Anaplastic astrocytoma	not_genetic	temozolomide
 512	off-label use	251589	Anaplastic astrocytoma	not_genetic	carmustine
 2825	off-label use	251589	Anaplastic astrocytoma	not_genetic	vincristine
@@ -669,6 +1265,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2253	off-label use	397	Giant cell arteritis	not_genetic	prednisone
 2725	indication	397	Giant cell arteritis	not_genetic	triamcinolone
 734	off-label use	397	Giant cell arteritis	not_genetic	cortisone acetate
+2840	indication	181405	Rare hypoparathyroidism	not_genetic	colecalciferol
+2841	indication	181405	Rare hypoparathyroidism	not_genetic	dihydrotachysterol
+466	indication	181405	Rare hypoparathyroidism	not_genetic	calcitriol
+2838	indication	181405	Rare hypoparathyroidism	not_genetic	ergocalciferol
+4936	indication	181405	Rare hypoparathyroidism	not_genetic	parathyroid hormone
+130	indication	181405	Rare hypoparathyroidism	not_genetic	alfacalcidol
+4348	indication	181405	Rare hypoparathyroidism	not_genetic	calcium gluconate
+4287	indication	181405	Rare hypoparathyroidism	not_genetic	calcium acetate
+4201	indication	181405	Rare hypoparathyroidism	not_genetic	calcium chloride
+4434	indication	181405	Rare hypoparathyroidism	not_genetic	calcium glycerylphosphate
+4383	indication	181405	Rare hypoparathyroidism	not_genetic	calcium lactate
+4433	indication	181405	Rare hypoparathyroidism	not_genetic	calcium glucoheptonate
 2350	indication	276161	Multiple endocrine neoplasia	rare_genetic	rabeprazole
 4244	off-label use	276161	Multiple endocrine neoplasia	rare_genetic	magnesium hydroxide
 4520	off-label use	276161	Multiple endocrine neoplasia	rare_genetic	potassium hydrogencarbonate
@@ -682,6 +1290,19 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 645	indication	276161	Multiple endocrine neoplasia	rare_genetic	cimetidine
 2054	indication	276161	Multiple endocrine neoplasia	rare_genetic	pantoprazole
 4325	off-label use	276161	Multiple endocrine neoplasia	rare_genetic	alum
+2350	indication	100094	Multiple polyglandular tumor	rare_genetic	rabeprazole
+4244	off-label use	100094	Multiple polyglandular tumor	rare_genetic	magnesium hydroxide
+4520	off-label use	100094	Multiple polyglandular tumor	rare_genetic	potassium hydrogencarbonate
+4341	off-label use	100094	Multiple polyglandular tumor	rare_genetic	almasilate
+4288	off-label use	100094	Multiple polyglandular tumor	rare_genetic	magnesium carbonate
+1955	off-label use	100094	Multiple polyglandular tumor	rare_genetic	nizatidine
+4513	off-label use	100094	Multiple polyglandular tumor	rare_genetic	magnesium silicate
+4477	off-label use	100094	Multiple polyglandular tumor	rare_genetic	sodium citrate
+4284	off-label use	100094	Multiple polyglandular tumor	rare_genetic	silicon dioxide
+4522	off-label use	100094	Multiple polyglandular tumor	rare_genetic	carbaldrate
+645	indication	100094	Multiple polyglandular tumor	rare_genetic	cimetidine
+2054	indication	100094	Multiple polyglandular tumor	rare_genetic	pantoprazole
+4325	off-label use	100094	Multiple polyglandular tumor	rare_genetic	alum
 734	off-label use	3451	West syndrome	rare_genetic	cortisone acetate
 4516	off-label use	3451	West syndrome	rare_genetic	tetracosactide
 2253	off-label use	3451	West syndrome	rare_genetic	prednisone
@@ -693,6 +1314,24 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2725	off-label use	3451	West syndrome	rare_genetic	triamcinolone
 2245	off-label use	3451	West syndrome	rare_genetic	prednisolone
 4931	indication	3451	West syndrome	rare_genetic	corticotropin
+1261	off-label use	391673	Necrotizing enterocolitis	not_genetic	fusidic acid
+4265	off-label use	391673	Necrotizing enterocolitis	not_genetic	gentamicin
+198	off-label use	391673	Necrotizing enterocolitis	not_genetic	ampicillin
+157	off-label use	391673	Necrotizing enterocolitis	not_genetic	amikacin
+2726	indication	104012	Rare inflammatory bowel disease	not_genetic	triamcinolone acetonide
+348	indication	104012	Rare inflammatory bowel disease	not_genetic	betamethasone
+1388	indication	104012	Rare inflammatory bowel disease	not_genetic	hydrocortisone
+734	indication	104012	Rare inflammatory bowel disease	not_genetic	cortisone acetate
+2725	indication	104012	Rare inflammatory bowel disease	not_genetic	triamcinolone
+824	indication	104012	Rare inflammatory bowel disease	not_genetic	dexamethasone
+2245	indication	104012	Rare inflammatory bowel disease	not_genetic	prednisolone
+349	indication	104012	Rare inflammatory bowel disease	not_genetic	betamethasone acetate
+4456	indication	104012	Rare inflammatory bowel disease	not_genetic	hydrocortisone succinate
+4213	indication	104012	Rare inflammatory bowel disease	not_genetic	hydrocortisone acetate
+2727	indication	104012	Rare inflammatory bowel disease	not_genetic	triamcinolone diacetate
+2253	indication	104012	Rare inflammatory bowel disease	not_genetic	prednisone
+1768	indication	104012	Rare inflammatory bowel disease	not_genetic	methylprednisolone
+741	off-label use	104012	Rare inflammatory bowel disease	not_genetic	cromoglicic acid
 2825	indication	780	Rhabdomyosarcoma	not_genetic	vincristine
 774	indication	780	Rhabdomyosarcoma	not_genetic	dactinomycin
 5183	indication	780	Rhabdomyosarcoma	not_genetic	olaratumab
@@ -714,7 +1353,12 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2081	indication	905	Wilson disease	rare_genetic	penicillamine
 4269	indication	905	Wilson disease	rare_genetic	zinc acetate
 3103	off-label use	470	Lysinuric protein intolerance	rare_genetic	citrulline
+1510	indication	68362	Rare vascular disease	not_genetic	isoxsuprine
+1976	indication	68362	Rare vascular disease	not_genetic	buphenine
+2695	indication	68362	Rare vascular disease	not_genetic	tolazoline
 2082	indication	1267	Botulism	not_genetic	benzylpenicillin
+24	indication	147	Carbamoyl-phosphate synthetase 1 deficiency	rare_genetic	phenylbutanoic acid
+3103	off-label use	147	Carbamoyl-phosphate synthetase 1 deficiency	rare_genetic	citrulline
 2082	off-label use	91547	Relapsing fever	not_genetic	benzylpenicillin
 2611	indication	91547	Relapsing fever	not_genetic	tetracycline
 197	indication	91547	Relapsing fever	not_genetic	amphotericin B
@@ -742,6 +1386,11 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 3972	indication	2737	Onchocerciasis	not_genetic	ivermectin
 873	indication	2737	Onchocerciasis	not_genetic	diethylcarbamazine
 2373	off-label use	99824	Lassa fever	not_genetic	ribavirin
+2607	indication	101957	Pituitary deficiency	rare_genetic	testosterone
+4848	indication	101957	Pituitary deficiency	rare_genetic	somatropin
+2433	indication	101957	Pituitary deficiency	rare_genetic	sermorelin
+5042	indication	101957	Pituitary deficiency	rare_genetic	somatrem
+2608	indication	101957	Pituitary deficiency	rare_genetic	testosterone undecanoate
 668	off-label use	247257	Inhalational anthrax	not_genetic	clarithromycin
 1709	off-label use	247257	Inhalational anthrax	not_genetic	meropenem
 198	off-label use	247257	Inhalational anthrax	not_genetic	ampicillin
@@ -800,6 +1449,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2611	indication	781	Q fever	not_genetic	tetracycline
 1395	off-label use	781	Q fever	not_genetic	hydroxychloroquine
 607	off-label use	781	Q fever	not_genetic	chloroquine
+1112	indication	70573	Small cell lung cancer	not_genetic	etoposide
+1482	off-label use	70573	Small cell lung cancer	not_genetic	irinotecan
+1283	off-label use	70573	Small cell lung cancer	not_genetic	gemcitabine
+2825	off-label use	70573	Small cell lung cancer	not_genetic	vincristine
+2044	off-label use	70573	Small cell lung cancer	not_genetic	paclitaxel
+1421	off-label use	70573	Small cell lung cancer	not_genetic	ifosfamide
+960	indication	70573	Small cell lung cancer	not_genetic	doxorubicin
+939	off-label use	70573	Small cell lung cancer	not_genetic	docetaxel
+3944	indication	70573	Small cell lung cancer	not_genetic	etoposide phosphate
+2707	indication	70573	Small cell lung cancer	not_genetic	topotecan
+2827	off-label use	70573	Small cell lung cancer	not_genetic	vinorelbine
+4133	off-label use	70573	Small cell lung cancer	not_genetic	carboplatin
 1967	indication	810	Shigellosis	not_genetic	norfloxacin
 2514	indication	810	Shigellosis	not_genetic	sulfamethoxazole
 1981	indication	810	Shigellosis	not_genetic	ofloxacin
@@ -807,6 +1468,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 198	indication	810	Shigellosis	not_genetic	ampicillin
 659	indication	810	Shigellosis	not_genetic	ciprofloxacin
 2512	indication	810	Shigellosis	not_genetic	sulfamethizole
+589	indication	102021	Rickettsial disease	not_genetic	chloramphenicol
+1261	indication	102021	Rickettsial disease	not_genetic	fusidic acid
+961	indication	102021	Rickettsial disease	not_genetic	doxycycline
 2607	off-label use	648	Noonan syndrome	rare_genetic	testosterone
 1210	indication	648	Noonan syndrome	rare_genetic	fluoxymesterone
 3356	off-label use	648	Noonan syndrome	rare_genetic	methyltestosterone
@@ -826,6 +1490,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 734	indication	863	Trichinellosis	not_genetic	cortisone acetate
 1768	indication	863	Trichinellosis	not_genetic	methylprednisolone
 4456	indication	863	Trichinellosis	not_genetic	hydrocortisone succinate
+774	indication	254685	Gestational trophoblastic disease	not_genetic	dactinomycin
+2823	indication	254685	Gestational trophoblastic disease	not_genetic	vinblastine
+1751	indication	254685	Gestational trophoblastic disease	not_genetic	methotrexate
 774	indication	59305	Gestational trophoblastic neoplasm	rare_genetic	dactinomycin
 2823	indication	59305	Gestational trophoblastic neoplasm	rare_genetic	vinblastine
 1751	indication	59305	Gestational trophoblastic neoplasm	rare_genetic	methotrexate
@@ -849,6 +1516,30 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2245	indication	418	Congenital adrenal hyperplasia	rare_genetic	prednisolone
 1770	indication	418	Congenital adrenal hyperplasia	rare_genetic	methylprednisolone acetate
 3096	indication	418	Congenital adrenal hyperplasia	rare_genetic	cholic acid
+1208	indication	280886	Anterior uveitis	not_genetic	fluorometholone
+1662	indication	280886	Anterior uveitis	not_genetic	medrysone
+824	indication	280886	Anterior uveitis	not_genetic	dexamethasone
+3142	off-label use	280886	Anterior uveitis	not_genetic	difluprednate
+1388	indication	280886	Anterior uveitis	not_genetic	hydrocortisone
+2245	indication	280886	Anterior uveitis	not_genetic	prednisolone
+4647	indication	280886	Anterior uveitis	not_genetic	fluorometholone acetate
+734	indication	280886	Anterior uveitis	not_genetic	cortisone acetate
+2247	indication	280886	Anterior uveitis	not_genetic	prednisolone acetate
+965	indication	280886	Anterior uveitis	not_genetic	drostanolone propionate
+2424	indication	280886	Anterior uveitis	not_genetic	scopolamine
+1611	indication	280886	Anterior uveitis	not_genetic	loteprednol etabonate
+2497	indication	280886	Anterior uveitis	not_genetic	sulfacetamide
+4451	indication	280886	Anterior uveitis	not_genetic	prednisolone sodium phosphate
+2684	indication	280886	Anterior uveitis	not_genetic	tobramycin
+1261	indication	280886	Anterior uveitis	not_genetic	fusidic acid
+2726	indication	280886	Anterior uveitis	not_genetic	triamcinolone acetonide
+4246	indication	280886	Anterior uveitis	not_genetic	Polymyxin B
+2725	indication	280886	Anterior uveitis	not_genetic	triamcinolone
+1379	indication	280886	Anterior uveitis	not_genetic	homatropine
+2384	indication	280886	Anterior uveitis	not_genetic	rimexolone
+757	off-label use	280886	Anterior uveitis	not_genetic	cyclopentolate
+4247	indication	280886	Anterior uveitis	not_genetic	neomycin
+3017	indication	280886	Anterior uveitis	not_genetic	benzalkonium
 1813	indication	533	Listeriosis	not_genetic	minocycline
 198	off-label use	533	Listeriosis	not_genetic	ampicillin
 1261	indication	533	Listeriosis	not_genetic	fusidic acid
@@ -894,6 +1585,15 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1751	indication	543	Burkitt lymphoma	not_genetic	methotrexate
 960	indication	543	Burkitt lymphoma	not_genetic	doxorubicin
 824	indication	543	Burkitt lymphoma	not_genetic	dexamethasone
+1421	off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	ifosfamide
+770	off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	cytarabine
+1112	off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	etoposide
+3944	off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	etoposide phosphate
+2825	indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	vincristine
+1711	off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	mesna
+1751	indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	methotrexate
+960	indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	doxorubicin
+824	indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	dexamethasone
 1709	off-label use	31202	Melioidosis	not_genetic	meropenem
 640	off-label use	31202	Melioidosis	not_genetic	cilastatin
 1426	off-label use	31202	Melioidosis	not_genetic	imipenem
@@ -946,6 +1646,19 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1920	indication	97352	Pellagra	not_genetic	nicotine
 1445	indication	97352	Pellagra	not_genetic	inositol nicotinate
 1921	indication	97352	Pellagra	not_genetic	nicotinyl alcohol
+2253	indication	133	Chronic beryllium disease	not_genetic	prednisone
+1768	indication	133	Chronic beryllium disease	not_genetic	methylprednisolone
+2245	indication	133	Chronic beryllium disease	not_genetic	prednisolone
+4213	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone acetate
+2727	indication	133	Chronic beryllium disease	not_genetic	triamcinolone diacetate
+824	indication	133	Chronic beryllium disease	not_genetic	dexamethasone
+734	indication	133	Chronic beryllium disease	not_genetic	cortisone acetate
+4456	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone succinate
+2726	indication	133	Chronic beryllium disease	not_genetic	triamcinolone acetonide
+2725	indication	133	Chronic beryllium disease	not_genetic	triamcinolone
+348	indication	133	Chronic beryllium disease	not_genetic	betamethasone
+349	indication	133	Chronic beryllium disease	not_genetic	betamethasone acetate
+1388	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone
 961	off-label use	673	Malaria	not_genetic	doxycycline
 2332	indication	673	Malaria	not_genetic	pyrimethamine
 1261	off-label use	673	Malaria	not_genetic	fusidic acid
@@ -973,6 +1686,14 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1665	indication	673	Malaria	not_genetic	mefloquine
 2266	indication	673	Malaria	not_genetic	primaquine
 2266	off-label use	673	Malaria	not_genetic	primaquine
+2725	off-label use	93569	Polymyalgia rheumatica	not_genetic	triamcinolone
+348	off-label use	93569	Polymyalgia rheumatica	not_genetic	betamethasone
+2253	off-label use	93569	Polymyalgia rheumatica	not_genetic	prednisone
+734	off-label use	93569	Polymyalgia rheumatica	not_genetic	cortisone acetate
+2727	off-label use	93569	Polymyalgia rheumatica	not_genetic	triamcinolone diacetate
+2245	indication	93569	Polymyalgia rheumatica	not_genetic	prednisolone
+824	off-label use	93569	Polymyalgia rheumatica	not_genetic	dexamethasone
+1768	off-label use	93569	Polymyalgia rheumatica	not_genetic	methylprednisolone
 961	off-label use	509	Leptospirosis	not_genetic	doxycycline
 1261	off-label use	509	Leptospirosis	not_genetic	fusidic acid
 1612	indication	31153	Hypoalphalipoproteinemia	rare_genetic	lovastatin
@@ -983,6 +1704,13 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1444	indication	31153	Hypoalphalipoproteinemia	rare_genetic	inositol
 2831	off-label use	31153	Hypoalphalipoproteinemia	rare_genetic	retinol
 2843	off-label use	31153	Hypoalphalipoproteinemia	rare_genetic	phytomenadione
+480	indication	63443	Rare epithelial tumor of stomach	not_genetic	capecitabine
+939	indication	63443	Rare epithelial tumor of stomach	not_genetic	docetaxel
+1030	off-label use	63443	Rare epithelial tumor of stomach	not_genetic	epirubicin
+26	indication	63443	Rare epithelial tumor of stomach	not_genetic	fluorouracil
+1293	indication	63443	Rare epithelial tumor of stomach	not_genetic	gimeracil
+2002	indication	63443	Rare epithelial tumor of stomach	not_genetic	oteracil
+4398	indication	63443	Rare epithelial tumor of stomach	not_genetic	tegafur
 2611	indication	83312	Rickettsialpox	not_genetic	tetracycline
 802	indication	83312	Rickettsialpox	not_genetic	demeclocycline
 961	indication	83312	Rickettsialpox	not_genetic	doxycycline
@@ -1055,30 +1783,8 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4664	indication	221	Dermatomyositis	not_genetic	benzoic acid
 3403	indication	221	Dermatomyositis	not_genetic	orthocaine
 2049	indication	221	Dermatomyositis	not_genetic	aminobenzoic acid
-2684	indication	280886	Anterior uveitis	not_genetic	tobramycin
-1261	indication	280886	Anterior uveitis	not_genetic	fusidic acid
-1611	indication	280886	Anterior uveitis	not_genetic	loteprednol etabonate
-824	indication	280886	Anterior uveitis	not_genetic	dexamethasone
-1388	indication	280886	Anterior uveitis	not_genetic	hydrocortisone
-1208	indication	280886	Anterior uveitis	not_genetic	fluorometholone
-2726	indication	280886	Anterior uveitis	not_genetic	triamcinolone acetonide
-4246	indication	280886	Anterior uveitis	not_genetic	Polymyxin B
-3142	off-label use	280886	Anterior uveitis	not_genetic	difluprednate
-965	indication	280886	Anterior uveitis	not_genetic	drostanolone propionate
-2497	indication	280886	Anterior uveitis	not_genetic	sulfacetamide
-734	indication	280886	Anterior uveitis	not_genetic	cortisone acetate
-4451	indication	280886	Anterior uveitis	not_genetic	prednisolone sodium phosphate
-2725	indication	280886	Anterior uveitis	not_genetic	triamcinolone
-1379	indication	280886	Anterior uveitis	not_genetic	homatropine
-4647	indication	280886	Anterior uveitis	not_genetic	fluorometholone acetate
-1662	indication	280886	Anterior uveitis	not_genetic	medrysone
-2245	indication	280886	Anterior uveitis	not_genetic	prednisolone
-2384	indication	280886	Anterior uveitis	not_genetic	rimexolone
-2424	indication	280886	Anterior uveitis	not_genetic	scopolamine
-757	off-label use	280886	Anterior uveitis	not_genetic	cyclopentolate
-4247	indication	280886	Anterior uveitis	not_genetic	neomycin
-2247	indication	280886	Anterior uveitis	not_genetic	prednisolone acetate
-3017	indication	280886	Anterior uveitis	not_genetic	benzalkonium
+1210	off-label use	108997	Rare anemia	not_genetic	fluoxymesterone
+2031	off-label use	108997	Rare anemia	not_genetic	oxymesterone
 1709	indication	55655	Pneumococcal meningitis	not_genetic	meropenem
 2082	indication	55655	Pneumococcal meningitis	not_genetic	benzylpenicillin
 198	indication	55655	Pneumococcal meningitis	not_genetic	ampicillin
@@ -1099,6 +1805,23 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 392	indication	801	Scleroderma	not_genetic	bosentan
 3972	indication	76	Strongyloidiasis	not_genetic	ivermectin
 2621	indication	76	Strongyloidiasis	not_genetic	thiabendazole
+960	off-label use	319	Ewing sarcoma	not_genetic	doxorubicin
+2589	off-label use	319	Ewing sarcoma	not_genetic	temozolomide
+1421	off-label use	319	Ewing sarcoma	not_genetic	ifosfamide
+4133	off-label use	319	Ewing sarcoma	not_genetic	carboplatin
+2707	off-label use	319	Ewing sarcoma	not_genetic	topotecan
+1112	off-label use	319	Ewing sarcoma	not_genetic	etoposide
+2825	off-label use	319	Ewing sarcoma	not_genetic	vincristine
+939	off-label use	319	Ewing sarcoma	not_genetic	docetaxel
+774	indication	319	Ewing sarcoma	not_genetic	dactinomycin
+1482	off-label use	319	Ewing sarcoma	not_genetic	irinotecan
+3944	off-label use	319	Ewing sarcoma	not_genetic	etoposide phosphate
+1711	off-label use	319	Ewing sarcoma	not_genetic	mesna
+1283	off-label use	319	Ewing sarcoma	not_genetic	gemcitabine
+2960	indication	319	Ewing sarcoma	not_genetic	mifamurtide
+960	indication	319	Ewing sarcoma	not_genetic	doxorubicin
+1030	off-label use	319	Ewing sarcoma	not_genetic	epirubicin
+1751	indication	319	Ewing sarcoma	not_genetic	methotrexate
 1790	off-label use	1223	Balantidiasis	not_genetic	metronidazole
 198	indication	1223	Balantidiasis	not_genetic	ampicillin
 197	off-label use	73260	Paracoccidioidomycosis	not_genetic	amphotericin B
@@ -1107,6 +1830,12 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2514	off-label use	73260	Paracoccidioidomycosis	not_genetic	sulfamethoxazole
 854	indication	97279	Insulinoma	not_genetic	diazoxide
 1980	off-label use	97279	Insulinoma	not_genetic	octreotide
+1709	off-label use	31204	Nocardiosis	not_genetic	meropenem
+1813	off-label use	31204	Nocardiosis	not_genetic	minocycline
+2514	indication	31204	Nocardiosis	not_genetic	sulfamethoxazole
+2755	off-label use	31204	Nocardiosis	not_genetic	trimethoprim
+2529	indication	31204	Nocardiosis	not_genetic	sulfafurazole
+937	indication	97292	Cardiogenic shock	not_genetic	dobutamine
 960	indication	544	Diffuse large B-cell lymphoma	not_genetic	doxorubicin
 2825	indication	544	Diffuse large B-cell lymphoma	not_genetic	vincristine
 770	off-label use	544	Diffuse large B-cell lymphoma	not_genetic	cytarabine
@@ -1122,6 +1851,13 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2284	indication	79276	Acute intermittent porphyria	rare_genetic	promazine
 621	indication	79276	Acute intermittent porphyria	rare_genetic	chlorpromazine
 5117	indication	79276	Acute intermittent porphyria	rare_genetic	hemin
+1814	indication	79364	Alopecia	not_genetic	minoxidil
+1892	indication	99861	Precursor T-cell acute lymphoblastic leukemia	not_genetic	nelarabine
+26	off-label use	70482	Carcinoma of esophagus	not_genetic	fluorouracil
+3274	indication	70482	Carcinoma of esophagus	not_genetic	hematoporphyrin
+939	off-label use	70482	Carcinoma of esophagus	not_genetic	docetaxel
+4021	indication	70482	Carcinoma of esophagus	not_genetic	porfimer
+2044	off-label use	70482	Carcinoma of esophagus	not_genetic	paclitaxel
 138	indication	3303	Tetralogy of Fallot	not_genetic	alprostadil
 144	off-label use	204	Sporadic Creutzfeldt-Jakob disease	not_genetic	amantadine
 2722	off-label use	218	Darier disease	rare_genetic	tretinoin
@@ -1133,7 +1869,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1980	off-label use	104008	Short bowel syndrome	not_genetic	octreotide
 4718	indication	104008	Short bowel syndrome	not_genetic	teduglutide
 2823	indication	99870	Letterer-Siwe disease	not_genetic	vinblastine
-269	off-label use	2137	Chronic autoimmune hepatitis	not_genetic	azathioprine
+269	off-label use	2137	Autoimmune hepatitis	not_genetic	azathioprine
 373	off-label use	79241	Biotinidase deficiency	rare_genetic	biotin
 2832	indication	79241	Biotinidase deficiency	rare_genetic	thiamine
 3667	indication	79241	Biotinidase deficiency	rare_genetic	amanozine
@@ -1154,6 +1890,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4519	off-label use	214	Cystinuria	rare_genetic	potassium citrate
 4477	off-label use	214	Cystinuria	rare_genetic	sodium citrate
 4474	off-label use	214	Cystinuria	rare_genetic	trisodium citrate dihydrate
+2459	indication	88673	Hepatocellular carcinoma	not_genetic	sorafenib
 961	off-label use	1902	Ehrlichiosis	not_genetic	doxycycline
 1261	off-label use	1902	Ehrlichiosis	not_genetic	fusidic acid
 2492	indication	1902	Ehrlichiosis	not_genetic	sulbactam
@@ -1183,7 +1920,12 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2755	off-label use	3452	Whipple disease	not_genetic	trimethoprim
 2646	indication	442	Congenital hypothyroidism	rare_genetic	levothyroxine
 1585	indication	442	Congenital hypothyroidism	rare_genetic	liothyronine
+760	off-label use	39812	Graft versus host disease	not_genetic	ciclosporin
+2616	off-label use	39812	Graft versus host disease	not_genetic	thalidomide
 24	off-label use	33	Isovaleric acidemia	rare_genetic	phenylbutanoic acid
+197	indication	1546	Cryptococcosis	not_genetic	amphotericin B
+197	off-label use	1546	Cryptococcosis	not_genetic	amphotericin B
+1187	indication	1546	Cryptococcosis	not_genetic	fluconazole
 786	off-label use	635	Neuroblastoma	not_genetic	daunorubicin
 3944	off-label use	635	Neuroblastoma	not_genetic	etoposide phosphate
 2825	indication	635	Neuroblastoma	not_genetic	vincristine
@@ -1193,6 +1935,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1112	off-label use	635	Neuroblastoma	not_genetic	etoposide
 4948	indication	635	Neuroblastoma	not_genetic	dinutuximab
 758	indication	635	Neuroblastoma	not_genetic	cyclophosphamide
+2373	off-label use	99827	Crimean-Congo hemorrhagic fever	not_genetic	ribavirin
 1943	indication	1549	Cryptosporidiosis	not_genetic	nitazoxanide
 2067	off-label use	1549	Cryptosporidiosis	not_genetic	paromomycin
 2245	indication	1164	Allergic bronchopulmonary aspergillosis	not_genetic	prednisolone
@@ -1204,13 +1947,35 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2810	indication	903	Von Willebrand disease	rare_genetic	vasopressin
 5173	indication	903	Von Willebrand disease	rare_genetic	vonicog alfa
 5055	indication	903	Von Willebrand disease	rare_genetic	idarucizumab
+786	indication	514	Acute monoblastic leukemia	not_genetic	daunorubicin
 24	off-label use	90	Argininemia	rare_genetic	phenylbutanoic acid
 3103	off-label use	90	Argininemia	rare_genetic	citrulline
 1944	indication	882	Tyrosinemia type 1	rare_genetic	nitisinone
+1261	indication	99990	Brill-Zinsser disease	not_genetic	fusidic acid
+961	indication	99990	Brill-Zinsser disease	not_genetic	doxycycline
+4344	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc chloride
+4275	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc sulfate
+4343	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc gluconate
+4343	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc gluconate
+4344	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc chloride
+4275	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc sulfate
+589	indication	443227	Paratyphoid fever	not_genetic	chloramphenicol
+2514	off-label use	443227	Paratyphoid fever	not_genetic	sulfamethoxazole
+2755	off-label use	443227	Paratyphoid fever	not_genetic	trimethoprim
+198	indication	443227	Paratyphoid fever	not_genetic	ampicillin
 1261	indication	83314	Epidemic typhus	not_genetic	fusidic acid
 961	indication	83314	Epidemic typhus	not_genetic	doxycycline
+770	indication	329998	Lymphomatous meningitis	not_genetic	cytarabine
+466	off-label use	89936	X-linked hypophosphatemia	rare_genetic	calcitriol
+2838	indication	89936	X-linked hypophosphatemia	rare_genetic	ergocalciferol
 3325	indication	70476	Vernal keratoconjunctivitis	not_genetic	lodoxamide
 741	indication	70476	Vernal keratoconjunctivitis	not_genetic	cromoglicic acid
+2616	off-label use	330061	Actinic prurigo	not_genetic	thalidomide
+1395	off-label use	330061	Actinic prurigo	not_genetic	hydroxychloroquine
+607	off-label use	330061	Actinic prurigo	not_genetic	chloroquine
+1980	off-label use	657	Congenital isolated hyperinsulinism	rare_genetic	octreotide
+854	indication	657	Congenital isolated hyperinsulinism	rare_genetic	diazoxide
+845	indication	657	Congenital isolated hyperinsulinism	rare_genetic	glucose
 668	off-label use	1489	Whooping cough	not_genetic	clarithromycin
 2514	off-label use	1489	Whooping cough	not_genetic	sulfamethoxazole
 1048	indication	1489	Whooping cough	not_genetic	erythromycin
@@ -1221,8 +1986,13 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 78	off-label use	79394	Congenital non-bullous ichthyosiform erythroderma	rare_genetic	acitretin
 2722	off-label use	79394	Congenital non-bullous ichthyosiform erythroderma	rare_genetic	tretinoin
 2245	indication	31740	Hypersensitivity pneumonitis	not_genetic	prednisolone
+700	off-label use	98048	Rare male infertility	not_genetic	clomifene
 2621	off-label use	231	Dracunculiasis	not_genetic	thiabendazole
 1790	off-label use	231	Dracunculiasis	not_genetic	metronidazole
+2646	indication	181396	Rare hypothyroidism	rare_genetic	levothyroxine
+1585	indication	181396	Rare hypothyroidism	rare_genetic	liothyronine
+124	off-label use	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	allopurinol
+5029	indication	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	uridine triacetate
 373	off-label use	79242	Holocarboxylase synthetase deficiency	rare_genetic	biotin
 2832	indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	thiamine
 3667	indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	amanozine
@@ -1235,6 +2005,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1231	indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	folic acid
 1232	indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	leucovorin
 4384	indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	levofolinic acid
+85	indication	1930	Herpes simplex encephalitis	rare_genetic	aciclovir
 2500	indication	858	Congenital toxoplasmosis	not_genetic	sulfadiazine
 2612	indication	79254	Classic phenylketonuria	rare_genetic	sapropterin
 873	indication	2404	Loiasis	not_genetic	diethylcarbamazine
@@ -1242,11 +2013,19 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2609	indication	399	Huntington disease	rare_genetic	tetrabenazine
 5226	indication	399	Huntington disease	rare_genetic	deutetrabenazine
 244	indication	517	Acute myelomonocytic leukemia	not_genetic	arsenic trioxide
+1680	indication	325	Congenital factor II deficiency	rare_genetic	menadiol sulfate
+2843	indication	325	Congenital factor II deficiency	rare_genetic	phytomenadione
+5134	indication	325	Congenital factor II deficiency	rare_genetic	catridecacog
+5055	indication	325	Congenital factor II deficiency	rare_genetic	idarucizumab
+5159	indication	325	Congenital factor II deficiency	rare_genetic	eptacog alfa (activated)
 782	off-label use	48377	Subcorneal pustular dermatosis	not_genetic	dapsone
 2524	off-label use	48377	Subcorneal pustular dermatosis	not_genetic	sulfapyridine
+2607	indication	181387	Rare disorder with hypogonadotropic hypogonadism	rare_genetic	testosterone
+2608	indication	181387	Rare disorder with hypogonadotropic hypogonadism	rare_genetic	testosterone undecanoate
 765	off-label use	43116	Serotonin syndrome	not_genetic	cyproheptadine
 2797	indication	186	Primary biliary cholangitis	not_genetic	ursodiol
 2989	off-label use	666	Osteogenesis imperfecta	rare_genetic	calcitonin (salmon synthetic)
+1204	indication	280892	Posterior uveitis	not_genetic	fluocinolone acetonide
 1388	off-label use	43	X-linked adrenoleukodystrophy	rare_genetic	hydrocortisone
 734	off-label use	43	X-linked adrenoleukodystrophy	rare_genetic	cortisone acetate
 1423	indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	imatinib
@@ -1257,6 +2036,18 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4633	indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	trabectedin
 2825	indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	vincristine
 774	indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	dactinomycin
+1786	off-label use	3282	Multifocal atrial tachycardia	not_genetic	metoprolol
+1054	indication	3282	Multifocal atrial tachycardia	not_genetic	esmolol
+1277	off-label use	3282	Multifocal atrial tachycardia	not_genetic	ganciclovir
+2303	indication	3282	Multifocal atrial tachycardia	not_genetic	propranolol
+90	off-label use	3282	Multifocal atrial tachycardia	not_genetic	adenosine
+926	off-label use	3282	Multifocal atrial tachycardia	not_genetic	disopyramide
+90	indication	3282	Multifocal atrial tachycardia	not_genetic	adenosine
+2815	indication	3282	Multifocal atrial tachycardia	not_genetic	verapamil
+1277	indication	3282	Multifocal atrial tachycardia	not_genetic	ganciclovir
+2291	indication	3282	Multifocal atrial tachycardia	not_genetic	propafenone
+1753	indication	3282	Multifocal atrial tachycardia	not_genetic	methoxamine
+897	indication	3282	Multifocal atrial tachycardia	not_genetic	diltiazem
 1125	indication	2882	Sitosterolemia	rare_genetic	ezetimibe
 24	indication	187	Citrullinemia	rare_genetic	phenylbutanoic acid
 1440	off-label use	112	Bartter syndrome	rare_genetic	indomethacin
@@ -1264,12 +2055,17 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2834	off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	riboflavin
 3103	off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	citrulline
 2373	off-label use	340	Hemorrhagic fever-renal syndrome	not_genetic	ribavirin
+2834	off-label use	26791	Multiple acyl-CoA dehydrogenase deficiency	rare_genetic	riboflavin
+782	off-label use	46486	Mucous membrane pemphigoid	not_genetic	dapsone
+4804	indication	46486	Mucous membrane pemphigoid	not_genetic	palifermin
+156	off-label use	46486	Mucous membrane pemphigoid	not_genetic	amifostine
 2031	indication	614	Thomsen and Becker disease	rare_genetic	oxymesterone
 1210	indication	614	Thomsen and Becker disease	rare_genetic	fluoxymesterone
 489	indication	221091	Trigeminal neuralgia	not_genetic	carbamazepine
 282	off-label use	221091	Trigeminal neuralgia	not_genetic	baclofen
 2382	indication	803	Amyotrophic lateral sclerosis	not_genetic	riluzole
 4156	indication	803	Amyotrophic lateral sclerosis	not_genetic	edaravone
+786	indication	318	Acute erythroid leukemia	not_genetic	daunorubicin
 1423	indication	3260	Idiopathic hypereosinophilic syndrome	not_genetic	imatinib
 667	off-label use	389	Langerhans cell histiocytosis	not_genetic	cladribine
 2823	indication	389	Langerhans cell histiocytosis	not_genetic	vinblastine
@@ -1285,8 +2081,10 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2621	indication	78	Ankylostomiasis	not_genetic	thiabendazole
 2999	off-label use	78	Ankylostomiasis	not_genetic	pyrantel
 1641	off-label use	78	Ankylostomiasis	not_genetic	mebendazole
+4742	indication	398043	Malignant tumor of penis	not_genetic	bleomycin
 1118	indication	805	Tuberous sclerosis complex	rare_genetic	everolimus
 2446	indication	805	Tuberous sclerosis complex	rare_genetic	sirolimus
+4952	indication	85414	Systemic-onset juvenile idiopathic arthritis	not_genetic	canakinumab
 3096	indication	909	Cerebrotendinous xanthomatosis	rare_genetic	cholic acid
 5028	indication	909	Cerebrotendinous xanthomatosis	rare_genetic	sebelipase alfa
 4956	indication	360	Glioblastoma	not_genetic	bevacizumab
@@ -1316,6 +2114,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2725	off-label use	727	Microscopic polyangiitis	not_genetic	triamcinolone
 348	off-label use	727	Microscopic polyangiitis	not_genetic	betamethasone
 2245	off-label use	727	Microscopic polyangiitis	not_genetic	prednisolone
+1416	indication	104	Leber hereditary optic neuropathy	rare_genetic	idebenone
 5009	indication	181393	Growth hormone insensitivity syndrome	rare_genetic	mecasermin
 4826	indication	181393	Growth hormone insensitivity syndrome	rare_genetic	metreleptin
 5009	indication	633	Laron syndrome	rare_genetic	mecasermin
@@ -1337,16 +2136,23 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4171	indication	64720	Leiomyosarcoma	not_genetic	eribulin
 2825	indication	64720	Leiomyosarcoma	not_genetic	vincristine
 774	indication	64720	Leiomyosarcoma	not_genetic	dactinomycin
+4190	indication	824	Primary myelofibrosis	not_genetic	ruxolitinib
 5092	indication	890	Hepatic veno-occlusive disease	not_genetic	defibrotide
 5101	indication	583	Mucopolysaccharidosis type 6	rare_genetic	galsulfase
 5152	indication	100050	Hereditary angioedema type 1	rare_genetic	conestat alfa
 4846	indication	100050	Hereditary angioedema type 1	rare_genetic	ecallantide
 4186	indication	100050	Hereditary angioedema type 1	rare_genetic	icatibant
 2477	indication	100050	Hereditary angioedema type 1	rare_genetic	stanozolol
+130	indication	181408	Rare hyperparathyroidism	not_genetic	alfacalcidol
+5181	indication	181408	Rare hyperparathyroidism	not_genetic	etelcalcetide
+5172	indication	411	Hyperlipoproteinemia type 1	not_genetic	alipogene tiparvovec
+5172	indication	309015	Familial lipoprotein lipase deficiency	rare_genetic	alipogene tiparvovec
+76	indication	309015	Familial lipoprotein lipase deficiency	rare_genetic	acipimox
 758	indication	223735	Lymphoma	not_genetic	cyclophosphamide
 758	indication	790	Retinoblastoma	rare_genetic	cyclophosphamide
 3483	indication	2583	Mycetoma	not_genetic	posaconazole
 782	off-label use	2583	Mycetoma	not_genetic	dapsone
+5159	indication	849	Glanzmann thrombasthenia	rare_genetic	eptacog alfa (activated)
 5159	indication	327	Congenital factor VII deficiency	rare_genetic	eptacog alfa (activated)
 5134	indication	327	Congenital factor VII deficiency	rare_genetic	catridecacog
 1680	indication	327	Congenital factor VII deficiency	rare_genetic	menadiol sulfate
@@ -1354,7 +2160,10 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5055	indication	327	Congenital factor VII deficiency	rare_genetic	idarucizumab
 4952	indication	29	Mevalonic aciduria	rare_genetic	canakinumab
 4952	indication	309025	Mevalonate kinase deficiency	rare_genetic	canakinumab
+4952	indication	32960	Tumor necrosis factor receptor 1 associated periodic syndrome	rare_genetic	canakinumab
 2452	indication	178320	Acute lung injury	not_genetic	sivelestat
+1581	indication	36258	Buerger disease	not_genetic	limaprost
+5221	indication	79140	Cutaneous neuroendocrine carcinoma	not_genetic	avelumab
 76	indication	181425	Major hypertriglyceridemia	rare_genetic	acipimox
 658	indication	181425	Major hypertriglyceridemia	rare_genetic	ciprofibrate
 1285	indication	181425	Major hypertriglyceridemia	rare_genetic	gemfibrozil
@@ -1370,104 +2179,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1444	indication	181425	Major hypertriglyceridemia	rare_genetic	inositol
 1413	indication	181425	Major hypertriglyceridemia	rare_genetic	icosapent ethyl
 5126	indication	181425	Major hypertriglyceridemia	rare_genetic	omega-3-carboxylic acids
-76	indication	181422	Rare hyperlipidemia	rare_genetic	acipimox
-658	indication	181422	Rare hyperlipidemia	rare_genetic	ciprofibrate
-1285	indication	181422	Rare hyperlipidemia	rare_genetic	gemfibrozil
-4505	indication	181422	Rare hyperlipidemia	rare_genetic	choline fenofibrate
-1612	indication	181422	Rare hyperlipidemia	rare_genetic	lovastatin
-1152	indication	181422	Rare hyperlipidemia	rare_genetic	fenofibrate
-2835	indication	181422	Rare hyperlipidemia	rare_genetic	nicotinic acid
-3174	off-label use	181422	Rare hyperlipidemia	rare_genetic	eicosapentaenoic acid
-2406	indication	181422	Rare hyperlipidemia	rare_genetic	rosuvastatin
-2239	indication	181422	Rare hyperlipidemia	rare_genetic	pravastatin
-257	indication	181422	Rare hyperlipidemia	rare_genetic	atorvastatin
-2445	indication	181422	Rare hyperlipidemia	rare_genetic	simvastatin
-1444	indication	181422	Rare hyperlipidemia	rare_genetic	inositol
-1413	indication	181422	Rare hyperlipidemia	rare_genetic	icosapent ethyl
-5126	indication	181422	Rare hyperlipidemia	rare_genetic	omega-3-carboxylic acids
-1125	indication	181422	Rare hyperlipidemia	rare_genetic	ezetimibe
-2214	indication	181422	Rare hyperlipidemia	rare_genetic	pitavastatin
-1229	indication	181422	Rare hyperlipidemia	rare_genetic	fluvastatin
-577	indication	181422	Rare hyperlipidemia	rare_genetic	cerivastatin
-5047	indication	181422	Rare hyperlipidemia	rare_genetic	saroglitazar
-5016	indication	181422	Rare hyperlipidemia	rare_genetic	alirocumab
-5000	indication	181422	Rare hyperlipidemia	rare_genetic	evolocumab
-1917	indication	181422	Rare hyperlipidemia	rare_genetic	nicomol
-362	indication	181422	Rare hyperlipidemia	rare_genetic	bezafibrate
-1921	indication	181422	Rare hyperlipidemia	rare_genetic	nicotinyl alcohol
-727	indication	181422	Rare hyperlipidemia	rare_genetic	cholestyramine
-1920	off-label use	181422	Rare hyperlipidemia	rare_genetic	nicotine
-1445	off-label use	181422	Rare hyperlipidemia	rare_genetic	inositol nicotinate
-1444	off-label use	181422	Rare hyperlipidemia	rare_genetic	inositol
-2269	indication	181422	Rare hyperlipidemia	rare_genetic	probucol
-2646	indication	181422	Rare hyperlipidemia	rare_genetic	levothyroxine
-846	indication	181422	Rare hyperlipidemia	rare_genetic	dextrothyroxine
-694	indication	181422	Rare hyperlipidemia	rare_genetic	clofibrate
-2784	indication	181422	Rare hyperlipidemia	rare_genetic	tyramine
-728	indication	181422	Rare hyperlipidemia	rare_genetic	colestipol
-4851	indication	181422	Rare hyperlipidemia	rare_genetic	colestilan
-4852	indication	181422	Rare hyperlipidemia	rare_genetic	colextran
-4326	indication	181422	Rare hyperlipidemia	rare_genetic	laropiprant
-5172	indication	181422	Rare hyperlipidemia	rare_genetic	alipogene tiparvovec
-76	indication	101953	Rare dyslipidemia	rare_genetic	acipimox
-658	indication	101953	Rare dyslipidemia	rare_genetic	ciprofibrate
-1285	indication	101953	Rare dyslipidemia	rare_genetic	gemfibrozil
-4505	indication	101953	Rare dyslipidemia	rare_genetic	choline fenofibrate
-1612	indication	101953	Rare dyslipidemia	rare_genetic	lovastatin
-1152	indication	101953	Rare dyslipidemia	rare_genetic	fenofibrate
-2835	indication	101953	Rare dyslipidemia	rare_genetic	nicotinic acid
-3174	off-label use	101953	Rare dyslipidemia	rare_genetic	eicosapentaenoic acid
-2406	indication	101953	Rare dyslipidemia	rare_genetic	rosuvastatin
-2239	indication	101953	Rare dyslipidemia	rare_genetic	pravastatin
-257	indication	101953	Rare dyslipidemia	rare_genetic	atorvastatin
-2445	indication	101953	Rare dyslipidemia	rare_genetic	simvastatin
-1444	indication	101953	Rare dyslipidemia	rare_genetic	inositol
-1413	indication	101953	Rare dyslipidemia	rare_genetic	icosapent ethyl
-5126	indication	101953	Rare dyslipidemia	rare_genetic	omega-3-carboxylic acids
-1125	indication	101953	Rare dyslipidemia	rare_genetic	ezetimibe
-2214	indication	101953	Rare dyslipidemia	rare_genetic	pitavastatin
-1229	indication	101953	Rare dyslipidemia	rare_genetic	fluvastatin
-577	indication	101953	Rare dyslipidemia	rare_genetic	cerivastatin
-5047	indication	101953	Rare dyslipidemia	rare_genetic	saroglitazar
-5016	indication	101953	Rare dyslipidemia	rare_genetic	alirocumab
-5000	indication	101953	Rare dyslipidemia	rare_genetic	evolocumab
-1917	indication	101953	Rare dyslipidemia	rare_genetic	nicomol
-362	indication	101953	Rare dyslipidemia	rare_genetic	bezafibrate
-1921	indication	101953	Rare dyslipidemia	rare_genetic	nicotinyl alcohol
-727	indication	101953	Rare dyslipidemia	rare_genetic	cholestyramine
-1920	off-label use	101953	Rare dyslipidemia	rare_genetic	nicotine
-1445	off-label use	101953	Rare dyslipidemia	rare_genetic	inositol nicotinate
-1444	off-label use	101953	Rare dyslipidemia	rare_genetic	inositol
-2269	indication	101953	Rare dyslipidemia	rare_genetic	probucol
-2646	indication	101953	Rare dyslipidemia	rare_genetic	levothyroxine
-846	indication	101953	Rare dyslipidemia	rare_genetic	dextrothyroxine
-694	indication	101953	Rare dyslipidemia	rare_genetic	clofibrate
-2784	indication	101953	Rare dyslipidemia	rare_genetic	tyramine
-728	indication	101953	Rare dyslipidemia	rare_genetic	colestipol
-4851	indication	101953	Rare dyslipidemia	rare_genetic	colestilan
-4852	indication	101953	Rare dyslipidemia	rare_genetic	colextran
-4326	indication	101953	Rare dyslipidemia	rare_genetic	laropiprant
-1285	off-label use	101953	Rare dyslipidemia	rare_genetic	gemfibrozil
-2831	off-label use	101953	Rare dyslipidemia	rare_genetic	retinol
-2843	off-label use	101953	Rare dyslipidemia	rare_genetic	phytomenadione
-5172	indication	101953	Rare dyslipidemia	rare_genetic	alipogene tiparvovec
-76	indication	79211	Combined hyperlipidemia	rare_genetic	acipimox
-658	indication	79211	Combined hyperlipidemia	rare_genetic	ciprofibrate
-1125	indication	79211	Combined hyperlipidemia	rare_genetic	ezetimibe
-2214	indication	79211	Combined hyperlipidemia	rare_genetic	pitavastatin
-1229	indication	79211	Combined hyperlipidemia	rare_genetic	fluvastatin
-4505	indication	79211	Combined hyperlipidemia	rare_genetic	choline fenofibrate
-257	indication	79211	Combined hyperlipidemia	rare_genetic	atorvastatin
-1612	indication	79211	Combined hyperlipidemia	rare_genetic	lovastatin
-577	indication	79211	Combined hyperlipidemia	rare_genetic	cerivastatin
-1152	indication	79211	Combined hyperlipidemia	rare_genetic	fenofibrate
-2835	indication	79211	Combined hyperlipidemia	rare_genetic	nicotinic acid
-2406	indication	79211	Combined hyperlipidemia	rare_genetic	rosuvastatin
-2239	indication	79211	Combined hyperlipidemia	rare_genetic	pravastatin
-2445	indication	79211	Combined hyperlipidemia	rare_genetic	simvastatin
-1444	indication	79211	Combined hyperlipidemia	rare_genetic	inositol
-76	indication	309015	Familial lipoprotein lipase deficiency	rare_genetic	acipimox
-5172	indication	309015	Familial lipoprotein lipase deficiency	rare_genetic	alipogene tiparvovec
 76	indication	309020	Familial apolipoprotein C-II deficiency	rare_genetic	acipimox
 5172	indication	309020	Familial apolipoprotein C-II deficiency	rare_genetic	alipogene tiparvovec
 76	indication	444490	Familial chylomicronemia syndrome	rare_genetic	acipimox
@@ -1531,7 +2242,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5076	indication	54028	Plummer-Vinson syndrome	not_genetic	ferric maltol
 5128	indication	54028	Plummer-Vinson syndrome	not_genetic	ferric carboxymaltose
 5206	indication	183660	Severe combined immunodeficiency	rare_genetic	pegademase
-5206	indication	277	Severe combined immunodeficiency due to adenosine deaminase deficiency	rare_genetic	pegademase
 5206	indication	101972	Combined T and B cell immunodeficiency	rare_genetic	pegademase
 5207	indication	70	Proximal spinal muscular atrophy	rare_genetic	nusinersen
 5207	indication	83330	Proximal spinal muscular atrophy type 1	rare_genetic	nusinersen
@@ -2122,25 +2832,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1587	off-label use	2334	Autosomal dominant keratitis	rare_genetic	lisinopril
 1885	indication	2334	Autosomal dominant keratitis	rare_genetic	natamycin
 1417	off-label use	2334	Autosomal dominant keratitis	rare_genetic	idoxuridine
-5148	indication	70587	Infant acute respiratory distress syndrome	not_genetic	poractant alfa
-4884	indication	70587	Infant acute respiratory distress syndrome	not_genetic	calfactant
-4750	indication	70587	Infant acute respiratory distress syndrome	not_genetic	cetyl alcohol
-730	indication	70587	Infant acute respiratory distress syndrome	not_genetic	colfosceril palmitate
-4738	indication	70587	Infant acute respiratory distress syndrome	not_genetic	tyloxapol
-1388	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone
-348	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	betamethasone
-4213	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone acetate
-4456	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	hydrocortisone succinate
-2726	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone acetonide
-1768	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	methylprednisolone
-2725	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone
-2245	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	prednisolone
-734	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	cortisone acetate
-349	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	betamethasone acetate
-2727	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	triamcinolone diacetate
-824	off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	dexamethasone
-4232	indication	70587	Infant acute respiratory distress syndrome	not_genetic	lucinactant
-5108	indication	70587	Infant acute respiratory distress syndrome	not_genetic	beractant
 5134	indication	169826	Congenital vitamin K-dependent coagulation factors deficiency	rare_genetic	catridecacog
 1680	indication	169826	Congenital vitamin K-dependent coagulation factors deficiency	rare_genetic	menadiol sulfate
 2843	indication	169826	Congenital vitamin K-dependent coagulation factors deficiency	rare_genetic	phytomenadione
@@ -2161,11 +2852,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2843	indication	248408	Familial hypodysfibrinogenemia	rare_genetic	phytomenadione
 5055	indication	248408	Familial hypodysfibrinogenemia	rare_genetic	idarucizumab
 5159	indication	248408	Familial hypodysfibrinogenemia	rare_genetic	eptacog alfa (activated)
-5134	indication	325	Congenital factor II deficiency	rare_genetic	catridecacog
-1680	indication	325	Congenital factor II deficiency	rare_genetic	menadiol sulfate
-2843	indication	325	Congenital factor II deficiency	rare_genetic	phytomenadione
-5055	indication	325	Congenital factor II deficiency	rare_genetic	idarucizumab
-5159	indication	325	Congenital factor II deficiency	rare_genetic	eptacog alfa (activated)
 5134	indication	331	Congenital factor XIII deficiency	rare_genetic	catridecacog
 1680	indication	331	Congenital factor XIII deficiency	rare_genetic	menadiol sulfate
 2843	indication	331	Congenital factor XIII deficiency	rare_genetic	phytomenadione
@@ -2399,7 +3085,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4888	indication	79224	Disorder of purine or pyrimidine metabolism	rare_genetic	topiroxostat
 124	off-label use	79224	Disorder of purine or pyrimidine metabolism	rare_genetic	allopurinol
 5029	indication	79224	Disorder of purine or pyrimidine metabolism	rare_genetic	uridine triacetate
-5051	indication	79142	Familial Dupuytren contracture	rare_genetic	collagenase
 5026	indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	oprelvekin
 5059	indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	lusutrombopag
 4456	indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	hydrocortisone succinate
@@ -2640,12 +3325,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1210	indication	500	Noonan syndrome with multiple lentigines	rare_genetic	fluoxymesterone
 3356	off-label use	500	Noonan syndrome with multiple lentigines	rare_genetic	methyltestosterone
 2031	indication	500	Noonan syndrome with multiple lentigines	rare_genetic	oxymesterone
-4848	indication	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	somatropin
-495	indication	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	carbetocin
-2607	off-label use	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	testosterone
-1210	indication	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	fluoxymesterone
-3356	off-label use	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	methyltestosterone
-2031	indication	1088	Short stature-heart defect-craniofacial anomalies syndrome	rare_genetic	oxymesterone
 4848	indication	1263	Boomerang dysplasia	rare_genetic	somatropin
 495	indication	1263	Boomerang dysplasia	rare_genetic	carbetocin
 2607	off-label use	1263	Boomerang dysplasia	rare_genetic	testosterone
@@ -3182,20 +3861,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5042	indication	95494	Combined pituitary hormone deficiencies, genetic forms	rare_genetic	somatrem
 2607	indication	95494	Combined pituitary hormone deficiencies, genetic forms	rare_genetic	testosterone
 2608	indication	95494	Combined pituitary hormone deficiencies, genetic forms	rare_genetic	testosterone undecanoate
-4848	indication	101957	Pituitary deficiency	rare_genetic	somatropin
-2433	indication	101957	Pituitary deficiency	rare_genetic	sermorelin
-5042	indication	101957	Pituitary deficiency	rare_genetic	somatrem
-2607	indication	101957	Pituitary deficiency	rare_genetic	testosterone
-2608	indication	101957	Pituitary deficiency	rare_genetic	testosterone undecanoate
-4848	indication	99226	Monosomy X	rare_genetic	somatropin
-3927	off-label use	99226	Monosomy X	rare_genetic	androstanolone
-2011	off-label use	99226	Monosomy X	rare_genetic	oxandrolone
-1064	indication	99226	Monosomy X	rare_genetic	estradiol valerate
-1057	indication	99226	Monosomy X	rare_genetic	estradiol
-1059	indication	99226	Monosomy X	rare_genetic	estradiol cypionate
-2342	indication	99226	Monosomy X	rare_genetic	quinestrol
-1962	indication	99226	Monosomy X	rare_genetic	norethisterone
-2608	indication	99226	Monosomy X	rare_genetic	testosterone undecanoate
 4996	indication	1959	Evans syndrome	not_genetic	romiplostim
 4399	indication	1959	Evans syndrome	not_genetic	eltrombopag
 4456	indication	1959	Evans syndrome	not_genetic	hydrocortisone succinate
@@ -3243,41 +3908,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1388	indication	71203	Autoimmune thrombocytopenia	not_genetic	hydrocortisone
 4997	indication	79213	Mucopolysaccharidosis	rare_genetic	laronidase
 4918	indication	79213	Mucopolysaccharidosis	rare_genetic	idursulfase
-266	indication	92	Juvenile idiopathic arthritis	not_genetic	azapropazone
-4978	indication	92	Juvenile idiopathic arthritis	not_genetic	etanercept
-4904	indication	92	Juvenile idiopathic arthritis	not_genetic	adalimumab
-43	indication	92	Juvenile idiopathic arthritis	not_genetic	aceclofenac
-1817	off-label use	92	Juvenile idiopathic arthritis	not_genetic	misoprostol
-2210	off-label use	92	Juvenile idiopathic arthritis	not_genetic	piroxicam
-2534	indication	92	Juvenile idiopathic arthritis	not_genetic	sulindac
-2013	off-label use	92	Juvenile idiopathic arthritis	not_genetic	oxaprozin
-1650	off-label use	92	Juvenile idiopathic arthritis	not_genetic	meclofenamic acid
-1440	indication	92	Juvenile idiopathic arthritis	not_genetic	indomethacin
-824	indication	92	Juvenile idiopathic arthritis	not_genetic	dexamethasone
-2245	indication	92	Juvenile idiopathic arthritis	not_genetic	prednisolone
-2725	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone
-1676	off-label use	92	Juvenile idiopathic arthritis	not_genetic	meloxicam
-4213	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone acetate
-1103	off-label use	92	Juvenile idiopathic arthritis	not_genetic	etodolac
-2699	off-label use	92	Juvenile idiopathic arthritis	not_genetic	tolmetin
-865	indication	92	Juvenile idiopathic arthritis	not_genetic	diclofenac
-2727	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone diacetate
-734	indication	92	Juvenile idiopathic arthritis	not_genetic	cortisone acetate
-349	indication	92	Juvenile idiopathic arthritis	not_genetic	betamethasone acetate
-1863	off-label use	92	Juvenile idiopathic arthritis	not_genetic	nabumetone
-1528	off-label use	92	Juvenile idiopathic arthritis	not_genetic	ketoprofen
-1768	indication	92	Juvenile idiopathic arthritis	not_genetic	methylprednisolone
-568	indication	92	Juvenile idiopathic arthritis	not_genetic	celecoxib
-2253	indication	92	Juvenile idiopathic arthritis	not_genetic	prednisone
-348	indication	92	Juvenile idiopathic arthritis	not_genetic	betamethasone
-4456	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone succinate
-1883	indication	92	Juvenile idiopathic arthritis	not_genetic	naproxen
-2726	indication	92	Juvenile idiopathic arthritis	not_genetic	triamcinolone acetonide
-1388	indication	92	Juvenile idiopathic arthritis	not_genetic	hydrocortisone
-4967	indication	92	Juvenile idiopathic arthritis	not_genetic	golimumab
-4968	indication	92	Juvenile idiopathic arthritis	not_genetic	certolizumab pegol
-4974	indication	92	Juvenile idiopathic arthritis	not_genetic	infliximab
-47	indication	92	Juvenile idiopathic arthritis	not_genetic	acemetacin
 4976	indication	701	Alopecia universalis	rare_genetic	triamcinolone hexacetonide
 2727	indication	701	Alopecia universalis	rare_genetic	triamcinolone diacetate
 226	off-label use	701	Alopecia universalis	rare_genetic	dithranol
@@ -3348,14 +3978,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1832	indication	163531	Chronic cutaneous lupus erythematosus	not_genetic	mometasone furoate
 354	indication	163531	Chronic cutaneous lupus erythematosus	not_genetic	betamethasone valerate
 351	indication	163531	Chronic cutaneous lupus erythematosus	not_genetic	betamethasone benzoate
-4976	indication	254367	Rare lichen planus	not_genetic	triamcinolone hexacetonide
-30	off-label use	254367	Rare lichen planus	not_genetic	methoxsalen
-2727	indication	254367	Rare lichen planus	not_genetic	triamcinolone diacetate
-2726	indication	254367	Rare lichen planus	not_genetic	triamcinolone acetonide
-2725	indication	254367	Rare lichen planus	not_genetic	triamcinolone
-78	off-label use	254367	Rare lichen planus	not_genetic	acitretin
-2616	off-label use	254367	Rare lichen planus	not_genetic	thalidomide
-1116	off-label use	254367	Rare lichen planus	not_genetic	etretinate
 4976	indication	254370	Rare cutaneous lichen planus	not_genetic	triamcinolone hexacetonide
 30	off-label use	254370	Rare cutaneous lichen planus	not_genetic	methoxsalen
 2727	indication	254370	Rare cutaneous lichen planus	not_genetic	triamcinolone diacetate
@@ -3916,20 +4538,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 780	off-label use	102014	Autosomal dominant limb-girdle muscular dystrophy	rare_genetic	dantrolene
 5182	indication	102014	Autosomal dominant limb-girdle muscular dystrophy	rare_genetic	eteplirsen
 793	indication	102014	Autosomal dominant limb-girdle muscular dystrophy	rare_genetic	deflazacort
-600	indication	137820	Rare endometriosis	not_genetic	chlormadinone
-1965	indication	137820	Rare endometriosis	not_genetic	norethynodrel
-779	indication	137820	Rare endometriosis	not_genetic	danazol
-1572	off-label use	137820	Rare endometriosis	not_genetic	levonorgestrel
-1714	indication	137820	Rare endometriosis	not_genetic	mestranol
-4261	off-label use	137820	Rare endometriosis	not_genetic	ferrous fumarate
-2279	indication	137820	Rare endometriosis	not_genetic	progesterone
-1559	indication	137820	Rare endometriosis	not_genetic	leuprorelin
-2713	indication	137820	Rare endometriosis	not_genetic	tranexamic acid
-1659	indication	137820	Rare endometriosis	not_genetic	medroxyprogesterone
-1868	indication	137820	Rare endometriosis	not_genetic	nafarelin
-1327	indication	137820	Rare endometriosis	not_genetic	goserelin
-1963	indication	137820	Rare endometriosis	not_genetic	norethindrone acetate
-1962	indication	137820	Rare endometriosis	not_genetic	norethisterone
 4836	indication	738	Porphyria	rare_genetic	afamelanotide
 1395	off-label use	738	Porphyria	rare_genetic	hydroxychloroquine
 607	off-label use	738	Porphyria	rare_genetic	chloroquine
@@ -3984,10 +4592,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4186	indication	459353	C1 inhibitor deficiency	rare_genetic	icatibant
 2477	indication	459353	C1 inhibitor deficiency	rare_genetic	stanozolol
 5152	indication	459353	C1 inhibitor deficiency	rare_genetic	conestat alfa
-4846	indication	91378	Hereditary angioedema	rare_genetic	ecallantide
-4186	indication	91378	Hereditary angioedema	rare_genetic	icatibant
-2477	indication	91378	Hereditary angioedema	rare_genetic	stanozolol
-5152	indication	91378	Hereditary angioedema	rare_genetic	conestat alfa
 4846	indication	101992	Immunodeficiency due to a complement cascade protein anomaly	rare_genetic	ecallantide
 4186	indication	101992	Immunodeficiency due to a complement cascade protein anomaly	rare_genetic	icatibant
 2477	indication	101992	Immunodeficiency due to a complement cascade protein anomaly	rare_genetic	stanozolol
@@ -4036,7 +4640,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1803	indication	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	midodrine
 1191	off-label use	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	fludrocortisone acetate
 734	off-label use	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	cortisone acetate
-4826	indication	528	Berardinelli-Seip congenital lipodystrophy	rare_genetic	metreleptin
 4826	indication	1979	Lipodystrophy due to peptidic growth factors deficiency	rare_genetic	metreleptin
 4826	indication	2348	Familial partial lipodystrophy, Dunnigan type	rare_genetic	metreleptin
 4826	indication	280365	Autosomal semi-dominant severe lipodystrophic laminopathy	rare_genetic	metreleptin
@@ -4069,9 +4672,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5009	indication	73272	Growth delay due to insulin-like growth factor type 1 deficiency	rare_genetic	mecasermin
 4826	indication	73273	Growth delay due to insulin-like growth factor I resistance	rare_genetic	metreleptin
 5009	indication	73273	Growth delay due to insulin-like growth factor I resistance	rare_genetic	mecasermin
-4804	indication	46486	Mucous membrane pemphigoid	not_genetic	palifermin
-156	off-label use	46486	Mucous membrane pemphigoid	not_genetic	amifostine
-782	off-label use	46486	Mucous membrane pemphigoid	not_genetic	dapsone
 4653	indication	324648	Invasive non-typhoidal salmonellosis	not_genetic	chloramphenicol succinate
 4192	indication	442582	AH amyloidosis	not_genetic	tafamidis
 66	indication	442582	AH amyloidosis	not_genetic	acetylcysteine
@@ -4120,14 +4720,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1421	off-label use	668	Osteosarcoma	not_genetic	ifosfamide
 1030	off-label use	668	Osteosarcoma	not_genetic	epirubicin
 1751	indication	668	Osteosarcoma	not_genetic	methotrexate
-2960	indication	319	Ewing sarcoma	not_genetic	mifamurtide
-3944	off-label use	319	Ewing sarcoma	not_genetic	etoposide phosphate
-960	indication	319	Ewing sarcoma	not_genetic	doxorubicin
-1711	off-label use	319	Ewing sarcoma	not_genetic	mesna
-1112	off-label use	319	Ewing sarcoma	not_genetic	etoposide
-1421	off-label use	319	Ewing sarcoma	not_genetic	ifosfamide
-1030	off-label use	319	Ewing sarcoma	not_genetic	epirubicin
-1751	indication	319	Ewing sarcoma	not_genetic	methotrexate
 433	indication	98976	Congenital glaucoma	rare_genetic	bupranolol
 982	indication	98976	Congenital glaucoma	rare_genetic	echothiophate
 4938	indication	98976	Congenital glaucoma	rare_genetic	ripasudil
@@ -4251,14 +4843,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 913	indication	254688	Complete hydatidiform mole	not_genetic	dinoprostone
 912	indication	254688	Complete hydatidiform mole	not_genetic	dinoprost
 502	off-label use	254688	Complete hydatidiform mole	not_genetic	carboprost
-1567	indication	97349	Postencephalitic parkinsonism	not_genetic	levodopa
-403	indication	97349	Postencephalitic parkinsonism	not_genetic	bromocriptine
-333	indication	97349	Postencephalitic parkinsonism	not_genetic	benzatropine
-144	indication	97349	Postencephalitic parkinsonism	not_genetic	amantadine
-2276	indication	97349	Postencephalitic parkinsonism	not_genetic	procyclidine
-374	indication	97349	Postencephalitic parkinsonism	not_genetic	biperiden
-2745	indication	97349	Postencephalitic parkinsonism	not_genetic	trihexyphenidyl
-496	indication	97349	Postencephalitic parkinsonism	not_genetic	carbidopa
 2349	indication	440368	Necrotizing soft tissue infection	not_genetic	quinupristin
 4169	indication	440368	Necrotizing soft tissue infection	not_genetic	ceftaroline fosamil
 563	indication	440368	Necrotizing soft tissue infection	not_genetic	ceftizoxime
@@ -4573,7 +5157,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2199	indication	2357	Bronchogenic cyst	not_genetic	pirbuterol
 2620	indication	90060	Diffuse alveolar hemorrhage	not_genetic	theophylline
 2199	indication	90060	Diffuse alveolar hemorrhage	not_genetic	pirbuterol
-2621	indication	423717	Cutaneous larva migrans	not_genetic	thiabendazole
 4213	indication	93552	Pediatric systemic lupus erythematosus	not_genetic	hydrocortisone acetate
 348	indication	93552	Pediatric systemic lupus erythematosus	not_genetic	betamethasone
 734	indication	93552	Pediatric systemic lupus erythematosus	not_genetic	cortisone acetate
@@ -4628,18 +5211,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 961	indication	83315	Murine typhus	not_genetic	doxycycline
 1261	indication	102023	Typhus-group rickettsiosis	not_genetic	fusidic acid
 961	indication	102023	Typhus-group rickettsiosis	not_genetic	doxycycline
-734	indication	95409	Acute adrenal insufficiency	not_genetic	cortisone acetate
-2245	indication	95409	Acute adrenal insufficiency	not_genetic	prednisolone
-824	indication	95409	Acute adrenal insufficiency	not_genetic	dexamethasone
-4213	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone acetate
-2727	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone diacetate
-349	indication	95409	Acute adrenal insufficiency	not_genetic	betamethasone acetate
-348	indication	95409	Acute adrenal insufficiency	not_genetic	betamethasone
-2725	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone
-2726	indication	95409	Acute adrenal insufficiency	not_genetic	triamcinolone acetonide
-1388	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone
-4456	indication	95409	Acute adrenal insufficiency	not_genetic	hydrocortisone succinate
-1768	indication	95409	Acute adrenal insufficiency	not_genetic	methylprednisolone
 1423	indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	imatinib
 4477	off-label use	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	sodium citrate
 4520	off-label use	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	potassium hydrogencarbonate
@@ -4769,7 +5340,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1603	indication	449395	IgG4-related kidney disease	not_genetic	loracarbef
 1603	indication	401996	Karyomegalic interstitial nephritis	rare_genetic	loracarbef
 1937	indication	90065	Acquired aneurysmal subarachnoid hemorrhage	not_genetic	nimodipine
-2073	indication	50251	Pleural mesothelioma	not_genetic	pemetrexed
 2245	indication	182101	Idiopathic eosinophilic pneumonia	not_genetic	prednisolone
 873	indication	182101	Idiopathic eosinophilic pneumonia	not_genetic	diethylcarbamazine
 5061	indication	182101	Idiopathic eosinophilic pneumonia	not_genetic	mepolizumab
@@ -4919,14 +5489,14 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2561	off-label use	213589	Malignant mixed epithelial and mesenchymal tumor of corpus uteri	not_genetic	tamoxifen
 2044	off-label use	213589	Malignant mixed epithelial and mesenchymal tumor of corpus uteri	not_genetic	paclitaxel
 1659	indication	213589	Malignant mixed epithelial and mesenchymal tumor of corpus uteri	not_genetic	medroxyprogesterone
-4189	off-label use	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	hydroxyprogesterone caproate
-960	off-label use	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	doxorubicin
-2279	indication	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	progesterone
-4133	off-label use	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	carboplatin
-1667	indication	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	megestrol acetate
-2561	off-label use	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	tamoxifen
-2044	off-label use	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	paclitaxel
-1659	indication	213630	Malignant peripheral neuroectodermal tumor of corpus uteri	not_genetic	medroxyprogesterone
+4189	off-label use	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	hydroxyprogesterone caproate
+960	off-label use	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	doxorubicin
+2279	indication	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	progesterone
+4133	off-label use	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	carboplatin
+1667	indication	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	megestrol acetate
+2561	off-label use	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	tamoxifen
+2044	off-label use	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	paclitaxel
+1659	indication	213630	Primitive neuroectodermal tumor of the corpus uteri	not_genetic	medroxyprogesterone
 4189	off-label use	213726	Papillary carcinoma of the corpus uteri	not_genetic	hydroxyprogesterone caproate
 960	off-label use	213726	Papillary carcinoma of the corpus uteri	not_genetic	doxorubicin
 2279	indication	213726	Papillary carcinoma of the corpus uteri	not_genetic	progesterone
@@ -4959,22 +5529,22 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2561	off-label use	213746	Transitional cell carcinoma of the corpus uteri	not_genetic	tamoxifen
 2044	off-label use	213746	Transitional cell carcinoma of the corpus uteri	not_genetic	paclitaxel
 1659	indication	213746	Transitional cell carcinoma of the corpus uteri	not_genetic	medroxyprogesterone
-4189	off-label use	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	hydroxyprogesterone caproate
-960	off-label use	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	doxorubicin
-2279	indication	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	progesterone
-4133	off-label use	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	carboplatin
-1667	indication	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	megestrol acetate
-2561	off-label use	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	tamoxifen
-2044	off-label use	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	paclitaxel
-1659	indication	213731	Poorly differentiated endocrine carcinoma of the corpus uteri	not_genetic	medroxyprogesterone
-4189	off-label use	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	hydroxyprogesterone caproate
-960	off-label use	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	doxorubicin
-2279	indication	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	progesterone
-4133	off-label use	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	carboplatin
-1667	indication	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	megestrol acetate
-2561	off-label use	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	tamoxifen
-2044	off-label use	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	paclitaxel
-1659	indication	213736	Well-differentiated neuroendocrine neoplasm of corpus uteri	not_genetic	medroxyprogesterone
+4189	off-label use	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	hydroxyprogesterone caproate
+960	off-label use	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	doxorubicin
+2279	indication	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	progesterone
+4133	off-label use	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	carboplatin
+1667	indication	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	megestrol acetate
+2561	off-label use	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	tamoxifen
+2044	off-label use	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	paclitaxel
+1659	indication	213731	High-grade neuroendocrine carcinoma of the corpus uteri	not_genetic	medroxyprogesterone
+4189	off-label use	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	hydroxyprogesterone caproate
+960	off-label use	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	doxorubicin
+2279	indication	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	progesterone
+4133	off-label use	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	carboplatin
+1667	indication	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	megestrol acetate
+2561	off-label use	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	tamoxifen
+2044	off-label use	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	paclitaxel
+1659	indication	213736	Low-grade neuroendocrine tumor of the corpus uteri	not_genetic	medroxyprogesterone
 4189	off-label use	213751	Malignant germ cell tumor of corpus uteri	not_genetic	hydroxyprogesterone caproate
 960	off-label use	213751	Malignant germ cell tumor of corpus uteri	not_genetic	doxorubicin
 2279	indication	213751	Malignant germ cell tumor of corpus uteri	not_genetic	progesterone
@@ -5040,9 +5610,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 854	indication	165985	Diazoxide-sensitive diffuse hyperinsulinism	rare_genetic	diazoxide
 1980	off-label use	165985	Diazoxide-sensitive diffuse hyperinsulinism	rare_genetic	octreotide
 845	indication	165985	Diazoxide-sensitive diffuse hyperinsulinism	rare_genetic	glucose
-854	indication	657	Congenital isolated hyperinsulinism	rare_genetic	diazoxide
-1980	off-label use	657	Congenital isolated hyperinsulinism	rare_genetic	octreotide
-845	indication	657	Congenital isolated hyperinsulinism	rare_genetic	glucose
 854	indication	263458	Hyperinsulinism due to INSR deficiency	rare_genetic	diazoxide
 1980	off-label use	263458	Hyperinsulinism due to INSR deficiency	rare_genetic	octreotide
 845	indication	263458	Hyperinsulinism due to INSR deficiency	rare_genetic	glucose
@@ -5091,18 +5658,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 854	indication	79644	Autosomal recessive hyperinsulinism due to Kir6.2 deficiency	rare_genetic	diazoxide
 1980	off-label use	79644	Autosomal recessive hyperinsulinism due to Kir6.2 deficiency	rare_genetic	octreotide
 845	indication	79644	Autosomal recessive hyperinsulinism due to Kir6.2 deficiency	rare_genetic	glucose
-2095	off-label use	238624	Idiopathic intracranial hypertension	not_genetic	pentobarbital
-935	indication	238624	Idiopathic intracranial hypertension	not_genetic	mannitol
-56	off-label use	238624	Idiopathic intracranial hypertension	not_genetic	acetazolamide
-2633	indication	238624	Idiopathic intracranial hypertension	not_genetic	thiopental
-2253	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	prednisone
-734	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	cortisone acetate
-824	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	dexamethasone
-1768	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	methylprednisolone
-2727	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	triamcinolone diacetate
-2725	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	triamcinolone
-348	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	betamethasone
-2245	off-label use	439762	Systemic polyarteritis nodosa	not_genetic	prednisolone
 2253	off-label use	439755	Single-organ polyarteritis nodosa	not_genetic	prednisone
 734	off-label use	439755	Single-organ polyarteritis nodosa	not_genetic	cortisone acetate
 824	off-label use	439755	Single-organ polyarteritis nodosa	not_genetic	dexamethasone
@@ -5504,18 +6059,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2253	off-label use	838	Susac syndrome	not_genetic	prednisone
 2725	indication	838	Susac syndrome	not_genetic	triamcinolone
 734	off-label use	838	Susac syndrome	not_genetic	cortisone acetate
-2840	indication	181405	Rare hypoparathyroidism	not_genetic	colecalciferol
-2841	indication	181405	Rare hypoparathyroidism	not_genetic	dihydrotachysterol
-466	indication	181405	Rare hypoparathyroidism	not_genetic	calcitriol
-2838	indication	181405	Rare hypoparathyroidism	not_genetic	ergocalciferol
-4936	indication	181405	Rare hypoparathyroidism	not_genetic	parathyroid hormone
-130	indication	181405	Rare hypoparathyroidism	not_genetic	alfacalcidol
-4348	indication	181405	Rare hypoparathyroidism	not_genetic	calcium gluconate
-4287	indication	181405	Rare hypoparathyroidism	not_genetic	calcium acetate
-4201	indication	181405	Rare hypoparathyroidism	not_genetic	calcium chloride
-4434	indication	181405	Rare hypoparathyroidism	not_genetic	calcium glycerylphosphate
-4383	indication	181405	Rare hypoparathyroidism	not_genetic	calcium lactate
-4433	indication	181405	Rare hypoparathyroidism	not_genetic	calcium glucoheptonate
 1098	indication	2801	Juvenile Paget disease	rare_genetic	etidronic acid
 2387	indication	2801	Juvenile Paget disease	rare_genetic	risedronic acid
 2666	indication	2801	Juvenile Paget disease	rare_genetic	tiludronic acid
@@ -6237,9 +6780,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 774	indication	102020	Autosomal monosomy	rare_genetic	dactinomycin
 786	off-label use	102020	Autosomal monosomy	rare_genetic	daunorubicin
 960	indication	102020	Autosomal monosomy	rare_genetic	doxorubicin
-197	off-label use	1546	Cryptococcosis	not_genetic	amphotericin B
-1187	indication	1546	Cryptococcosis	not_genetic	fluconazole
-197	indication	1546	Cryptococcosis	not_genetic	amphotericin B
 1659	off-label use	169618	Secondary central precocious puberty	not_genetic	medroxyprogesterone
 1559	indication	169618	Secondary central precocious puberty	not_genetic	leuprorelin
 1868	indication	169618	Secondary central precocious puberty	not_genetic	nafarelin
@@ -6292,7 +6832,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 3103	off-label use	137754	Neurological conditions associated with aminoacylase 1 deficiency	rare_genetic	citrulline
 3103	off-label use	382	Guanidinoacetate methyltransferase deficiency	rare_genetic	citrulline
 3103	off-label use	742	Prolidase deficiency	rare_genetic	citrulline
-3103	off-label use	2837	Pellagra-like skin rash-neurological manifestations syndrome	rare_genetic	citrulline
+3103	off-label use	2837	Pellagra-like skin rash-neurological manifestations syndrome	not_genetic	citrulline
 3103	off-label use	943	Malonic aciduria	rare_genetic	citrulline
 3103	off-label use	2066	Gamma-aminobutyric acid transaminase deficiency	rare_genetic	citrulline
 3103	off-label use	2168	Homocarnosinosis	rare_genetic	citrulline
@@ -6380,18 +6920,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2291	indication	3283	His bundle tachycardia	rare_genetic	propafenone
 1753	indication	3283	His bundle tachycardia	rare_genetic	methoxamine
 897	indication	3283	His bundle tachycardia	rare_genetic	diltiazem
-1786	off-label use	3282	Multifocal atrial tachycardia	not_genetic	metoprolol
-1054	indication	3282	Multifocal atrial tachycardia	not_genetic	esmolol
-1277	off-label use	3282	Multifocal atrial tachycardia	not_genetic	ganciclovir
-2303	indication	3282	Multifocal atrial tachycardia	not_genetic	propranolol
-90	off-label use	3282	Multifocal atrial tachycardia	not_genetic	adenosine
-926	off-label use	3282	Multifocal atrial tachycardia	not_genetic	disopyramide
-90	indication	3282	Multifocal atrial tachycardia	not_genetic	adenosine
-2815	indication	3282	Multifocal atrial tachycardia	not_genetic	verapamil
-1277	indication	3282	Multifocal atrial tachycardia	not_genetic	ganciclovir
-2291	indication	3282	Multifocal atrial tachycardia	not_genetic	propafenone
-1753	indication	3282	Multifocal atrial tachycardia	not_genetic	methoxamine
-897	indication	3282	Multifocal atrial tachycardia	not_genetic	diltiazem
 2033	indication	182040	Aplastic anemia	rare_genetic	oxymetholone
 965	indication	182040	Aplastic anemia	rare_genetic	drostanolone propionate
 2477	off-label use	182040	Aplastic anemia	rare_genetic	stanozolol
@@ -6616,8 +7144,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 3096	indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	cholic acid
 1395	off-label use	330058	Hydroa vacciniforme	not_genetic	hydroxychloroquine
 607	off-label use	330058	Hydroa vacciniforme	not_genetic	chloroquine
-1395	off-label use	330061	Actinic prurigo	not_genetic	hydroxychloroquine
-607	off-label use	330061	Actinic prurigo	not_genetic	chloroquine
 138	indication	95457	Tricuspid valve agenesis	not_genetic	alprostadil
 138	indication	95459	Congenital tricuspid stenosis	not_genetic	alprostadil
 138	indication	98721	Congenital tricuspid malformation	not_genetic	alprostadil
@@ -6625,12 +7151,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 138	indication	1456	Atypical coarctation of aorta	not_genetic	alprostadil
 2134	off-label use	234	Dubin-Johnson syndrome	rare_genetic	phenobarbital
 2134	off-label use	3111	Rotor syndrome	rare_genetic	phenobarbital
-4343	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc gluconate
-4344	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc chloride
-4275	indication	37	Acrodermatitis enteropathica	rare_genetic	zinc sulfate
-4344	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc chloride
-4275	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc sulfate
-4343	off-label use	37	Acrodermatitis enteropathica	rare_genetic	zinc gluconate
 4343	indication	251523	Recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome	rare_genetic	zinc gluconate
 4344	indication	251523	Recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome	rare_genetic	zinc chloride
 4275	indication	251523	Recurrent infections-inflammatory syndrome due to zinc metabolism disorder syndrome	rare_genetic	zinc sulfate
@@ -6746,32 +7266,11 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2253	off-label use	48435	Postinfectious vasculitis	not_genetic	prednisone
 1768	off-label use	48435	Postinfectious vasculitis	not_genetic	methylprednisolone
 2725	off-label use	48435	Postinfectious vasculitis	not_genetic	triamcinolone
-2253	indication	133	Chronic beryllium disease	not_genetic	prednisone
-1768	indication	133	Chronic beryllium disease	not_genetic	methylprednisolone
-2245	indication	133	Chronic beryllium disease	not_genetic	prednisolone
-4213	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone acetate
-2727	indication	133	Chronic beryllium disease	not_genetic	triamcinolone diacetate
-824	indication	133	Chronic beryllium disease	not_genetic	dexamethasone
-734	indication	133	Chronic beryllium disease	not_genetic	cortisone acetate
-4456	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone succinate
-2726	indication	133	Chronic beryllium disease	not_genetic	triamcinolone acetonide
-2725	indication	133	Chronic beryllium disease	not_genetic	triamcinolone
-348	indication	133	Chronic beryllium disease	not_genetic	betamethasone
-349	indication	133	Chronic beryllium disease	not_genetic	betamethasone acetate
-1388	indication	133	Chronic beryllium disease	not_genetic	hydrocortisone
 2483	off-label use	100093	Carcinoid syndrome	not_genetic	streptozocin
 960	off-label use	100093	Carcinoid syndrome	not_genetic	doxorubicin
 1980	indication	100093	Carcinoid syndrome	not_genetic	octreotide
 26	off-label use	100093	Carcinoid syndrome	not_genetic	fluorouracil
 1980	off-label use	100093	Carcinoid syndrome	not_genetic	octreotide
-2725	off-label use	93569	Polymyalgia rheumatica	not_genetic	triamcinolone
-348	off-label use	93569	Polymyalgia rheumatica	not_genetic	betamethasone
-2253	off-label use	93569	Polymyalgia rheumatica	not_genetic	prednisone
-734	off-label use	93569	Polymyalgia rheumatica	not_genetic	cortisone acetate
-2727	off-label use	93569	Polymyalgia rheumatica	not_genetic	triamcinolone diacetate
-2245	indication	93569	Polymyalgia rheumatica	not_genetic	prednisolone
-824	off-label use	93569	Polymyalgia rheumatica	not_genetic	dexamethasone
-1768	off-label use	93569	Polymyalgia rheumatica	not_genetic	methylprednisolone
 1612	indication	650	LCAT deficiency	rare_genetic	lovastatin
 2445	indication	650	LCAT deficiency	rare_genetic	simvastatin
 1285	off-label use	650	LCAT deficiency	rare_genetic	gemfibrozil
@@ -6957,12 +7456,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 740	indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	croconazole
 1991	indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	omoconazole
 1187	indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	fluconazole
-1709	off-label use	31204	Nocardiosis	not_genetic	meropenem
-1813	off-label use	31204	Nocardiosis	not_genetic	minocycline
-2514	indication	31204	Nocardiosis	not_genetic	sulfamethoxazole
-2755	off-label use	31204	Nocardiosis	not_genetic	trimethoprim
-2529	indication	31204	Nocardiosis	not_genetic	sulfafurazole
-937	indication	97292	Cardiogenic shock	not_genetic	dobutamine
 1358	indication	49566	Acquired purpura fulminans	not_genetic	heparin
 197	off-label use	68	Amoebiasis due to free-living amoebae	not_genetic	amphotericin B
 1187	indication	3143	Autoimmune polyendocrinopathy type 2	rare_genetic	fluconazole
@@ -7305,9 +7798,9 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2722	off-label use	50944	Schöpf-Schulz-Passarge syndrome	rare_genetic	tretinoin
 78	off-label use	50944	Schöpf-Schulz-Passarge syndrome	rare_genetic	acitretin
 5219	indication	50944	Schöpf-Schulz-Passarge syndrome	rare_genetic	trafermin
-2722	off-label use	50942	Keratosis palmoplantaris striata	rare_genetic	tretinoin
-78	off-label use	50942	Keratosis palmoplantaris striata	rare_genetic	acitretin
-5219	indication	50942	Keratosis palmoplantaris striata	rare_genetic	trafermin
+2722	off-label use	50942	Striate palmoplantar keratoderma	rare_genetic	tretinoin
+78	off-label use	50942	Striate palmoplantar keratoderma	rare_genetic	acitretin
+5219	indication	50942	Striate palmoplantar keratoderma	rare_genetic	trafermin
 2722	off-label use	90348	Autosomal dominant cutis laxa	rare_genetic	tretinoin
 78	off-label use	90348	Autosomal dominant cutis laxa	rare_genetic	acitretin
 5219	indication	90348	Autosomal dominant cutis laxa	rare_genetic	trafermin
@@ -7387,7 +7880,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2459	indication	424970	Undifferentiated carcinoma of liver and intrahepatic biliary tract	not_genetic	sorafenib
 2459	indication	424975	Squamous cell carcinoma of liver and intrahepatic biliary tract	not_genetic	sorafenib
 2459	indication	33402	Pediatric hepatocellular carcinoma	not_genetic	sorafenib
-2459	indication	88673	Hepatocellular carcinoma	not_genetic	sorafenib
 2616	off-label use	254478	Lichen planus pemphigoides	not_genetic	thalidomide
 2616	off-label use	254411	Annular atrophic lichen planus	not_genetic	thalidomide
 2616	off-label use	254424	Annular lichen planus	not_genetic	thalidomide
@@ -7484,7 +7976,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 1112	off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	etoposide
 4948	indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	dinutuximab
 758	indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	cyclophosphamide
-2373	off-label use	99827	Crimean-Congo hemorrhagic fever	not_genetic	ribavirin
 1759	off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	methylclothiazide
 622	off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	chlorpropamide
 625	off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	chlortalidone
@@ -7563,15 +8054,8 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2810	indication	166096	Von Willebrand disease type 3	rare_genetic	vasopressin
 5173	indication	166096	Von Willebrand disease type 3	rare_genetic	vonicog alfa
 5055	indication	166096	Von Willebrand disease type 3	rare_genetic	idarucizumab
-1261	indication	99990	Brill-Zinsser disease	not_genetic	fusidic acid
-961	indication	99990	Brill-Zinsser disease	not_genetic	doxycycline
-589	indication	443227	Paratyphoid fever	not_genetic	chloramphenicol
-2514	off-label use	443227	Paratyphoid fever	not_genetic	sulfamethoxazole
-2755	off-label use	443227	Paratyphoid fever	not_genetic	trimethoprim
-198	indication	443227	Paratyphoid fever	not_genetic	ampicillin
 1261	indication	99991	Relapsing epidemic typhus	not_genetic	fusidic acid
 961	indication	99991	Relapsing epidemic typhus	not_genetic	doxycycline
-770	indication	329998	Lymphomatous meningitis	not_genetic	cytarabine
 1980	off-label use	438274	GCGR-related hyperglucagonemia	not_genetic	octreotide
 854	indication	438274	GCGR-related hyperglucagonemia	not_genetic	diazoxide
 1786	off-label use	3286	Catecholaminergic polymorphic ventricular tachycardia	rare_genetic	metoprolol
@@ -7615,8 +8099,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5029	indication	3467	Hereditary xanthinuria	rare_genetic	uridine triacetate
 124	off-label use	1675	Dihydropyrimidine dehydrogenase deficiency	rare_genetic	allopurinol
 5029	indication	1675	Dihydropyrimidine dehydrogenase deficiency	rare_genetic	uridine triacetate
-124	off-label use	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	allopurinol
-5029	indication	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	uridine triacetate
 124	off-label use	1187	Lethal ataxia with deafness and optic atrophy	rare_genetic	allopurinol
 5029	indication	1187	Lethal ataxia with deafness and optic atrophy	rare_genetic	uridine triacetate
 124	off-label use	250977	AICA-ribosiduria	rare_genetic	allopurinol
@@ -7667,7 +8149,7 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2303	indication	314637	Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency	rare_genetic	propranolol
 2303	indication	352563	Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency	rare_genetic	propranolol
 2303	indication	289527	Fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency	rare_genetic	propranolol
-2303	indication	444013	Combined oxidative phosphorylation deficiency type 23	rare_genetic	propranolol
+2303	indication	444013	Combined oxidative phosphorylation defect type 23	rare_genetic	propranolol
 2609	indication	157941	Huntington disease-like 1	rare_genetic	tetrabenazine
 5226	indication	157941	Huntington disease-like 1	rare_genetic	deutetrabenazine
 2609	indication	157946	Huntington disease-like 3	rare_genetic	tetrabenazine
@@ -7745,7 +8227,6 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 2828	indication	168782	Childhood disintegrative disorder	rare_genetic	vinpocetine
 4742	indication	398058	Squamous cell carcinoma of penis	not_genetic	bleomycin
 4742	indication	398053	Adenocarcinoma of penis	not_genetic	bleomycin
-4742	indication	398043	Malignant tumor of penis	not_genetic	bleomycin
 4851	indication	69063	Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization	not_genetic	colestilan
 4538	indication	69063	Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization	not_genetic	ferric citrate
 5121	indication	69063	Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization	not_genetic	sucroferric oxyhydroxide
@@ -7782,8 +8263,8 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 4956	indication	213767	Squamous cell carcinoma of the cervix uteri	not_genetic	bevacizumab
 4956	indication	213792	Adenosarcoma of the cervix uteri	not_genetic	bevacizumab
 4956	indication	213782	Malignant mixed epithelial and mesenchymal tumor of cervix uteri	not_genetic	bevacizumab
-4956	indication	213777	Poorly differentiated endocrine carcinoma of the cervix uteri	not_genetic	bevacizumab
-4956	indication	213812	Malignant peripheral neuroectodermal tumor of cervix uteri	not_genetic	bevacizumab
+4956	indication	213777	High-grade neuroendocrine carcinoma of the cervix uteri	not_genetic	bevacizumab
+4956	indication	213812	Primitive neuroectodermal tumor of the cervix uteri	not_genetic	bevacizumab
 4956	indication	213807	Leiomyosarcoma of the cervix uteri	not_genetic	bevacizumab
 4956	indication	213802	Rhabdomyosarcoma of the cervix uteri	not_genetic	bevacizumab
 4956	indication	213797	Sarcoma of cervix uteri	not_genetic	bevacizumab
@@ -7801,15 +8282,11 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5055	indication	483	Congenital high-molecular-weight kininogen deficiency	rare_genetic	idarucizumab
 5055	indication	465	Congenital plasminogen activator inhibitor type 1 deficiency	rare_genetic	idarucizumab
 5055	indication	35909	Combined deficiency of factor V and factor VIII	rare_genetic	idarucizumab
-4190	indication	824	Primary myelofibrosis	not_genetic	ruxolitinib
 5092	indication	79124	Hepatic veno-occlusive disease-immunodeficiency syndrome	rare_genetic	defibrotide
-130	indication	181408	Rare hyperparathyroidism	not_genetic	alfacalcidol
-5181	indication	181408	Rare hyperparathyroidism	not_genetic	etelcalcetide
 5159	indication	274	Bernard-Soulier syndrome	rare_genetic	eptacog alfa (activated)
 5159	indication	248340	Isolated delta-storage pool disease	rare_genetic	eptacog alfa (activated)
 5159	indication	220452	Isolated hereditary giant platelet disorder	rare_genetic	eptacog alfa (activated)
 5159	indication	220436	Quebec platelet disorder	rare_genetic	eptacog alfa (activated)
-5159	indication	849	Glanzmann thrombasthenia	rare_genetic	eptacog alfa (activated)
 5159	indication	370127	Medich giant platelet syndrome	rare_genetic	eptacog alfa (activated)
 5159	indication	370131	White platelet syndrome	rare_genetic	eptacog alfa (activated)
 5159	indication	420566	Bleeding disorder due to CalDAG-GEFI deficiency	rare_genetic	eptacog alfa (activated)
@@ -7819,4 +8296,3 @@ struct_id	relationship_name	orphanet_id	dise_name	dise_type	drug_name
 5159	indication	98455	Alpha granule disease	rare_genetic	eptacog alfa (activated)
 5159	indication	98456	Dense granule disease	rare_genetic	eptacog alfa (activated)
 5159	indication	101022	Mediterranean macrothrombocytopenia	not_genetic	eptacog alfa (activated)
-1581	indication	36258	Buerger disease	not_genetic	limaprost
