@@ -1,17 +1,168 @@
 relationship_name	orphanet_id	dise_name	dise_type	drugbank_id	drug_name
+indication	213711	Endometrial stromal sarcoma	not_genetic	DB00351	Megestrol acetate
+indication	70573	Small cell lung cancer	not_genetic	DB01030	Topotecan
+off-label use	319	Ewing sarcoma	not_genetic	DB01030	Topotecan
+indication	29073	Multiple myeloma	not_genetic	DB01042	Melphalan
+off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00675	Tamoxifen
+off-label use	29073	Multiple myeloma	not_genetic	DB00773	Etoposide
+off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00773	Etoposide
+indication	70573	Small cell lung cancer	not_genetic	DB00773	Etoposide
+off-label use	543	Burkitt lymphoma	not_genetic	DB00773	Etoposide
+off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB00773	Etoposide
+off-label use	319	Ewing sarcoma	not_genetic	DB00773	Etoposide
+off-label use	635	Neuroblastoma	not_genetic	DB00773	Etoposide
+off-label use	668	Osteosarcoma	not_genetic	DB00773	Etoposide
+off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00773	Etoposide
+off-label use	251656	Oligoastrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251671	Angiocentric glioma	not_genetic	DB00773	Etoposide
+off-label use	251579	Giant cell glioblastoma	not_genetic	DB00773	Etoposide
+off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00773	Etoposide
+off-label use	251627	Oligodendroglioma	not_genetic	DB00773	Etoposide
+off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00773	Etoposide
+off-label use	276627	Sporadic secreting paraganglioma	not_genetic	DB00773	Etoposide
+off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00773	Etoposide
+indication	521	Chronic myeloid leukemia	not_genetic	DB01005	Hydroxyurea
+off-label use	729	Polycythemia vera	not_genetic	DB01005	Hydroxyurea
+off-label use	3318	Essential thrombocythemia	not_genetic	DB01005	Hydroxyurea
+indication	232	Sickle cell anemia	rare_genetic	DB01005	Hydroxyurea
+off-label use	90042	Primary familial polycythemia	rare_genetic	DB01005	Hydroxyurea
+indication	163596	Hb Bart's hydrops fetalis	rare_genetic	DB01005	Hydroxyurea
+indication	847	Alpha-thalassemia-X-linked intellectual disability syndrome	rare_genetic	DB01005	Hydroxyurea
+indication	231401	Alpha-thalassemia-myelodysplastic syndrome	rare_genetic	DB01005	Hydroxyurea
+indication	93616	Hemoglobin H disease	rare_genetic	DB01005	Hydroxyurea
+indication	98791	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	rare_genetic	DB01005	Hydroxyurea
+off-label use	70573	Small cell lung cancer	not_genetic	DB01229	Paclitaxel
+off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB01229	Paclitaxel
+off-label use	70573	Small cell lung cancer	not_genetic	DB00441	Gemcitabine
+off-label use	319	Ewing sarcoma	not_genetic	DB00441	Gemcitabine
+off-label use	70573	Small cell lung cancer	not_genetic	DB00958	Carboplatin
+off-label use	319	Ewing sarcoma	not_genetic	DB00958	Carboplatin
+off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00958	Carboplatin
+off-label use	70573	Small cell lung cancer	not_genetic	DB01248	Docetaxel
+off-label use	319	Ewing sarcoma	not_genetic	DB01248	Docetaxel
+indication	1331	Familial prostate cancer	rare_genetic	DB01248	Docetaxel
+indication	26106	Hereditary diffuse gastric cancer	rare_genetic	DB01248	Docetaxel
+indication	545	Follicular lymphoma	not_genetic	DB00997	Doxorubicin
+off-label use	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00997	Doxorubicin
+indication	29073	Multiple myeloma	not_genetic	DB00997	Doxorubicin
+indication	146	Differentiated thyroid carcinoma	not_genetic	DB00997	Doxorubicin
+indication	251589	Anaplastic astrocytoma	not_genetic	DB00997	Doxorubicin
+indication	654	Nephroblastoma	rare_genetic	DB00997	Doxorubicin
+indication	70573	Small cell lung cancer	not_genetic	DB00997	Doxorubicin
+indication	543	Burkitt lymphoma	not_genetic	DB00997	Doxorubicin
+indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB00997	Doxorubicin
+off-label use	319	Ewing sarcoma	not_genetic	DB00997	Doxorubicin
+indication	319	Ewing sarcoma	not_genetic	DB00997	Doxorubicin
+indication	635	Neuroblastoma	not_genetic	DB00997	Doxorubicin
+indication	319487	Familial papillary or follicular thyroid carcinoma	rare_genetic	DB00997	Doxorubicin
+indication	99361	Familial medullary thyroid carcinoma	rare_genetic	DB00997	Doxorubicin
+indication	668	Osteosarcoma	not_genetic	DB00997	Doxorubicin
+off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00997	Doxorubicin
+indication	251630	Anaplastic oligodendroglioma	not_genetic	DB00997	Doxorubicin
+indication	251656	Oligoastrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251663	Anaplastic oligoastrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251671	Angiocentric glioma	not_genetic	DB00997	Doxorubicin
+indication	251579	Giant cell glioblastoma	not_genetic	DB00997	Doxorubicin
+indication	251598	Protoplasmic astrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251604	Gemistocytic astrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251601	Fibrillary astrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251612	Pilocytic astrocytoma	not_genetic	DB00997	Doxorubicin
+indication	251627	Oligodendroglioma	not_genetic	DB00997	Doxorubicin
+indication	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00997	Doxorubicin
+indication	163693	2p21 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	819	Smith-Magenis syndrome	rare_genetic	DB00997	Doxorubicin
+indication	2308	Jacobsen syndrome	rare_genetic	DB00997	Doxorubicin
+indication	171829	6q16 deletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	199318	15q13.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	1587	Monosomy 13q14	rare_genetic	DB00997	Doxorubicin
+indication	1620	Distal monosomy 3p	rare_genetic	DB00997	Doxorubicin
+indication	1627	Deletion 5q35	rare_genetic	DB00997	Doxorubicin
+indication	1001	2q37 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	1596	Distal monosomy 15q	rare_genetic	DB00997	Doxorubicin
+indication	1617	2q24 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	1606	1p36 deletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251019	2q32q33 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251028	2q33.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251061	7q31 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251066	8p11.2 deletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251071	8p23.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	251056	6q25 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	254525	Paternal 14q32.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	254528	Maternal 14q32.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261144	14q12 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261222	Distal 16p11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261190	15q14 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261197	Proximal 16p11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261295	20p12.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261279	17q23.1q23.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261265	17q12 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261250	16q24.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261257	Distal 17p13.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	261330	Distal 22q11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	264200	14q22q23 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	268261	DYRK1A-related intellectual disability syndrome due to 21q22.13q22.2 microdeletion	rare_genetic	DB00997	Doxorubicin
+indication	280325	Distal monosomy 12p	rare_genetic	DB00997	Doxorubicin
+indication	228402	2q23.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	228384	5q14.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	238769	1q44 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	314655	Severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion	rare_genetic	DB00997	Doxorubicin
+indication	369881	2p21 microdeletion syndrome without cystinuria	rare_genetic	DB00997	Doxorubicin
+indication	363992	Ichthyosis-short stature-brachydactyly-microspherophakia syndrome	rare_genetic	DB00997	Doxorubicin
+indication	363965	Koolen-De Vries syndrome due to a point mutation	rare_genetic	DB00997	Doxorubicin
+indication	363958	17q21.31 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	352665	Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to 9q21 microdeletion	rare_genetic	DB00997	Doxorubicin
+indication	293948	1p21.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	313884	12p12.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	401986	1p31p32 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	411511	Angelman syndrome due to a point mutation	rare_genetic	DB00997	Doxorubicin
+indication	411515	Angelman syndrome due to imprinting defect in 15q11-q13	rare_genetic	DB00997	Doxorubicin
+indication	77301	Monosomy 9q22.3	rare_genetic	DB00997	Doxorubicin
+indication	75857	6q terminal deletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	36367	Distal monosomy 1q	rare_genetic	DB00997	Doxorubicin
+indication	48652	Monosomy 22q13	rare_genetic	DB00997	Doxorubicin
+indication	52022	Potocki-Shaffer syndrome	rare_genetic	DB00997	Doxorubicin
+indication	94064	Deafness-infertility syndrome	rare_genetic	DB00997	Doxorubicin
+indication	94063	12q14 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	94065	15q24 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
+indication	98795	Angelman syndrome due to paternal uniparental disomy of chromosome 15	rare_genetic	DB00997	Doxorubicin
+indication	98794	Angelman syndrome due to maternal 15q11q13 deletion	rare_genetic	DB00997	Doxorubicin
+off-label use	100093	Carcinoid syndrome	not_genetic	DB00997	Doxorubicin
+indication	276627	Sporadic secreting paraganglioma	not_genetic	DB00997	Doxorubicin
+indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00997	Doxorubicin
+indication	26106	Hereditary diffuse gastric cancer	rare_genetic	DB01101	Capecitabine
+indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB05109	Trabectedin
+indication	163699	Alveolar soft-tissue sarcoma	not_genetic	DB05109	Trabectedin
+indication	209916	Extraskeletal myxoid chondrosarcoma	not_genetic	DB05109	Trabectedin
+indication	2030	Fibrosarcoma	not_genetic	DB05109	Trabectedin
+indication	3273	Synovial sarcoma	not_genetic	DB05109	Trabectedin
+indication	231108	Familial rhabdoid tumor	rare_genetic	DB05109	Trabectedin
+indication	370334	Extraskeletal Ewing sarcoma	not_genetic	DB05109	Trabectedin
+indication	55880	Chondrosarcoma	not_genetic	DB05109	Trabectedin
+indication	79105	Myxofibrosarcoma	not_genetic	DB05109	Trabectedin
+indication	99757	Embryonal rhabdomyosarcoma	not_genetic	DB05109	Trabectedin
+indication	99756	Alveolar rhabdomyosarcoma	not_genetic	DB05109	Trabectedin
+indication	99971	Well-differentiated liposarcoma	not_genetic	DB05109	Trabectedin
+indication	99970	Dedifferentiated liposarcoma	not_genetic	DB05109	Trabectedin
+indication	99967	Myxoid/round cell liposarcoma	not_genetic	DB05109	Trabectedin
+indication	99966	Atypical teratoid rhabdoid tumor	not_genetic	DB05109	Trabectedin
 indication	58017	Hairy cell leukemia	not_genetic	DB00552	Pentostatin
 off-label use	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00552	Pentostatin
 indication	58017	Hairy cell leukemia	not_genetic	DB00242	Cladribine
 off-label use	33226	Waldenström macroglobulinemia	not_genetic	DB00242	Cladribine
 indication	545	Follicular lymphoma	not_genetic	DB00620	Triamcinolone
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00620	Triamcinolone
 off-label use	29073	Multiple myeloma	not_genetic	DB00620	Triamcinolone
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB00620	Triamcinolone
 indication	797	Sarcoidosis	not_genetic	DB00620	Triamcinolone
 indication	397	Giant cell arteritis	not_genetic	DB00620	Triamcinolone
 off-label use	3451	West syndrome	rare_genetic	DB00620	Triamcinolone
+indication	133	Chronic beryllium disease	not_genetic	DB00620	Triamcinolone
 off-label use	703	Bullous pemphigoid	not_genetic	DB00620	Triamcinolone
 indication	703	Bullous pemphigoid	not_genetic	DB00620	Triamcinolone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00620	Triamcinolone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00620	Triamcinolone
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00620	Triamcinolone
 indication	701	Alopecia universalis	rare_genetic	DB00620	Triamcinolone
@@ -27,19 +178,19 @@ indication	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid deh
 indication	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00620	Triamcinolone
 indication	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00620	Triamcinolone
 indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00620	Triamcinolone
-indication	133	Chronic beryllium disease	not_genetic	DB00620	Triamcinolone
 indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	DB00620	Triamcinolone
 indication	545	Follicular lymphoma	not_genetic	DB01380	Cortisone acetate
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB01380	Cortisone acetate
 off-label use	29073	Multiple myeloma	not_genetic	DB01380	Cortisone acetate
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB01380	Cortisone acetate
 indication	797	Sarcoidosis	not_genetic	DB01380	Cortisone acetate
 off-label use	397	Giant cell arteritis	not_genetic	DB01380	Cortisone acetate
 off-label use	3451	West syndrome	rare_genetic	DB01380	Cortisone acetate
+indication	133	Chronic beryllium disease	not_genetic	DB01380	Cortisone acetate
 off-label use	703	Bullous pemphigoid	not_genetic	DB01380	Cortisone acetate
 indication	703	Bullous pemphigoid	not_genetic	DB01380	Cortisone acetate
 off-label use	227510	Multiple system atrophy, cerebellar type	not_genetic	DB01380	Cortisone acetate
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB01380	Cortisone acetate
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB01380	Cortisone acetate
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB01380	Cortisone acetate
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB01380	Cortisone acetate
 off-label use	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	DB01380	Cortisone acetate
@@ -55,7 +206,6 @@ indication	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid deh
 indication	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB01380	Cortisone acetate
 indication	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB01380	Cortisone acetate
 indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB01380	Cortisone acetate
-indication	133	Chronic beryllium disease	not_genetic	DB01380	Cortisone acetate
 indication	545	Follicular lymphoma	not_genetic	DB00635	Prednisone
 indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00635	Prednisone
 off-label use	29073	Multiple myeloma	not_genetic	DB00635	Prednisone
@@ -63,6 +213,7 @@ indication	124	Blackfan-Diamond anemia	rare_genetic	DB00635	Prednisone
 indication	797	Sarcoidosis	not_genetic	DB00635	Prednisone
 off-label use	397	Giant cell arteritis	not_genetic	DB00635	Prednisone
 off-label use	3451	West syndrome	rare_genetic	DB00635	Prednisone
+indication	133	Chronic beryllium disease	not_genetic	DB00635	Prednisone
 off-label use	703	Bullous pemphigoid	not_genetic	DB00635	Prednisone
 indication	703	Bullous pemphigoid	not_genetic	DB00635	Prednisone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00635	Prednisone
@@ -71,18 +222,18 @@ indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00635	Pred
 indication	361	Familial glucocorticoid deficiency	rare_genetic	DB00635	Prednisone
 indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB00635	Prednisone
 indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB00635	Prednisone
-indication	133	Chronic beryllium disease	not_genetic	DB00635	Prednisone
 indication	545	Follicular lymphoma	not_genetic	DB00860	Prednisolone
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00860	Prednisolone
 off-label use	29073	Multiple myeloma	not_genetic	DB00860	Prednisolone
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB00860	Prednisolone
 indication	797	Sarcoidosis	not_genetic	DB00860	Prednisolone
 indication	397	Giant cell arteritis	not_genetic	DB00860	Prednisolone
 off-label use	3451	West syndrome	rare_genetic	DB00860	Prednisolone
 indication	36426	Stevens-Johnson syndrome	not_genetic	DB00860	Prednisolone
+indication	133	Chronic beryllium disease	not_genetic	DB00860	Prednisolone
 off-label use	703	Bullous pemphigoid	not_genetic	DB00860	Prednisolone
 indication	703	Bullous pemphigoid	not_genetic	DB00860	Prednisolone
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB00860	Prednisolone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00860	Prednisolone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00860	Prednisolone
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00860	Prednisolone
 indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00860	Prednisolone
@@ -97,7 +248,6 @@ indication	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid deh
 indication	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00860	Prednisolone
 indication	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00860	Prednisolone
 indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00860	Prednisolone
-indication	133	Chronic beryllium disease	not_genetic	DB00860	Prednisolone
 off-label use	545	Follicular lymphoma	not_genetic	DB00444	Teniposide
 off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00444	Teniposide
 off-label use	635	Neuroblastoma	not_genetic	DB00444	Teniposide
@@ -120,7 +270,10 @@ off-label use	29073	Multiple myeloma	not_genetic	DB00541	Vincristine
 off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00541	Vincristine
 indication	251589	Anaplastic astrocytoma	not_genetic	DB00541	Vincristine
 indication	654	Nephroblastoma	rare_genetic	DB00541	Vincristine
+off-label use	70573	Small cell lung cancer	not_genetic	DB00541	Vincristine
 indication	543	Burkitt lymphoma	not_genetic	DB00541	Vincristine
+indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB00541	Vincristine
+off-label use	319	Ewing sarcoma	not_genetic	DB00541	Vincristine
 indication	635	Neuroblastoma	not_genetic	DB00541	Vincristine
 indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB00541	Vincristine
 indication	163699	Alveolar soft-tissue sarcoma	not_genetic	DB00541	Vincristine
@@ -194,6 +347,7 @@ indication	268261	DYRK1A-related intellectual disability syndrome due to 21q22.1
 indication	280325	Distal monosomy 12p	rare_genetic	DB00541	Vincristine
 indication	228402	2q23.1 microdeletion syndrome	rare_genetic	DB00541	Vincristine
 indication	228384	5q14.3 microdeletion syndrome	rare_genetic	DB00541	Vincristine
+indication	238769	1q44 microdeletion syndrome	rare_genetic	DB00541	Vincristine
 indication	314655	Severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion	rare_genetic	DB00541	Vincristine
 indication	369881	2p21 microdeletion syndrome without cystinuria	rare_genetic	DB00541	Vincristine
 indication	363992	Ichthyosis-short stature-brachydactyly-microspherophakia syndrome	rare_genetic	DB00541	Vincristine
@@ -218,14 +372,15 @@ indication	98794	Angelman syndrome due to maternal 15q11q13 deletion	rare_geneti
 indication	276627	Sporadic secreting paraganglioma	not_genetic	DB00541	Vincristine
 indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00541	Vincristine
 indication	545	Follicular lymphoma	not_genetic	DB00959	Methylprednisolone
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00959	Methylprednisolone
 off-label use	29073	Multiple myeloma	not_genetic	DB00959	Methylprednisolone
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB00959	Methylprednisolone
 indication	797	Sarcoidosis	not_genetic	DB00959	Methylprednisolone
 off-label use	397	Giant cell arteritis	not_genetic	DB00959	Methylprednisolone
 off-label use	3451	West syndrome	rare_genetic	DB00959	Methylprednisolone
+indication	133	Chronic beryllium disease	not_genetic	DB00959	Methylprednisolone
 off-label use	703	Bullous pemphigoid	not_genetic	DB00959	Methylprednisolone
 indication	703	Bullous pemphigoid	not_genetic	DB00959	Methylprednisolone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00959	Methylprednisolone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00959	Methylprednisolone
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00959	Methylprednisolone
 indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00959	Methylprednisolone
@@ -240,19 +395,19 @@ indication	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid deh
 indication	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00959	Methylprednisolone
 indication	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00959	Methylprednisolone
 indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00959	Methylprednisolone
-indication	133	Chronic beryllium disease	not_genetic	DB00959	Methylprednisolone
 off-label use	545	Follicular lymphoma	not_genetic	DB01204	Mitoxantrone
 indication	545	Follicular lymphoma	not_genetic	DB00443	Betamethasone
 indication	963	Acromegaly	not_genetic	DB00443	Betamethasone
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00443	Betamethasone
 off-label use	29073	Multiple myeloma	not_genetic	DB00443	Betamethasone
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB00443	Betamethasone
 indication	797	Sarcoidosis	not_genetic	DB00443	Betamethasone
 off-label use	397	Giant cell arteritis	not_genetic	DB00443	Betamethasone
 off-label use	3451	West syndrome	rare_genetic	DB00443	Betamethasone
+indication	133	Chronic beryllium disease	not_genetic	DB00443	Betamethasone
 off-label use	703	Bullous pemphigoid	not_genetic	DB00443	Betamethasone
 indication	703	Bullous pemphigoid	not_genetic	DB00443	Betamethasone
 indication	448372	X-linked acrogigantism due to Xq26 microduplication	rare_genetic	DB00443	Betamethasone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00443	Betamethasone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00443	Betamethasone
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00443	Betamethasone
 indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00443	Betamethasone
@@ -267,110 +422,27 @@ indication	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid deh
 indication	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00443	Betamethasone
 indication	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00443	Betamethasone
 indication	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00443	Betamethasone
-indication	133	Chronic beryllium disease	not_genetic	DB00443	Betamethasone
 indication	2615	Nakajo-Nishimura syndrome	rare_genetic	DB00443	Betamethasone
 indication	2833	Stiff skin syndrome	rare_genetic	DB00443	Betamethasone
-indication	545	Follicular lymphoma	not_genetic	DB00997	Doxorubicin
-off-label use	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00997	Doxorubicin
-indication	29073	Multiple myeloma	not_genetic	DB00997	Doxorubicin
-indication	146	Differentiated thyroid carcinoma	not_genetic	DB00997	Doxorubicin
-indication	251589	Anaplastic astrocytoma	not_genetic	DB00997	Doxorubicin
-indication	654	Nephroblastoma	rare_genetic	DB00997	Doxorubicin
-indication	543	Burkitt lymphoma	not_genetic	DB00997	Doxorubicin
-indication	635	Neuroblastoma	not_genetic	DB00997	Doxorubicin
-indication	319487	Familial papillary or follicular thyroid carcinoma	rare_genetic	DB00997	Doxorubicin
-indication	99361	Familial medullary thyroid carcinoma	rare_genetic	DB00997	Doxorubicin
-indication	668	Osteosarcoma	not_genetic	DB00997	Doxorubicin
-indication	319	Ewing sarcoma	not_genetic	DB00997	Doxorubicin
-off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00997	Doxorubicin
-indication	251630	Anaplastic oligodendroglioma	not_genetic	DB00997	Doxorubicin
-indication	251656	Oligoastrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251663	Anaplastic oligoastrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251671	Angiocentric glioma	not_genetic	DB00997	Doxorubicin
-indication	251579	Giant cell glioblastoma	not_genetic	DB00997	Doxorubicin
-indication	251598	Protoplasmic astrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251604	Gemistocytic astrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251601	Fibrillary astrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251612	Pilocytic astrocytoma	not_genetic	DB00997	Doxorubicin
-indication	251627	Oligodendroglioma	not_genetic	DB00997	Doxorubicin
-indication	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00997	Doxorubicin
-indication	163693	2p21 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	819	Smith-Magenis syndrome	rare_genetic	DB00997	Doxorubicin
-indication	2308	Jacobsen syndrome	rare_genetic	DB00997	Doxorubicin
-indication	171829	6q16 deletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	199318	15q13.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	1587	Monosomy 13q14	rare_genetic	DB00997	Doxorubicin
-indication	1620	Distal monosomy 3p	rare_genetic	DB00997	Doxorubicin
-indication	1627	Deletion 5q35	rare_genetic	DB00997	Doxorubicin
-indication	1001	2q37 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	1596	Distal monosomy 15q	rare_genetic	DB00997	Doxorubicin
-indication	1617	2q24 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	1606	1p36 deletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251019	2q32q33 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251028	2q33.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251061	7q31 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251066	8p11.2 deletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251071	8p23.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	251056	6q25 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	254525	Paternal 14q32.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	254528	Maternal 14q32.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261144	14q12 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261222	Distal 16p11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261190	15q14 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261197	Proximal 16p11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261295	20p12.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261279	17q23.1q23.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261265	17q12 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261250	16q24.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261257	Distal 17p13.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	261330	Distal 22q11.2 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	264200	14q22q23 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	268261	DYRK1A-related intellectual disability syndrome due to 21q22.13q22.2 microdeletion	rare_genetic	DB00997	Doxorubicin
-indication	280325	Distal monosomy 12p	rare_genetic	DB00997	Doxorubicin
-indication	228402	2q23.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	228384	5q14.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	314655	Severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion	rare_genetic	DB00997	Doxorubicin
-indication	369881	2p21 microdeletion syndrome without cystinuria	rare_genetic	DB00997	Doxorubicin
-indication	363992	Ichthyosis-short stature-brachydactyly-microspherophakia syndrome	rare_genetic	DB00997	Doxorubicin
-indication	363965	Koolen-De Vries syndrome due to a point mutation	rare_genetic	DB00997	Doxorubicin
-indication	363958	17q21.31 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	352665	Neurodevelopmental disorder-craniofacial dysmorphism-cardiac defect-hip dysplasia syndrome due to 9q21 microdeletion	rare_genetic	DB00997	Doxorubicin
-indication	293948	1p21.3 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	313884	12p12.1 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	401986	1p31p32 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	411511	Angelman syndrome due to a point mutation	rare_genetic	DB00997	Doxorubicin
-indication	411515	Angelman syndrome due to imprinting defect in 15q11-q13	rare_genetic	DB00997	Doxorubicin
-indication	77301	Monosomy 9q22.3	rare_genetic	DB00997	Doxorubicin
-indication	75857	6q terminal deletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	36367	Distal monosomy 1q	rare_genetic	DB00997	Doxorubicin
-indication	48652	Monosomy 22q13	rare_genetic	DB00997	Doxorubicin
-indication	52022	Potocki-Shaffer syndrome	rare_genetic	DB00997	Doxorubicin
-indication	94064	Deafness-infertility syndrome	rare_genetic	DB00997	Doxorubicin
-indication	94063	12q14 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	94065	15q24 microdeletion syndrome	rare_genetic	DB00997	Doxorubicin
-indication	98795	Angelman syndrome due to paternal uniparental disomy of chromosome 15	rare_genetic	DB00997	Doxorubicin
-indication	98794	Angelman syndrome due to maternal 15q11q13 deletion	rare_genetic	DB00997	Doxorubicin
-off-label use	100093	Carcinoid syndrome	not_genetic	DB00997	Doxorubicin
-indication	276627	Sporadic secreting paraganglioma	not_genetic	DB00997	Doxorubicin
-indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00997	Doxorubicin
 indication	545	Follicular lymphoma	not_genetic	DB01234	Dexamethasone
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB01234	Dexamethasone
 indication	29073	Multiple myeloma	not_genetic	DB01234	Dexamethasone
 indication	124	Blackfan-Diamond anemia	rare_genetic	DB01234	Dexamethasone
 indication	797	Sarcoidosis	not_genetic	DB01234	Dexamethasone
 off-label use	397	Giant cell arteritis	not_genetic	DB01234	Dexamethasone
 off-label use	3451	West syndrome	rare_genetic	DB01234	Dexamethasone
 indication	543	Burkitt lymphoma	not_genetic	DB01234	Dexamethasone
+indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB01234	Dexamethasone
+indication	133	Chronic beryllium disease	not_genetic	DB01234	Dexamethasone
 off-label use	703	Bullous pemphigoid	not_genetic	DB01234	Dexamethasone
 indication	703	Bullous pemphigoid	not_genetic	DB01234	Dexamethasone
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB01234	Dexamethasone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB01234	Dexamethasone
 indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB01234	Dexamethasone
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB01234	Dexamethasone
 indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB01234	Dexamethasone
 indication	361	Familial glucocorticoid deficiency	rare_genetic	DB01234	Dexamethasone
 indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB01234	Dexamethasone
 indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB01234	Dexamethasone
-indication	133	Chronic beryllium disease	not_genetic	DB01234	Dexamethasone
 indication	545	Follicular lymphoma	not_genetic	DB00291	Chlorambucil
 indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00291	Chlorambucil
 off-label use	33226	Waldenström macroglobulinemia	not_genetic	DB00291	Chlorambucil
@@ -380,16 +452,6 @@ indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB01073	Fludara
 off-label use	33226	Waldenström macroglobulinemia	not_genetic	DB01073	Fludarabine
 indication	545	Follicular lymphoma	not_genetic	DB00290	Bleomycin
 indication	521	Chronic myeloid leukemia	not_genetic	DB04865	Homoharringtonine
-indication	521	Chronic myeloid leukemia	not_genetic	DB01005	Hydroxyurea
-off-label use	729	Polycythemia vera	not_genetic	DB01005	Hydroxyurea
-off-label use	3318	Essential thrombocythemia	not_genetic	DB01005	Hydroxyurea
-indication	232	Sickle cell anemia	rare_genetic	DB01005	Hydroxyurea
-off-label use	90042	Primary familial polycythemia	rare_genetic	DB01005	Hydroxyurea
-indication	163596	Hb Bart's hydrops fetalis	rare_genetic	DB01005	Hydroxyurea
-indication	847	Alpha-thalassemia-X-linked intellectual disability syndrome	rare_genetic	DB01005	Hydroxyurea
-indication	231401	Alpha-thalassemia-myelodysplastic syndrome	rare_genetic	DB01005	Hydroxyurea
-indication	93616	Hemoglobin H disease	rare_genetic	DB01005	Hydroxyurea
-indication	98791	Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16	rare_genetic	DB01005	Hydroxyurea
 indication	521	Chronic myeloid leukemia	not_genetic	DB00888	Mechlorethamine
 indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00888	Mechlorethamine
 indication	729	Polycythemia vera	not_genetic	DB00888	Mechlorethamine
@@ -397,6 +459,7 @@ indication	90042	Primary familial polycythemia	rare_genetic	DB00888	Mechloretham
 off-label use	521	Chronic myeloid leukemia	not_genetic	DB00987	Cytarabine
 indication	520	Acute promyelocytic leukemia	not_genetic	DB00987	Cytarabine
 off-label use	543	Burkitt lymphoma	not_genetic	DB00987	Cytarabine
+off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB00987	Cytarabine
 indication	521	Chronic myeloid leukemia	not_genetic	DB00791	Uracil mustard
 indication	67038	B-cell chronic lymphocytic leukemia	not_genetic	DB00791	Uracil mustard
 indication	729	Polycythemia vera	not_genetic	DB00791	Uracil mustard
@@ -429,25 +492,62 @@ indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB01268	Sunitinib
 indication	805	Tuberous sclerosis complex	rare_genetic	DB00877	Sirolimus
 indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00877	Sirolimus
 indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00877	Sirolimus
-off-label use	29073	Multiple myeloma	not_genetic	DB00773	Etoposide
-off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00773	Etoposide
-off-label use	543	Burkitt lymphoma	not_genetic	DB00773	Etoposide
-off-label use	635	Neuroblastoma	not_genetic	DB00773	Etoposide
-off-label use	668	Osteosarcoma	not_genetic	DB00773	Etoposide
-off-label use	319	Ewing sarcoma	not_genetic	DB00773	Etoposide
-off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00773	Etoposide
-off-label use	251656	Oligoastrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251671	Angiocentric glioma	not_genetic	DB00773	Etoposide
-off-label use	251579	Giant cell glioblastoma	not_genetic	DB00773	Etoposide
-off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00773	Etoposide
-off-label use	251627	Oligodendroglioma	not_genetic	DB00773	Etoposide
-off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00773	Etoposide
-off-label use	276627	Sporadic secreting paraganglioma	not_genetic	DB00773	Etoposide
-off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00773	Etoposide
+indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	DB00973	Ezetimibe
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00973	Ezetimibe
+indication	2882	Sitosterolemia	rare_genetic	DB00973	Ezetimibe
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00973	Ezetimibe
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00973	Ezetimibe
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB08860	Pitavastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB08860	Pitavastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB08860	Pitavastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01095	Fluvastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01095	Fluvastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01095	Fluvastatin
+indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	DB01076	Atorvastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01076	Atorvastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01076	Atorvastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01076	Atorvastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00227	Lovastatin
+indication	14	Abetalipoproteinemia	rare_genetic	DB00227	Lovastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00227	Lovastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00227	Lovastatin
+indication	71	Chylomicron retention disease	rare_genetic	DB00227	Lovastatin
+indication	2388	Choreoacanthocytosis	rare_genetic	DB00227	Lovastatin
+indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB00227	Lovastatin
+indication	31150	Tangier disease	rare_genetic	DB00227	Lovastatin
+indication	79293	Familial LCAT deficiency	rare_genetic	DB00227	Lovastatin
+indication	79292	Fish-eye disease	rare_genetic	DB00227	Lovastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01039	Fenofibrate
+indication	14	Abetalipoproteinemia	rare_genetic	DB01039	Fenofibrate
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01039	Fenofibrate
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01039	Fenofibrate
+indication	71	Chylomicron retention disease	rare_genetic	DB01039	Fenofibrate
+indication	2388	Choreoacanthocytosis	rare_genetic	DB01039	Fenofibrate
+indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB01039	Fenofibrate
+indication	31150	Tangier disease	rare_genetic	DB01039	Fenofibrate
+indication	79293	Familial LCAT deficiency	rare_genetic	DB01039	Fenofibrate
+indication	79292	Fish-eye disease	rare_genetic	DB01039	Fenofibrate
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00627	Niacin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00627	Niacin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00627	Niacin
+indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	DB01098	Rosuvastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01098	Rosuvastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01098	Rosuvastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01098	Rosuvastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00175	Pravastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00175	Pravastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00175	Pravastatin
+indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	DB00641	Simvastatin
+indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00641	Simvastatin
+indication	14	Abetalipoproteinemia	rare_genetic	DB00641	Simvastatin
+indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00641	Simvastatin
+indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00641	Simvastatin
+indication	71	Chylomicron retention disease	rare_genetic	DB00641	Simvastatin
+indication	2388	Choreoacanthocytosis	rare_genetic	DB00641	Simvastatin
+indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB00641	Simvastatin
+indication	31150	Tangier disease	rare_genetic	DB00641	Simvastatin
+indication	79293	Familial LCAT deficiency	rare_genetic	DB00641	Simvastatin
+indication	79292	Fish-eye disease	rare_genetic	DB00641	Simvastatin
 indication	520	Acute promyelocytic leukemia	not_genetic	DB01177	Idarubicin
 indication	520	Acute promyelocytic leukemia	not_genetic	DB00694	Daunorubicin
 off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00694	Daunorubicin
@@ -499,6 +599,7 @@ off-label use	268261	DYRK1A-related intellectual disability syndrome due to 21q2
 off-label use	280325	Distal monosomy 12p	rare_genetic	DB00694	Daunorubicin
 off-label use	228402	2q23.1 microdeletion syndrome	rare_genetic	DB00694	Daunorubicin
 off-label use	228384	5q14.3 microdeletion syndrome	rare_genetic	DB00694	Daunorubicin
+off-label use	238769	1q44 microdeletion syndrome	rare_genetic	DB00694	Daunorubicin
 off-label use	314655	Severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion	rare_genetic	DB00694	Daunorubicin
 off-label use	369881	2p21 microdeletion syndrome without cystinuria	rare_genetic	DB00694	Daunorubicin
 off-label use	363992	Ichthyosis-short stature-brachydactyly-microspherophakia syndrome	rare_genetic	DB00694	Daunorubicin
@@ -525,13 +626,13 @@ off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB006
 off-label use	520	Acute promyelocytic leukemia	not_genetic	DB00563	Methotrexate
 off-label use	900	Granulomatosis with polyangiitis	not_genetic	DB00563	Methotrexate
 indication	543	Burkitt lymphoma	not_genetic	DB00563	Methotrexate
-indication	668	Osteosarcoma	not_genetic	DB00563	Methotrexate
+indication	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB00563	Methotrexate
 indication	319	Ewing sarcoma	not_genetic	DB00563	Methotrexate
+indication	668	Osteosarcoma	not_genetic	DB00563	Methotrexate
 off-label use	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00563	Methotrexate
 off-label use	729	Polycythemia vera	not_genetic	DB01033	Mercaptopurine
 indication	520	Acute promyelocytic leukemia	not_genetic	DB01033	Mercaptopurine
 off-label use	90042	Primary familial polycythemia	rare_genetic	DB01033	Mercaptopurine
-off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00958	Carboplatin
 indication	963	Acromegaly	not_genetic	DB00589	Lisuride
 indication	448372	X-linked acrogigantism due to Xq26 microduplication	rare_genetic	DB00589	Lisuride
 indication	963	Acromegaly	not_genetic	DB01200	Bromocriptine
@@ -574,6 +675,30 @@ indication	2334	Autosomal dominant keratitis	rare_genetic	DB01167	Itraconazole
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB00582	Voriconazole
 indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	DB01026	Ketoconazole
 off-label use	1334	Chronic mucocutaneous candidiasis	rare_genetic	DB00857	Terbinafine
+indication	70587	Infant acute respiratory distress syndrome	not_genetic	DB06439	Tyloxapol
+off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00741	Hydrocortisone
+indication	124	Blackfan-Diamond anemia	rare_genetic	DB00741	Hydrocortisone
+indication	797	Sarcoidosis	not_genetic	DB00741	Hydrocortisone
+indication	133	Chronic beryllium disease	not_genetic	DB00741	Hydrocortisone
+indication	703	Bullous pemphigoid	not_genetic	DB00741	Hydrocortisone
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00741	Hydrocortisone
+indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00741	Hydrocortisone
+indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00741	Hydrocortisone
+indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00741	Hydrocortisone
+indication	361	Familial glucocorticoid deficiency	rare_genetic	DB00741	Hydrocortisone
+indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB00741	Hydrocortisone
+indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB00741	Hydrocortisone
+off-label use	325524	Classic congenital lipoid adrenal hyperplasia due to STAR deficency	rare_genetic	DB00741	Hydrocortisone
+off-label use	325529	Non-classic congenital lipoid adrenal hyperplasia due to STAR deficency	rare_genetic	DB00741	Hydrocortisone
+off-label use	315311	Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, simple virilizing form	rare_genetic	DB00741	Hydrocortisone
+off-label use	315306	Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form	rare_genetic	DB00741	Hydrocortisone
+off-label use	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	rare_genetic	DB00741	Hydrocortisone
+off-label use	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00741	Hydrocortisone
+off-label use	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00741	Hydrocortisone
+off-label use	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00741	Hydrocortisone
+off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00741	Hydrocortisone
+off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00620	Triamcinolone
+off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00443	Betamethasone
 indication	586	Cystic fibrosis	rare_genetic	DB00742	Mannitol
 indication	586	Cystic fibrosis	rare_genetic	DB00151	L-Cysteine
 off-label use	314376	Intestinal obstruction in the newborn due to guanylate cyclase 2C deficiency	rare_genetic	DB00151	L-Cysteine
@@ -586,22 +711,8 @@ indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	D
 indication	158778	Isolated bone marrow mastocytosis	not_genetic	DB00501	Cimetidine
 indication	158775	Smouldering systemic mastocytosis	not_genetic	DB00501	Cimetidine
 indication	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB00501	Cimetidine
-indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB05109	Trabectedin
-indication	163699	Alveolar soft-tissue sarcoma	not_genetic	DB05109	Trabectedin
-indication	209916	Extraskeletal myxoid chondrosarcoma	not_genetic	DB05109	Trabectedin
-indication	2030	Fibrosarcoma	not_genetic	DB05109	Trabectedin
-indication	3273	Synovial sarcoma	not_genetic	DB05109	Trabectedin
-indication	231108	Familial rhabdoid tumor	rare_genetic	DB05109	Trabectedin
-indication	370334	Extraskeletal Ewing sarcoma	not_genetic	DB05109	Trabectedin
-indication	55880	Chondrosarcoma	not_genetic	DB05109	Trabectedin
-indication	79105	Myxofibrosarcoma	not_genetic	DB05109	Trabectedin
-indication	99757	Embryonal rhabdomyosarcoma	not_genetic	DB05109	Trabectedin
-indication	99756	Alveolar rhabdomyosarcoma	not_genetic	DB05109	Trabectedin
-indication	99971	Well-differentiated liposarcoma	not_genetic	DB05109	Trabectedin
-indication	99970	Dedifferentiated liposarcoma	not_genetic	DB05109	Trabectedin
-indication	99967	Myxoid/round cell liposarcoma	not_genetic	DB05109	Trabectedin
-indication	99966	Atypical teratoid rhabdoid tumor	not_genetic	DB05109	Trabectedin
 indication	654	Nephroblastoma	rare_genetic	DB00970	Dactinomycin
+indication	319	Ewing sarcoma	not_genetic	DB00970	Dactinomycin
 indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB00970	Dactinomycin
 indication	163699	Alveolar soft-tissue sarcoma	not_genetic	DB00970	Dactinomycin
 indication	209916	Extraskeletal myxoid chondrosarcoma	not_genetic	DB00970	Dactinomycin
@@ -652,6 +763,7 @@ indication	268261	DYRK1A-related intellectual disability syndrome due to 21q22.1
 indication	280325	Distal monosomy 12p	rare_genetic	DB00970	Dactinomycin
 indication	228402	2q23.1 microdeletion syndrome	rare_genetic	DB00970	Dactinomycin
 indication	228384	5q14.3 microdeletion syndrome	rare_genetic	DB00970	Dactinomycin
+indication	238769	1q44 microdeletion syndrome	rare_genetic	DB00970	Dactinomycin
 indication	314655	Severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion	rare_genetic	DB00970	Dactinomycin
 indication	369881	2p21 microdeletion syndrome without cystinuria	rare_genetic	DB00970	Dactinomycin
 indication	363992	Ichthyosis-short stature-brachydactyly-microspherophakia syndrome	rare_genetic	DB00970	Dactinomycin
@@ -734,7 +846,7 @@ off-label use	66631	CEDNIK syndrome	rare_genetic	DB00755	Tretinoin
 off-label use	79152	Disseminated superficial actinic porokeratosis	rare_genetic	DB00755	Tretinoin
 off-label use	79151	Acrokeratosis verruciformis of Hopf	rare_genetic	DB00755	Tretinoin
 off-label use	50944	Schöpf-Schulz-Passarge syndrome	rare_genetic	DB00755	Tretinoin
-off-label use	50942	Keratosis palmoplantaris striata	rare_genetic	DB00755	Tretinoin
+off-label use	50942	Striate palmoplantar keratoderma	rare_genetic	DB00755	Tretinoin
 off-label use	90348	Autosomal dominant cutis laxa	rare_genetic	DB00755	Tretinoin
 off-label use	90349	Autosomal recessive cutis laxa type 1	rare_genetic	DB00755	Tretinoin
 off-label use	87503	Mal de Meleda	rare_genetic	DB00755	Tretinoin
@@ -800,7 +912,7 @@ off-label use	66631	CEDNIK syndrome	rare_genetic	DB00459	Acitretin
 off-label use	79152	Disseminated superficial actinic porokeratosis	rare_genetic	DB00459	Acitretin
 off-label use	79151	Acrokeratosis verruciformis of Hopf	rare_genetic	DB00459	Acitretin
 off-label use	50944	Schöpf-Schulz-Passarge syndrome	rare_genetic	DB00459	Acitretin
-off-label use	50942	Keratosis palmoplantaris striata	rare_genetic	DB00459	Acitretin
+off-label use	50942	Striate palmoplantar keratoderma	rare_genetic	DB00459	Acitretin
 off-label use	90348	Autosomal dominant cutis laxa	rare_genetic	DB00459	Acitretin
 off-label use	90349	Autosomal recessive cutis laxa type 1	rare_genetic	DB00459	Acitretin
 off-label use	87503	Mal de Meleda	rare_genetic	DB00459	Acitretin
@@ -812,27 +924,20 @@ off-label use	281127	Acral self-healing collodion baby	rare_genetic	DB00459	Acit
 off-label use	100976	Bathing suit ichthyosis	rare_genetic	DB00459	Acitretin
 off-label use	312	Epidermolytic ichthyosis	rare_genetic	DB00459	Acitretin
 off-label use	281139	Annular epidermolytic ichthyosis	rare_genetic	DB00459	Acitretin
-indication	124	Blackfan-Diamond anemia	rare_genetic	DB00741	Hydrocortisone
-indication	797	Sarcoidosis	not_genetic	DB00741	Hydrocortisone
-indication	703	Bullous pemphigoid	not_genetic	DB00741	Hydrocortisone
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00741	Hydrocortisone
-off-label use	70587	Infant acute respiratory distress syndrome	not_genetic	DB00741	Hydrocortisone
-indication	853	Fetal and neonatal alloimmune thrombocytopenia	not_genetic	DB00741	Hydrocortisone
-indication	3002	Immune thrombocytopenic purpura	not_genetic	DB00741	Hydrocortisone
-indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00741	Hydrocortisone
-indication	361	Familial glucocorticoid deficiency	rare_genetic	DB00741	Hydrocortisone
-indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB00741	Hydrocortisone
-indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB00741	Hydrocortisone
-off-label use	325524	Classic congenital lipoid adrenal hyperplasia due to STAR deficency	rare_genetic	DB00741	Hydrocortisone
-off-label use	325529	Non-classic congenital lipoid adrenal hyperplasia due to STAR deficency	rare_genetic	DB00741	Hydrocortisone
-off-label use	315311	Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, simple virilizing form	rare_genetic	DB00741	Hydrocortisone
-off-label use	315306	Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency, salt wasting form	rare_genetic	DB00741	Hydrocortisone
-off-label use	90791	Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	rare_genetic	DB00741	Hydrocortisone
-off-label use	90793	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	rare_genetic	DB00741	Hydrocortisone
-off-label use	90795	Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	rare_genetic	DB00741	Hydrocortisone
-off-label use	95699	Congenital adrenal hyperplasia due to cytochrome P450 oxidoreductase deficiency	rare_genetic	DB00741	Hydrocortisone
-indication	133	Chronic beryllium disease	not_genetic	DB00741	Hydrocortisone
-off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00620	Triamcinolone
+indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00608	Chloroquine
+off-label use	443057	Sporadic porphyria cutanea tarda	rare_genetic	DB00608	Chloroquine
+off-label use	443062	Familial porphyria cutanea tarda	rare_genetic	DB00608	Chloroquine
+indication	178307	Reticulate acropigmentation of Kitamura	rare_genetic	DB00936	Salicylic acid
+indication	280628	Familial progressive hyper- and hypopigmentation	rare_genetic	DB00936	Salicylic acid
+indication	41	Dyschromatosis symmetrica hereditaria	rare_genetic	DB00936	Salicylic acid
+indication	241	Dyschromatosis universalis	rare_genetic	DB00936	Salicylic acid
+indication	79145	Dowling-Degos disease	rare_genetic	DB00936	Salicylic acid
+indication	2615	Nakajo-Nishimura syndrome	rare_genetic	DB00936	Salicylic acid
+indication	2833	Stiff skin syndrome	rare_genetic	DB00936	Salicylic acid
+indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB01611	Hydroxychloroquine
+off-label use	443057	Sporadic porphyria cutanea tarda	rare_genetic	DB01611	Hydroxychloroquine
+off-label use	443062	Familial porphyria cutanea tarda	rare_genetic	DB01611	Hydroxychloroquine
+off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00328	Indomethacin
 indication	29073	Multiple myeloma	not_genetic	DB06809	Plerixafor
 indication	29073	Multiple myeloma	not_genetic	DB08910	Pomalidomide
 indication	29073	Multiple myeloma	not_genetic	DB08889	Carfilzomib
@@ -852,7 +957,6 @@ indication	251612	Pilocytic astrocytoma	not_genetic	DB00262	Carmustine
 indication	251627	Oligodendroglioma	not_genetic	DB00262	Carmustine
 indication	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00262	Carmustine
 indication	29073	Multiple myeloma	not_genetic	DB00188	Bortezomib
-indication	29073	Multiple myeloma	not_genetic	DB01042	Melphalan
 indication	29073	Multiple myeloma	not_genetic	DB00480	Lenalidomide
 indication	29073	Multiple myeloma	not_genetic	DB00531	Cyclophosphamide
 indication	251589	Anaplastic astrocytoma	not_genetic	DB00531	Cyclophosphamide
@@ -873,6 +977,22 @@ indication	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00531	
 indication	827	Stargardt disease	rare_genetic	DB01057	Echothiophate
 indication	98976	Congenital glaucoma	rare_genetic	DB01057	Echothiophate
 indication	98978	Axenfeld anomaly	rare_genetic	DB01057	Echothiophate
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00564	Carbamazepine
+off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00564	Carbamazepine
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00555	Lamotrigine
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB01174	Phenobarbital
+off-label use	234	Dubin-Johnson syndrome	rare_genetic	DB01174	Phenobarbital
+off-label use	3111	Rotor syndrome	rare_genetic	DB01174	Phenobarbital
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00794	Primidone
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00252	Phenytoin
+off-label use	682	Hyperkalemic periodic paralysis	rare_genetic	DB00819	Acetazolamide
+off-label use	681	Hypokalemic periodic paralysis	rare_genetic	DB00819	Acetazolamide
+off-label use	397755	Periodic paralysis with transient compartment-like syndrome	rare_genetic	DB00819	Acetazolamide
+off-label use	397750	Periodic paralysis with later-onset distal motor neuropathy	rare_genetic	DB00819	Acetazolamide
+off-label use	79102	Thyrotoxic periodic paralysis	not_genetic	DB00819	Acetazolamide
+off-label use	37553	Cardiodysrhythmic potassium-sensitive periodic paralysis	rare_genetic	DB00819	Acetazolamide
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00186	Lorazepam
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00949	Felbamate
 indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB01440	Gamma Hydroxybutyric Acid
 off-label use	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB01255	Lisdexamfetamine
 indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB01576	Dextroamphetamine
@@ -881,6 +1001,7 @@ off-label use	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB00458	Imipramine
 indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB00422	Methylphenidate
 indication	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB00182	Amphetamine
 off-label use	2073	Narcolepsy-cataplexy syndrome	not_genetic	DB00472	Fluoxetine
+indication	391665	Homozygous familial hypercholesterolemia	rare_genetic	DB08827	Lomitapide
 indication	169808	Mild hemophilia A	rare_genetic	DB00035	Desmopressin
 indication	169802	Severe hemophilia A	rare_genetic	DB00035	Desmopressin
 indication	169805	Moderately severe hemophilia A	rare_genetic	DB00035	Desmopressin
@@ -891,6 +1012,99 @@ indication	166090	Von Willebrand disease type 2M	rare_genetic	DB00035	Desmopress
 indication	166087	Von Willebrand disease type 2B	rare_genetic	DB00035	Desmopressin
 indication	166093	Von Willebrand disease type 2N	rare_genetic	DB00035	Desmopressin
 indication	166096	Von Willebrand disease type 3	rare_genetic	DB00035	Desmopressin
+indication	552	MODY	rare_genetic	DB01120	Gliclazide
+indication	552	MODY	rare_genetic	DB06203	Alogliptin
+indication	552	MODY	rare_genetic	DB08907	Canagliflozin
+indication	552	MODY	rare_genetic	DB06292	Dapagliflozin
+indication	552	MODY	rare_genetic	DB04876	Vildagliptin
+indication	552	MODY	rare_genetic	DB00222	Glimepiride
+indication	552	MODY	rare_genetic	DB01132	Pioglitazone
+indication	552	MODY	rare_genetic	DB00731	Nateglinide
+indication	552	MODY	rare_genetic	DB08882	Linagliptin
+indication	552	MODY	rare_genetic	DB00491	Miglitol
+indication	552	MODY	rare_genetic	DB00839	Tolazamide
+indication	552	MODY	rare_genetic	DB06335	Saxagliptin
+indication	552	MODY	rare_genetic	DB00331	Metformin
+indication	552	MODY	rare_genetic	DB00284	Acarbose
+indication	552	MODY	rare_genetic	DB01261	Sitagliptin
+indication	552	MODY	rare_genetic	DB01016	Glyburide
+indication	552	MODY	rare_genetic	DB00912	Repaglinide
+indication	552	MODY	rare_genetic	DB00672	Chlorpropamide
+off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00672	Chlorpropamide
+indication	552	MODY	rare_genetic	DB01067	Glipizide
+indication	552	MODY	rare_genetic	DB01124	Tolbutamide
+indication	552	MODY	rare_genetic	DB04878	Voglibose
+indication	552	MODY	rare_genetic	DB01252	Mitiglinide
+indication	552	MODY	rare_genetic	DB01289	Glisoxepide
+indication	552	MODY	rare_genetic	DB01251	Gliquidone
+indication	552	MODY	rare_genetic	DB01382	Glycodiazine
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01173	Orphenadrine
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB01173	Orphenadrine
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01173	Orphenadrine
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01173	Orphenadrine
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01173	Orphenadrine
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01173	Orphenadrine
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01186	Pergolide
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB01186	Pergolide
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01186	Pergolide
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01186	Pergolide
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01186	Pergolide
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01186	Pergolide
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01235	L-DOPA
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB01235	L-DOPA
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01235	L-DOPA
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01235	L-DOPA
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01235	L-DOPA
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01235	L-DOPA
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB01235	L-DOPA
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00810	Biperiden
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00810	Biperiden
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00810	Biperiden
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00810	Biperiden
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00810	Biperiden
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00810	Biperiden
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00810	Biperiden
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00190	Carbidopa
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00190	Carbidopa
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00190	Carbidopa
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00190	Carbidopa
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00190	Carbidopa
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00190	Carbidopa
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00190	Carbidopa
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00915	Amantadine
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00915	Amantadine
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00915	Amantadine
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00915	Amantadine
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00915	Amantadine
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00915	Amantadine
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00915	Amantadine
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00387	Procyclidine
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00387	Procyclidine
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00387	Procyclidine
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00387	Procyclidine
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00387	Procyclidine
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00387	Procyclidine
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00387	Procyclidine
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00376	Trihexyphenidyl
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00376	Trihexyphenidyl
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00376	Trihexyphenidyl
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00376	Trihexyphenidyl
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00376	Trihexyphenidyl
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00376	Trihexyphenidyl
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00376	Trihexyphenidyl
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00245	Benzatropine
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00245	Benzatropine
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00245	Benzatropine
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00245	Benzatropine
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00245	Benzatropine
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00245	Benzatropine
+indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00245	Benzatropine
+indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00340	Metixene
+indication	2828	Young-onset Parkinson disease	rare_genetic	DB00340	Metixene
+indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00340	Metixene
+indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00340	Metixene
+indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00340	Metixene
+indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00340	Metixene
 indication	648	Noonan syndrome	rare_genetic	DB01282	Carbetocin
 indication	199	Cornelia de Lange syndrome	rare_genetic	DB01282	Carbetocin
 indication	1465	Coffin-Siris syndrome	rare_genetic	DB01282	Carbetocin
@@ -1158,20 +1372,14 @@ indication	393	46,XX testicular disorder of sex development	rare_genetic	DB04575
 indication	243	46,XX gonadal dysgenesis	rare_genetic	DB00717	Norethindrone
 indication	242	46,XY complete gonadal dysgenesis	rare_genetic	DB00717	Norethindrone
 indication	393	46,XX testicular disorder of sex development	rare_genetic	DB00717	Norethindrone
-indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB01611	Hydroxychloroquine
-off-label use	443057	Sporadic porphyria cutanea tarda	rare_genetic	DB01611	Hydroxychloroquine
-off-label use	443062	Familial porphyria cutanea tarda	rare_genetic	DB01611	Hydroxychloroquine
-indication	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00608	Chloroquine
-off-label use	443057	Sporadic porphyria cutanea tarda	rare_genetic	DB00608	Chloroquine
-off-label use	443062	Familial porphyria cutanea tarda	rare_genetic	DB00608	Chloroquine
 indication	729	Polycythemia vera	not_genetic	DB08877	Ruxolitinib
+indication	824	Primary myelofibrosis	not_genetic	DB08877	Ruxolitinib
 indication	90042	Primary familial polycythemia	rare_genetic	DB08877	Ruxolitinib
 indication	168953	Myeloid neoplasm associated with FGFR1 rearrangement	not_genetic	DB08877	Ruxolitinib
 indication	168950	Myeloid neoplasm associated with PDGFRB rearrangement	not_genetic	DB08877	Ruxolitinib
 indication	168947	Myeloid neoplasm associated with PDGFRA rearrangement	not_genetic	DB08877	Ruxolitinib
 indication	86830	Chronic myeloproliferative disease, unclassifiable	not_genetic	DB08877	Ruxolitinib
 indication	86829	Chronic neutrophilic leukemia	not_genetic	DB08877	Ruxolitinib
-indication	824	Primary myelofibrosis	not_genetic	DB08877	Ruxolitinib
 indication	146	Differentiated thyroid carcinoma	not_genetic	DB00279	Liothyronine
 indication	319487	Familial papillary or follicular thyroid carcinoma	rare_genetic	DB00279	Liothyronine
 indication	99361	Familial medullary thyroid carcinoma	rare_genetic	DB00279	Liothyronine
@@ -1222,7 +1430,6 @@ off-label use	158775	Smouldering systemic mastocytosis	not_genetic	DB00585	Nizat
 off-label use	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB00585	Nizatidine
 off-label use	100093	Carcinoid syndrome	not_genetic	DB00544	Fluorouracil
 indication	26106	Hereditary diffuse gastric cancer	rare_genetic	DB00544	Fluorouracil
-indication	26106	Hereditary diffuse gastric cancer	rare_genetic	DB01101	Capecitabine
 indication	97279	Insulinoma	not_genetic	DB01119	Diazoxide
 indication	165991	Exercise-induced hyperinsulinism	rare_genetic	DB01119	Diazoxide
 indication	263458	Hyperinsulinism due to INSR deficiency	rare_genetic	DB01119	Diazoxide
@@ -1237,6 +1444,20 @@ indication	79299	Hyperinsulinism due to glucokinase deficiency	rare_genetic	DB01
 indication	79643	Autosomal recessive hyperinsulinism due to SUR1 deficiency	rare_genetic	DB01119	Diazoxide
 indication	79644	Autosomal recessive hyperinsulinism due to Kir6.2 deficiency	rare_genetic	DB01119	Diazoxide
 indication	438274	GCGR-related hyperglucagonemia	not_genetic	DB01119	Diazoxide
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB06268	Sitaxentan
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB06268	Sitaxentan
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB08932	MACITENTAN
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB08932	MACITENTAN
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB01240	Epoprostenol
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB01240	Epoprostenol
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00203	Sildenafil
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00203	Sildenafil
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB01088	Iloprost
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB01088	Iloprost
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00559	Bosentan
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00559	Bosentan
+indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00374	Treprostinil
+indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00374	Treprostinil
 off-label use	729	Polycythemia vera	not_genetic	DB01168	Procarbazine
 off-label use	251589	Anaplastic astrocytoma	not_genetic	DB01168	Procarbazine
 off-label use	90042	Primary familial polycythemia	rare_genetic	DB01168	Procarbazine
@@ -1254,7 +1475,13 @@ off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB01
 indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	DB00196	Fluconazole
 indication	3453	Autoimmune polyendocrinopathy type 1	rare_genetic	DB00196	Fluconazole
 indication	37042	Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome	rare_genetic	DB00196	Fluconazole
-indication	552	MODY	rare_genetic	DB04878	Voglibose
+off-label use	14	Abetalipoproteinemia	rare_genetic	DB01241	Gemfibrozil
+off-label use	71	Chylomicron retention disease	rare_genetic	DB01241	Gemfibrozil
+off-label use	2388	Choreoacanthocytosis	rare_genetic	DB01241	Gemfibrozil
+off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB01241	Gemfibrozil
+off-label use	31150	Tangier disease	rare_genetic	DB01241	Gemfibrozil
+off-label use	79293	Familial LCAT deficiency	rare_genetic	DB01241	Gemfibrozil
+off-label use	79292	Fish-eye disease	rare_genetic	DB01241	Gemfibrozil
 off-label use	98896	Duchenne muscular dystrophy	rare_genetic	DB01219	Dantrolene
 indication	423	Malignant hyperthermia of anesthesia	rare_genetic	DB01219	Dantrolene
 off-label use	269	Facioscapulohumeral dystrophy	rare_genetic	DB01219	Dantrolene
@@ -1313,132 +1540,6 @@ off-label use	98853	Autosomal dominant Emery-Dreifuss muscular dystrophy	rare_ge
 off-label use	98863	X-linked Emery-Dreifuss muscular dystrophy	rare_genetic	DB01219	Dantrolene
 off-label use	98855	Autosomal recessive Emery-Dreifuss muscular dystrophy	rare_genetic	DB01219	Dantrolene
 off-label use	98895	Becker muscular dystrophy	rare_genetic	DB01219	Dantrolene
-off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00446	Chloramphenicol
-indication	171	Primary sclerosing cholangitis	not_genetic	DB00415	Ampicillin
-indication	231226	Dominant beta-thalassemia	rare_genetic	DB08826	Deferiprone
-indication	231222	Beta-thalassemia intermedia	rare_genetic	DB08826	Deferiprone
-indication	231214	Beta-thalassemia major	rare_genetic	DB08826	Deferiprone
-indication	231226	Dominant beta-thalassemia	rare_genetic	DB01609	Deferasirox
-indication	231222	Beta-thalassemia intermedia	rare_genetic	DB01609	Deferasirox
-indication	231214	Beta-thalassemia major	rare_genetic	DB01609	Deferasirox
-off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	635	Neuroblastoma	not_genetic	DB00570	Vinblastine
-off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00570	Vinblastine
-off-label use	251656	Oligoastrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251671	Angiocentric glioma	not_genetic	DB00570	Vinblastine
-off-label use	251579	Giant cell glioblastoma	not_genetic	DB00570	Vinblastine
-off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00570	Vinblastine
-off-label use	251627	Oligodendroglioma	not_genetic	DB00570	Vinblastine
-off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00570	Vinblastine
-off-label use	276627	Sporadic secreting paraganglioma	not_genetic	DB00570	Vinblastine
-off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00570	Vinblastine
-off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00443	Betamethasone
-off-label use	124	Blackfan-Diamond anemia	rare_genetic	DB00741	Hydrocortisone
-indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB08896	Regorafenib
-indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB00619	Imatinib
-indication	168940	Chronic eosinophilic leukemia	not_genetic	DB00619	Imatinib
-indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB00619	Imatinib
-indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	DB00619	Imatinib
-indication	158778	Isolated bone marrow mastocytosis	not_genetic	DB00619	Imatinib
-indication	158775	Smouldering systemic mastocytosis	not_genetic	DB00619	Imatinib
-indication	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB00619	Imatinib
-indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB00322	Floxuridine
-off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00199	Erythromycin
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB02703	Fusidic Acid
-indication	171	Primary sclerosing cholangitis	not_genetic	DB02703	Fusidic Acid
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01060	Amoxicillin
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00595	Oxytetracycline
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00595	Oxytetracycline
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00618	Demeclocycline
-off-label use	93606	Nephrogenic syndrome of inappropriate antidiuresis	rare_genetic	DB00618	Demeclocycline
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01017	Minocycline
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00759	Tetracycline
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00759	Tetracycline
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00781	Polymyxin B Sulfate
-indication	124	Blackfan-Diamond anemia	rare_genetic	DB00858	Drostanolone
-off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00634	Sulfacetamide
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00994	Neomycin
-off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00328	Indomethacin
-off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00880	Chlorothiazide
-off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00999	Hydrochlorothiazide
-off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00594	Amiloride
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00186	Lorazepam
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00555	Lamotrigine
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB06201	Rufinamide
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00252	Phenytoin
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB01174	Phenobarbital
-off-label use	234	Dubin-Johnson syndrome	rare_genetic	DB01174	Phenobarbital
-off-label use	3111	Rotor syndrome	rare_genetic	DB01174	Phenobarbital
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00564	Carbamazepine
-off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00564	Carbamazepine
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB01068	Clonazepam
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00794	Primidone
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00949	Felbamate
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00273	Topiramate
-indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00349	Clobazam
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00760	Meropenem
-off-label use	703	Bullous pemphigoid	not_genetic	DB00891	Sulfapyridine
-indication	703	Bullous pemphigoid	not_genetic	DB00891	Sulfapyridine
-off-label use	703	Bullous pemphigoid	not_genetic	DB00250	Dapsone
-indication	703	Bullous pemphigoid	not_genetic	DB00250	Dapsone
-off-label use	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00250	Dapsone
-indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	DB01003	Cromoglicic acid
-indication	158778	Isolated bone marrow mastocytosis	not_genetic	DB01003	Cromoglicic acid
-indication	158775	Smouldering systemic mastocytosis	not_genetic	DB01003	Cromoglicic acid
-indication	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB01003	Cromoglicic acid
-off-label use	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00687	Fludrocortisone
-off-label use	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	DB00687	Fludrocortisone
-indication	361	Familial glucocorticoid deficiency	rare_genetic	DB00687	Fludrocortisone
-indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB00687	Fludrocortisone
-indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB00687	Fludrocortisone
-indication	520	Acute promyelocytic leukemia	not_genetic	DB01169	Arsenic trioxide
-indication	520	Acute promyelocytic leukemia	not_genetic	DB04942	Tamibarotene
-indication	178307	Reticulate acropigmentation of Kitamura	rare_genetic	DB00936	Salicylic acid
-indication	280628	Familial progressive hyper- and hypopigmentation	rare_genetic	DB00936	Salicylic acid
-indication	41	Dyschromatosis symmetrica hereditaria	rare_genetic	DB00936	Salicylic acid
-indication	241	Dyschromatosis universalis	rare_genetic	DB00936	Salicylic acid
-indication	79145	Dowling-Degos disease	rare_genetic	DB00936	Salicylic acid
-indication	2615	Nakajo-Nishimura syndrome	rare_genetic	DB00936	Salicylic acid
-indication	2833	Stiff skin syndrome	rare_genetic	DB00936	Salicylic acid
-indication	251589	Anaplastic astrocytoma	not_genetic	DB00853	Temozolomide
-indication	251630	Anaplastic oligodendroglioma	not_genetic	DB00853	Temozolomide
-indication	251656	Oligoastrocytoma	not_genetic	DB00853	Temozolomide
-indication	251663	Anaplastic oligoastrocytoma	not_genetic	DB00853	Temozolomide
-indication	251671	Angiocentric glioma	not_genetic	DB00853	Temozolomide
-indication	251579	Giant cell glioblastoma	not_genetic	DB00853	Temozolomide
-indication	251598	Protoplasmic astrocytoma	not_genetic	DB00853	Temozolomide
-indication	251604	Gemistocytic astrocytoma	not_genetic	DB00853	Temozolomide
-indication	251601	Fibrillary astrocytoma	not_genetic	DB00853	Temozolomide
-indication	251612	Pilocytic astrocytoma	not_genetic	DB00853	Temozolomide
-indication	251627	Oligodendroglioma	not_genetic	DB00853	Temozolomide
-indication	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00853	Temozolomide
-off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00762	Irinotecan
-off-label use	251656	Oligoastrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251671	Angiocentric glioma	not_genetic	DB00762	Irinotecan
-off-label use	251579	Giant cell glioblastoma	not_genetic	DB00762	Irinotecan
-off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00762	Irinotecan
-off-label use	251627	Oligodendroglioma	not_genetic	DB00762	Irinotecan
-off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00762	Irinotecan
-off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB01229	Paclitaxel
-indication	3451	West syndrome	rare_genetic	DB01080	Vigabatrin
-indication	213711	Endometrial stromal sarcoma	not_genetic	DB00603	Medroxyprogesterone Acetate
-off-label use	169615	Idiopathic central precocious puberty	rare_genetic	DB00603	Medroxyprogesterone Acetate
-off-label use	178345	Aromatase excess syndrome	rare_genetic	DB00603	Medroxyprogesterone Acetate
-off-label use	3000	Familial male-limited precocious puberty	rare_genetic	DB00603	Medroxyprogesterone Acetate
-off-label use	199247	Corticosteroid-binding globulin deficiency	rare_genetic	DB00603	Medroxyprogesterone Acetate
-indication	169615	Idiopathic central precocious puberty	rare_genetic	DB00666	Nafarelin
-indication	178345	Aromatase excess syndrome	rare_genetic	DB00666	Nafarelin
-indication	3000	Familial male-limited precocious puberty	rare_genetic	DB00666	Nafarelin
-indication	199247	Corticosteroid-binding globulin deficiency	rare_genetic	DB00666	Nafarelin
 off-label use	169615	Idiopathic central precocious puberty	rare_genetic	DB01406	Danazol
 off-label use	178345	Aromatase excess syndrome	rare_genetic	DB01406	Danazol
 off-label use	3000	Familial male-limited precocious puberty	rare_genetic	DB01406	Danazol
@@ -1448,243 +1549,15 @@ off-label use	169615	Idiopathic central precocious puberty	rare_genetic	DB00396	
 off-label use	178345	Aromatase excess syndrome	rare_genetic	DB00396	Progesterone
 off-label use	3000	Familial male-limited precocious puberty	rare_genetic	DB00396	Progesterone
 off-label use	199247	Corticosteroid-binding globulin deficiency	rare_genetic	DB00396	Progesterone
-indication	905	Wilson disease	rare_genetic	DB00859	Penicillamine
-off-label use	36412	Hypocomplementemic urticarial vasculitis	not_genetic	DB00859	Penicillamine
-off-label use	470	Lysinuric protein intolerance	rare_genetic	DB00155	L-Citrulline
-off-label use	90	Argininemia	rare_genetic	DB00155	L-Citrulline
-off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	22	Succinic semialdehyde dehydrogenase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	137754	Neurological conditions associated with aminoacylase 1 deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	382	Guanidinoacetate methyltransferase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	742	Prolidase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	943	Malonic aciduria	rare_genetic	DB00155	L-Citrulline
-off-label use	2066	Gamma-aminobutyric acid transaminase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	356978	D,L-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
-off-label use	284417	Phosphoserine aminotransferase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	391376	Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome	rare_genetic	DB00155	L-Citrulline
-off-label use	391428	HSD10 disease, infantile type	rare_genetic	DB00155	L-Citrulline
-off-label use	391457	HSD10 disease, neonatal type	rare_genetic	DB00155	L-Citrulline
-off-label use	71278	Congenital brain dysgenesis due to glutamine synthetase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	35704	L-Arginine:glycine amidinotransferase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	35878	Hyperinsulinism-hyperammonemia syndrome	rare_genetic	DB00155	L-Citrulline
-off-label use	33572	5-oxoprolinase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	33573	Gamma-glutamyl transpeptidase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	52503	X-linked creatine transporter deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	79314	L-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
-off-label use	79315	D-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
-off-label use	79351	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	rare_genetic	DB00155	L-Citrulline
-off-label use	79350	3-phosphoserine phosphatase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	3124	Saccharopinuria	rare_genetic	DB00155	L-Citrulline
-off-label use	2203	Hyperlysinemia	rare_genetic	DB00155	L-Citrulline
-off-label use	79154	2-aminoadipic 2-oxoadipic aciduria	rare_genetic	DB00155	L-Citrulline
-off-label use	35706	Glutaric acidemia type 3	rare_genetic	DB00155	L-Citrulline
-off-label use	664	Ornithine transcarbamylase deficiency	rare_genetic	DB00155	L-Citrulline
-off-label use	415	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome	rare_genetic	DB00155	L-Citrulline
-off-label use	414	Gyrate atrophy of choroid and retina	rare_genetic	DB00155	L-Citrulline
-indication	3318	Essential thrombocythemia	not_genetic	DB00261	Anagrelide
-indication	3303	Tetralogy of Fallot	not_genetic	DB00770	Alprostadil
-off-label use	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00770	Alprostadil
-off-label use	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00770	Alprostadil
-indication	49827	Thiamine-responsive megaloblastic anemia syndrome	rare_genetic	DB00770	Alprostadil
-indication	1880	Ebstein malformation	rare_genetic	DB00770	Alprostadil
-indication	1479	Atrial septal defect-atrioventricular conduction defects syndrome	rare_genetic	DB00770	Alprostadil
-indication	99105	Atrial septal defect, sinus venosus type	rare_genetic	DB00770	Alprostadil
-indication	99103	Atrial septal defect, ostium secundum type	rare_genetic	DB00770	Alprostadil
-off-label use	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00993	Azathioprine
-indication	2334	Autosomal dominant keratitis	rare_genetic	DB00798	Gentamicin
-indication	171	Primary sclerosing cholangitis	not_genetic	DB00798	Gentamicin
-off-label use	543	Burkitt lymphoma	not_genetic	DB01181	Ifosfamide
-off-label use	668	Osteosarcoma	not_genetic	DB01181	Ifosfamide
-off-label use	319	Ewing sarcoma	not_genetic	DB01181	Ifosfamide
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00175	Pravastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00175	Pravastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00175	Pravastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00641	Simvastatin
-indication	14	Abetalipoproteinemia	rare_genetic	DB00641	Simvastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00641	Simvastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00641	Simvastatin
-indication	71	Chylomicron retention disease	rare_genetic	DB00641	Simvastatin
-indication	2388	Choreoacanthocytosis	rare_genetic	DB00641	Simvastatin
-indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB00641	Simvastatin
-indication	31150	Tangier disease	rare_genetic	DB00641	Simvastatin
-indication	79293	Familial LCAT deficiency	rare_genetic	DB00641	Simvastatin
-indication	79292	Fish-eye disease	rare_genetic	DB00641	Simvastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01076	Atorvastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01076	Atorvastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01076	Atorvastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01098	Rosuvastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01098	Rosuvastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01098	Rosuvastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00973	Ezetimibe
-indication	2882	Sitosterolemia	rare_genetic	DB00973	Ezetimibe
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00973	Ezetimibe
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00973	Ezetimibe
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB08860	Pitavastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB08860	Pitavastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB08860	Pitavastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01095	Fluvastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01095	Fluvastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01095	Fluvastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00227	Lovastatin
-indication	14	Abetalipoproteinemia	rare_genetic	DB00227	Lovastatin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00227	Lovastatin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00227	Lovastatin
-indication	71	Chylomicron retention disease	rare_genetic	DB00227	Lovastatin
-indication	2388	Choreoacanthocytosis	rare_genetic	DB00227	Lovastatin
-indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB00227	Lovastatin
-indication	31150	Tangier disease	rare_genetic	DB00227	Lovastatin
-indication	79293	Familial LCAT deficiency	rare_genetic	DB00227	Lovastatin
-indication	79292	Fish-eye disease	rare_genetic	DB00227	Lovastatin
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB01039	Fenofibrate
-indication	14	Abetalipoproteinemia	rare_genetic	DB01039	Fenofibrate
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB01039	Fenofibrate
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB01039	Fenofibrate
-indication	71	Chylomicron retention disease	rare_genetic	DB01039	Fenofibrate
-indication	2388	Choreoacanthocytosis	rare_genetic	DB01039	Fenofibrate
-indication	425	Apolipoprotein A-I deficiency	rare_genetic	DB01039	Fenofibrate
-indication	31150	Tangier disease	rare_genetic	DB01039	Fenofibrate
-indication	79293	Familial LCAT deficiency	rare_genetic	DB01039	Fenofibrate
-indication	79292	Fish-eye disease	rare_genetic	DB01039	Fenofibrate
-indication	412	Hyperlipoproteinemia type 3	rare_genetic	DB00627	Niacin
-indication	140905	Hyperlipidemia due to hepatic triglyceride lipase deficiency	rare_genetic	DB00627	Niacin
-indication	79506	Cholesterol-ester transfer protein deficiency	rare_genetic	DB00627	Niacin
-off-label use	14	Abetalipoproteinemia	rare_genetic	DB01241	Gemfibrozil
-off-label use	71	Chylomicron retention disease	rare_genetic	DB01241	Gemfibrozil
-off-label use	2388	Choreoacanthocytosis	rare_genetic	DB01241	Gemfibrozil
-off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB01241	Gemfibrozil
-off-label use	31150	Tangier disease	rare_genetic	DB01241	Gemfibrozil
-off-label use	79293	Familial LCAT deficiency	rare_genetic	DB01241	Gemfibrozil
-off-label use	79292	Fish-eye disease	rare_genetic	DB01241	Gemfibrozil
-off-label use	14	Abetalipoproteinemia	rare_genetic	DB00162	Vitamin A
-off-label use	71	Chylomicron retention disease	rare_genetic	DB00162	Vitamin A
-off-label use	2388	Choreoacanthocytosis	rare_genetic	DB00162	Vitamin A
-off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB00162	Vitamin A
-off-label use	31150	Tangier disease	rare_genetic	DB00162	Vitamin A
-off-label use	79293	Familial LCAT deficiency	rare_genetic	DB00162	Vitamin A
-off-label use	79292	Fish-eye disease	rare_genetic	DB00162	Vitamin A
-off-label use	14	Abetalipoproteinemia	rare_genetic	DB01022	Phylloquinone
-indication	327	Congenital factor VII deficiency	rare_genetic	DB01022	Phylloquinone
-indication	330	Congenital factor XII deficiency	rare_genetic	DB01022	Phylloquinone
-indication	326	Congenital factor V deficiency	rare_genetic	DB01022	Phylloquinone
-indication	248408	Familial hypodysfibrinogenemia	rare_genetic	DB01022	Phylloquinone
-indication	325	Congenital factor II deficiency	rare_genetic	DB01022	Phylloquinone
-indication	331	Congenital factor XIII deficiency	rare_genetic	DB01022	Phylloquinone
-indication	745	Hereditary thrombophilia due to congenital protein C deficiency	rare_genetic	DB01022	Phylloquinone
-indication	328	Congenital factor X deficiency	rare_genetic	DB01022	Phylloquinone
-indication	391320	East Texas bleeding disorder	rare_genetic	DB01022	Phylloquinone
-indication	98881	Familial dysfibrinogenemia	rare_genetic	DB01022	Phylloquinone
-indication	98880	Familial afibrinogenemia	rare_genetic	DB01022	Phylloquinone
-indication	98434	Hereditary combined deficiency of vitamin K-dependent clotting factors	rare_genetic	DB01022	Phylloquinone
-indication	101041	Familial hypofibrinogenemia	rare_genetic	DB01022	Phylloquinone
-indication	91135	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	rare_genetic	DB01022	Phylloquinone
-off-label use	71	Chylomicron retention disease	rare_genetic	DB01022	Phylloquinone
-off-label use	2388	Choreoacanthocytosis	rare_genetic	DB01022	Phylloquinone
-off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB01022	Phylloquinone
-off-label use	31150	Tangier disease	rare_genetic	DB01022	Phylloquinone
-off-label use	79293	Familial LCAT deficiency	rare_genetic	DB01022	Phylloquinone
-off-label use	79292	Fish-eye disease	rare_genetic	DB01022	Phylloquinone
-off-label use	99961	Benign recurrent intrahepatic cholestasis type 2	rare_genetic	DB01022	Phylloquinone
-off-label use	99960	Benign recurrent intrahepatic cholestasis type 1	rare_genetic	DB01022	Phylloquinone
-indication	342	Familial Mediterranean fever	rare_genetic	DB01394	Colchicine
-indication	171	Primary sclerosing cholangitis	not_genetic	DB00479	Amikacin
-off-label use	682	Hyperkalemic periodic paralysis	rare_genetic	DB00819	Acetazolamide
-off-label use	681	Hypokalemic periodic paralysis	rare_genetic	DB00819	Acetazolamide
-off-label use	397755	Periodic paralysis with transient compartment-like syndrome	rare_genetic	DB00819	Acetazolamide
-off-label use	397750	Periodic paralysis with later-onset distal motor neuropathy	rare_genetic	DB00819	Acetazolamide
-off-label use	79102	Thyrotoxic periodic paralysis	not_genetic	DB00819	Acetazolamide
-off-label use	37553	Cardiodysrhythmic potassium-sensitive periodic paralysis	rare_genetic	DB00819	Acetazolamide
-off-label use	232	Sickle cell anemia	rare_genetic	DB00610	Metaraminol
-off-label use	232	Sickle cell anemia	rare_genetic	DB00388	Phenylephrine
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00559	Bosentan
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00559	Bosentan
-off-label use	668	Osteosarcoma	not_genetic	DB00445	Epirubicin
-off-label use	319	Ewing sarcoma	not_genetic	DB00445	Epirubicin
-off-label use	26106	Hereditary diffuse gastric cancer	rare_genetic	DB00445	Epirubicin
-indication	79276	Acute intermittent porphyria	rare_genetic	DB00420	Promazine
-indication	79276	Acute intermittent porphyria	rare_genetic	DB00477	Chlorpromazine
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00915	Amantadine
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00915	Amantadine
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00915	Amantadine
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00915	Amantadine
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00915	Amantadine
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00915	Amantadine
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00915	Amantadine
-off-label use	79241	Biotinidase deficiency	rare_genetic	DB00121	Biotin
-indication	79241	Biotinidase deficiency	rare_genetic	DB00121	Biotin
-off-label use	35	Propionic acidemia	rare_genetic	DB00121	Biotin
-off-label use	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00121	Biotin
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00121	Biotin
-indication	79241	Biotinidase deficiency	rare_genetic	DB00152	Thiamine
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00152	Thiamine
-indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00152	Thiamine
-indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00152	Thiamine
-indication	79241	Biotinidase deficiency	rare_genetic	DB00200	Hydroxocobalamin
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00200	Hydroxocobalamin
-indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00200	Hydroxocobalamin
-indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00200	Hydroxocobalamin
-indication	79241	Biotinidase deficiency	rare_genetic	DB00115	Cyanocobalamin
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00115	Cyanocobalamin
-indication	209981	IRIDA syndrome	rare_genetic	DB00115	Cyanocobalamin
-indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB00115	Cyanocobalamin
-indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00115	Cyanocobalamin
-indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00115	Cyanocobalamin
-indication	79241	Biotinidase deficiency	rare_genetic	DB00158	Folic Acid
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00158	Folic Acid
-indication	209981	IRIDA syndrome	rare_genetic	DB00158	Folic Acid
-indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB00158	Folic Acid
-indication	79241	Biotinidase deficiency	rare_genetic	DB00650	Leucovorin
-indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00650	Leucovorin
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00766	Clavulanate
-off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01607	Ticarcillin
-indication	882	Tyrosinemia type 1	rare_genetic	DB00348	Nitisinone
-indication	79254	Classic phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	226	Dihydropteridine reductase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	2102	GTP cyclohydrolase I deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	13	6-pyruvoyl-tetrahydropterin synthase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	2209	Maternal phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	1578	Dehydratase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	293284	Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	79253	Mild phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
-indication	79651	Mild hyperphenylalaninemia	rare_genetic	DB00360	Tetrahydrobiopterin
-off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00571	Propranolol
-indication	319509	Combined oxidative phosphorylation defect type 9	rare_genetic	DB00571	Propranolol
-indication	319504	Combined oxidative phosphorylation defect type 8	rare_genetic	DB00571	Propranolol
-indication	314637	Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency	rare_genetic	DB00571	Propranolol
-indication	352563	Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency	rare_genetic	DB00571	Propranolol
-indication	289527	Fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency	rare_genetic	DB00571	Propranolol
-indication	444013	Combined oxidative phosphorylation deficiency type 23	rare_genetic	DB00571	Propranolol
-indication	399	Huntington disease	rare_genetic	DB04844	Tetrabenazine
-indication	157941	Huntington disease-like 1	rare_genetic	DB04844	Tetrabenazine
-indication	248111	Juvenile Huntington disease	rare_genetic	DB04844	Tetrabenazine
-indication	401901	Huntington disease-like syndrome due to C9ORF72 expansions	rare_genetic	DB04844	Tetrabenazine
-indication	59306	McLeod neuroacanthocytosis syndrome	rare_genetic	DB04844	Tetrabenazine
-indication	98934	Huntington disease-like 2	rare_genetic	DB04844	Tetrabenazine
-indication	186	Primary biliary cholangitis	not_genetic	DB01586	Ursodeoxycholic acid
-indication	779	Reynolds syndrome	not_genetic	DB01586	Ursodeoxycholic acid
-off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	DB00140	Riboflavin
-off-label use	3124	Saccharopinuria	rare_genetic	DB00140	Riboflavin
-off-label use	2203	Hyperlysinemia	rare_genetic	DB00140	Riboflavin
-off-label use	79154	2-aminoadipic 2-oxoadipic aciduria	rare_genetic	DB00140	Riboflavin
-off-label use	35706	Glutaric acidemia type 3	rare_genetic	DB00140	Riboflavin
-indication	803	Amyotrophic lateral sclerosis	not_genetic	DB00740	Riluzole
-off-label use	30	Hereditary orotic aciduria	rare_genetic	DB00437	Allopurinol
-off-label use	46	Adenylosuccinate lyase deficiency	rare_genetic	DB00437	Allopurinol
-off-label use	1675	Dihydropyrimidine dehydrogenase deficiency	rare_genetic	DB00437	Allopurinol
-off-label use	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	DB00437	Allopurinol
-off-label use	1187	Lethal ataxia with deafness and optic atrophy	rare_genetic	DB00437	Allopurinol
-off-label use	250977	AICA-ribosiduria	rare_genetic	DB00437	Allopurinol
-off-label use	411536	Mild phosphoribosylpyrophosphate synthetase superactivity	rare_genetic	DB00437	Allopurinol
-off-label use	411543	Severe phosphoribosylpyrophosphate synthetase superactivity	rare_genetic	DB00437	Allopurinol
-off-label use	423479	X-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome	rare_genetic	DB00437	Allopurinol
-off-label use	65287	Beta-ureidopropionase deficiency	rare_genetic	DB00437	Allopurinol
-off-label use	79233	Hypoxanthine guanine phosphoribosyltransferase partial deficiency	rare_genetic	DB00437	Allopurinol
-off-label use	38874	Dihydropyrimidinuria	rare_genetic	DB00437	Allopurinol
-off-label use	93602	Xanthinuria type II	rare_genetic	DB00437	Allopurinol
-off-label use	93601	Xanthinuria type I	rare_genetic	DB00437	Allopurinol
-off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00232	Methyclothiazide
-indication	552	MODY	rare_genetic	DB00672	Chlorpropamide
-off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00672	Chlorpropamide
-off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00310	Chlorthalidone
+indication	213711	Endometrial stromal sarcoma	not_genetic	DB00603	Medroxyprogesterone Acetate
+off-label use	169615	Idiopathic central precocious puberty	rare_genetic	DB00603	Medroxyprogesterone Acetate
+off-label use	178345	Aromatase excess syndrome	rare_genetic	DB00603	Medroxyprogesterone Acetate
+off-label use	3000	Familial male-limited precocious puberty	rare_genetic	DB00603	Medroxyprogesterone Acetate
+off-label use	199247	Corticosteroid-binding globulin deficiency	rare_genetic	DB00603	Medroxyprogesterone Acetate
+indication	169615	Idiopathic central precocious puberty	rare_genetic	DB00666	Nafarelin
+indication	178345	Aromatase excess syndrome	rare_genetic	DB00666	Nafarelin
+indication	3000	Familial male-limited precocious puberty	rare_genetic	DB00666	Nafarelin
+indication	199247	Corticosteroid-binding globulin deficiency	rare_genetic	DB00666	Nafarelin
 indication	100050	Hereditary angioedema type 1	rare_genetic	DB06196	Icatibant
 indication	169464	Primary CD59 deficiency	rare_genetic	DB06196	Icatibant
 indication	169467	Recurrent Neisseria infections due to factor D deficiency	rare_genetic	DB06196	Icatibant
@@ -1725,31 +1598,292 @@ indication	221046	Poikiloderma with neutropenia	rare_genetic	DB06718	Stanozolol
 indication	420741	RIDDLE syndrome	rare_genetic	DB06718	Stanozolol
 indication	90023	Primary immunodeficiency syndrome due to p14 deficiency	rare_genetic	DB06718	Stanozolol
 indication	98813	Hypohidrotic ectodermal dysplasia with immunodeficiency	rare_genetic	DB06718	Stanozolol
+off-label use	319	Ewing sarcoma	not_genetic	DB00445	Epirubicin
+off-label use	668	Osteosarcoma	not_genetic	DB00445	Epirubicin
+off-label use	26106	Hereditary diffuse gastric cancer	rare_genetic	DB00445	Epirubicin
+off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00446	Chloramphenicol
+indication	171	Primary sclerosing cholangitis	not_genetic	DB00415	Ampicillin
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01060	Amoxicillin
+indication	231226	Dominant beta-thalassemia	rare_genetic	DB08826	Deferiprone
+indication	231222	Beta-thalassemia intermedia	rare_genetic	DB08826	Deferiprone
+indication	231214	Beta-thalassemia major	rare_genetic	DB08826	Deferiprone
+indication	231226	Dominant beta-thalassemia	rare_genetic	DB01609	Deferasirox
+indication	231222	Beta-thalassemia intermedia	rare_genetic	DB01609	Deferasirox
+indication	231214	Beta-thalassemia major	rare_genetic	DB01609	Deferasirox
+off-label use	14	Abetalipoproteinemia	rare_genetic	DB00162	Vitamin A
+off-label use	71	Chylomicron retention disease	rare_genetic	DB00162	Vitamin A
+off-label use	2388	Choreoacanthocytosis	rare_genetic	DB00162	Vitamin A
+off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB00162	Vitamin A
+off-label use	31150	Tangier disease	rare_genetic	DB00162	Vitamin A
+off-label use	79293	Familial LCAT deficiency	rare_genetic	DB00162	Vitamin A
+off-label use	79292	Fish-eye disease	rare_genetic	DB00162	Vitamin A
+off-label use	14	Abetalipoproteinemia	rare_genetic	DB01022	Phylloquinone
+indication	325	Congenital factor II deficiency	rare_genetic	DB01022	Phylloquinone
+indication	327	Congenital factor VII deficiency	rare_genetic	DB01022	Phylloquinone
+indication	330	Congenital factor XII deficiency	rare_genetic	DB01022	Phylloquinone
+indication	326	Congenital factor V deficiency	rare_genetic	DB01022	Phylloquinone
+indication	248408	Familial hypodysfibrinogenemia	rare_genetic	DB01022	Phylloquinone
+indication	331	Congenital factor XIII deficiency	rare_genetic	DB01022	Phylloquinone
+indication	745	Hereditary thrombophilia due to congenital protein C deficiency	rare_genetic	DB01022	Phylloquinone
+indication	328	Congenital factor X deficiency	rare_genetic	DB01022	Phylloquinone
+indication	391320	East Texas bleeding disorder	rare_genetic	DB01022	Phylloquinone
+indication	98881	Familial dysfibrinogenemia	rare_genetic	DB01022	Phylloquinone
+indication	98880	Familial afibrinogenemia	rare_genetic	DB01022	Phylloquinone
+indication	98434	Hereditary combined deficiency of vitamin K-dependent clotting factors	rare_genetic	DB01022	Phylloquinone
+indication	101041	Familial hypofibrinogenemia	rare_genetic	DB01022	Phylloquinone
+indication	91135	Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency	rare_genetic	DB01022	Phylloquinone
+off-label use	71	Chylomicron retention disease	rare_genetic	DB01022	Phylloquinone
+off-label use	2388	Choreoacanthocytosis	rare_genetic	DB01022	Phylloquinone
+off-label use	425	Apolipoprotein A-I deficiency	rare_genetic	DB01022	Phylloquinone
+off-label use	31150	Tangier disease	rare_genetic	DB01022	Phylloquinone
+off-label use	79293	Familial LCAT deficiency	rare_genetic	DB01022	Phylloquinone
+off-label use	79292	Fish-eye disease	rare_genetic	DB01022	Phylloquinone
+off-label use	99961	Benign recurrent intrahepatic cholestasis type 2	rare_genetic	DB01022	Phylloquinone
+off-label use	99960	Benign recurrent intrahepatic cholestasis type 1	rare_genetic	DB01022	Phylloquinone
+off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	635	Neuroblastoma	not_genetic	DB00570	Vinblastine
+off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00570	Vinblastine
+off-label use	251656	Oligoastrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251671	Angiocentric glioma	not_genetic	DB00570	Vinblastine
+off-label use	251579	Giant cell glioblastoma	not_genetic	DB00570	Vinblastine
+off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00570	Vinblastine
+off-label use	251627	Oligodendroglioma	not_genetic	DB00570	Vinblastine
+off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00570	Vinblastine
+off-label use	276627	Sporadic secreting paraganglioma	not_genetic	DB00570	Vinblastine
+off-label use	29072	Hereditary pheochromocytoma-paraganglioma	rare_genetic	DB00570	Vinblastine
+indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB08896	Regorafenib
+indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB00619	Imatinib
+indication	168940	Chronic eosinophilic leukemia	not_genetic	DB00619	Imatinib
+indication	31112	Dermatofibrosarcoma protuberans	rare_genetic	DB00619	Imatinib
+indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	DB00619	Imatinib
+indication	158778	Isolated bone marrow mastocytosis	not_genetic	DB00619	Imatinib
+indication	158775	Smouldering systemic mastocytosis	not_genetic	DB00619	Imatinib
+indication	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB00619	Imatinib
+indication	44890	Gastrointestinal stromal tumor	rare_genetic	DB00322	Floxuridine
+off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00199	Erythromycin
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB02703	Fusidic Acid
+indication	171	Primary sclerosing cholangitis	not_genetic	DB02703	Fusidic Acid
+off-label use	2290	Microvillus inclusion disease	rare_genetic	DB00318	Codeine
+off-label use	329242	Congenital chronic diarrhea with protein-losing enteropathy	rare_genetic	DB00318	Codeine
+off-label use	314373	Chronic diarrhea due to guanylate cyclase 2C overactivity	rare_genetic	DB00318	Codeine
+off-label use	53689	Congenital chloride diarrhea	rare_genetic	DB00318	Codeine
+off-label use	92050	Congenital tufting enteropathy	rare_genetic	DB00318	Codeine
+off-label use	83620	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells	rare_genetic	DB00318	Codeine
+off-label use	103908	Congenital sodium diarrhea	rare_genetic	DB00318	Codeine
+off-label use	232	Sickle cell anemia	rare_genetic	DB00388	Phenylephrine
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00595	Oxytetracycline
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00595	Oxytetracycline
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00618	Demeclocycline
+off-label use	93606	Nephrogenic syndrome of inappropriate antidiuresis	rare_genetic	DB00618	Demeclocycline
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01017	Minocycline
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00759	Tetracycline
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00759	Tetracycline
+indication	79276	Acute intermittent porphyria	rare_genetic	DB00420	Promazine
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01607	Ticarcillin
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00781	Polymyxin B Sulfate
+indication	124	Blackfan-Diamond anemia	rare_genetic	DB00858	Drostanolone
+off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00634	Sulfacetamide
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00994	Neomycin
+off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00880	Chlorothiazide
+off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00999	Hydrochlorothiazide
+off-label use	223	Nephrogenic diabetes insipidus	rare_genetic	DB00594	Amiloride
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB06201	Rufinamide
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB01068	Clonazepam
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00273	Topiramate
+indication	2382	Lennox-Gastaut syndrome	rare_genetic	DB00349	Clobazam
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00760	Meropenem
+off-label use	703	Bullous pemphigoid	not_genetic	DB00891	Sulfapyridine
+indication	703	Bullous pemphigoid	not_genetic	DB00891	Sulfapyridine
+off-label use	703	Bullous pemphigoid	not_genetic	DB00250	Dapsone
+indication	703	Bullous pemphigoid	not_genetic	DB00250	Dapsone
+off-label use	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00250	Dapsone
+off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00249	Idoxuridine
+indication	158793	Lymphoadenopathic mastocytosis with eosinophilia	not_genetic	DB01003	Cromoglicic acid
+indication	158778	Isolated bone marrow mastocytosis	not_genetic	DB01003	Cromoglicic acid
+indication	158775	Smouldering systemic mastocytosis	not_genetic	DB01003	Cromoglicic acid
+indication	98849	Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease	not_genetic	DB01003	Cromoglicic acid
+off-label use	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00687	Fludrocortisone
+off-label use	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	DB00687	Fludrocortisone
+indication	361	Familial glucocorticoid deficiency	rare_genetic	DB00687	Fludrocortisone
+indication	289548	Inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency	rare_genetic	DB00687	Fludrocortisone
+indication	95702	Cytomegalic congenital adrenal hypoplasia	rare_genetic	DB00687	Fludrocortisone
+indication	520	Acute promyelocytic leukemia	not_genetic	DB01169	Arsenic trioxide
+indication	520	Acute promyelocytic leukemia	not_genetic	DB04942	Tamibarotene
+indication	251589	Anaplastic astrocytoma	not_genetic	DB00853	Temozolomide
+off-label use	319	Ewing sarcoma	not_genetic	DB00853	Temozolomide
+indication	251630	Anaplastic oligodendroglioma	not_genetic	DB00853	Temozolomide
+indication	251656	Oligoastrocytoma	not_genetic	DB00853	Temozolomide
+indication	251663	Anaplastic oligoastrocytoma	not_genetic	DB00853	Temozolomide
+indication	251671	Angiocentric glioma	not_genetic	DB00853	Temozolomide
+indication	251579	Giant cell glioblastoma	not_genetic	DB00853	Temozolomide
+indication	251598	Protoplasmic astrocytoma	not_genetic	DB00853	Temozolomide
+indication	251604	Gemistocytic astrocytoma	not_genetic	DB00853	Temozolomide
+indication	251601	Fibrillary astrocytoma	not_genetic	DB00853	Temozolomide
+indication	251612	Pilocytic astrocytoma	not_genetic	DB00853	Temozolomide
+indication	251627	Oligodendroglioma	not_genetic	DB00853	Temozolomide
+indication	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00853	Temozolomide
+off-label use	251589	Anaplastic astrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	70573	Small cell lung cancer	not_genetic	DB00762	Irinotecan
+off-label use	319	Ewing sarcoma	not_genetic	DB00762	Irinotecan
+off-label use	251630	Anaplastic oligodendroglioma	not_genetic	DB00762	Irinotecan
+off-label use	251656	Oligoastrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251663	Anaplastic oligoastrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251671	Angiocentric glioma	not_genetic	DB00762	Irinotecan
+off-label use	251579	Giant cell glioblastoma	not_genetic	DB00762	Irinotecan
+off-label use	251598	Protoplasmic astrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251604	Gemistocytic astrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251601	Fibrillary astrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251612	Pilocytic astrocytoma	not_genetic	DB00762	Irinotecan
+off-label use	251627	Oligodendroglioma	not_genetic	DB00762	Irinotecan
+off-label use	370348	Peripheral primitive neuroectodermal tumor	not_genetic	DB00762	Irinotecan
+off-label use	70573	Small cell lung cancer	not_genetic	DB00361	Vinorelbine
+indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00169	Cholecalciferol
+indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB01070	Dihydrotachysterol
+off-label use	89936	X-linked hypophosphatemia	rare_genetic	DB00136	Calcitriol
+off-label use	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00136	Calcitriol
+indication	89936	X-linked hypophosphatemia	rare_genetic	DB00153	Ergocalciferol
+indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00153	Ergocalciferol
+indication	3451	West syndrome	rare_genetic	DB01080	Vigabatrin
+indication	2334	Autosomal dominant keratitis	rare_genetic	DB00798	Gentamicin
+indication	171	Primary sclerosing cholangitis	not_genetic	DB00798	Gentamicin
+indication	171	Primary sclerosing cholangitis	not_genetic	DB00479	Amikacin
+indication	905	Wilson disease	rare_genetic	DB00859	Penicillamine
+off-label use	36412	Hypocomplementemic urticarial vasculitis	not_genetic	DB00859	Penicillamine
+off-label use	470	Lysinuric protein intolerance	rare_genetic	DB00155	L-Citrulline
+off-label use	147	Carbamoyl-phosphate synthetase 1 deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	90	Argininemia	rare_genetic	DB00155	L-Citrulline
+off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	22	Succinic semialdehyde dehydrogenase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	137754	Neurological conditions associated with aminoacylase 1 deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	382	Guanidinoacetate methyltransferase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	742	Prolidase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	943	Malonic aciduria	rare_genetic	DB00155	L-Citrulline
+off-label use	2066	Gamma-aminobutyric acid transaminase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	356978	D,L-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
+off-label use	284417	Phosphoserine aminotransferase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	391376	Congenital microcephaly-severe encephalopathy-progressive cerebral atrophy syndrome	rare_genetic	DB00155	L-Citrulline
+off-label use	391428	HSD10 disease, infantile type	rare_genetic	DB00155	L-Citrulline
+off-label use	391457	HSD10 disease, neonatal type	rare_genetic	DB00155	L-Citrulline
+off-label use	71278	Congenital brain dysgenesis due to glutamine synthetase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	35704	L-Arginine:glycine amidinotransferase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	35878	Hyperinsulinism-hyperammonemia syndrome	rare_genetic	DB00155	L-Citrulline
+off-label use	33572	5-oxoprolinase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	33573	Gamma-glutamyl transpeptidase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	52503	X-linked creatine transporter deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	79314	L-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
+off-label use	79315	D-2-hydroxyglutaric aciduria	rare_genetic	DB00155	L-Citrulline
+off-label use	79351	3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form	rare_genetic	DB00155	L-Citrulline
+off-label use	79350	3-phosphoserine phosphatase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	3124	Saccharopinuria	rare_genetic	DB00155	L-Citrulline
+off-label use	2203	Hyperlysinemia	rare_genetic	DB00155	L-Citrulline
+off-label use	79154	2-aminoadipic 2-oxoadipic aciduria	rare_genetic	DB00155	L-Citrulline
+off-label use	35706	Glutaric acidemia type 3	rare_genetic	DB00155	L-Citrulline
+off-label use	664	Ornithine transcarbamylase deficiency	rare_genetic	DB00155	L-Citrulline
+off-label use	415	Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome	rare_genetic	DB00155	L-Citrulline
+off-label use	414	Gyrate atrophy of choroid and retina	rare_genetic	DB00155	L-Citrulline
+indication	3318	Essential thrombocythemia	not_genetic	DB00261	Anagrelide
+off-label use	70573	Small cell lung cancer	not_genetic	DB01181	Ifosfamide
+off-label use	543	Burkitt lymphoma	not_genetic	DB01181	Ifosfamide
+off-label use	99860	Precursor B-cell acute lymphoblastic leukemia	not_genetic	DB01181	Ifosfamide
+off-label use	319	Ewing sarcoma	not_genetic	DB01181	Ifosfamide
+off-label use	668	Osteosarcoma	not_genetic	DB01181	Ifosfamide
+indication	3303	Tetralogy of Fallot	not_genetic	DB00770	Alprostadil
+off-label use	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00770	Alprostadil
+off-label use	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00770	Alprostadil
+indication	49827	Thiamine-responsive megaloblastic anemia syndrome	rare_genetic	DB00770	Alprostadil
+indication	1880	Ebstein malformation	rare_genetic	DB00770	Alprostadil
+indication	1479	Atrial septal defect-atrioventricular conduction defects syndrome	rare_genetic	DB00770	Alprostadil
+indication	99105	Atrial septal defect, sinus venosus type	rare_genetic	DB00770	Alprostadil
+indication	99103	Atrial septal defect, ostium secundum type	rare_genetic	DB00770	Alprostadil
+off-label use	93552	Pediatric systemic lupus erythematosus	not_genetic	DB00993	Azathioprine
+indication	342	Familial Mediterranean fever	rare_genetic	DB01394	Colchicine
+off-label use	232	Sickle cell anemia	rare_genetic	DB00610	Metaraminol
+indication	79276	Acute intermittent porphyria	rare_genetic	DB00477	Chlorpromazine
+indication	99861	Precursor T-cell acute lymphoblastic leukemia	not_genetic	DB01280	Nelarabine
+off-label use	79241	Biotinidase deficiency	rare_genetic	DB00121	Biotin
+indication	79241	Biotinidase deficiency	rare_genetic	DB00121	Biotin
+off-label use	35	Propionic acidemia	rare_genetic	DB00121	Biotin
+off-label use	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00121	Biotin
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00121	Biotin
+indication	79241	Biotinidase deficiency	rare_genetic	DB00152	Thiamine
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00152	Thiamine
+indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00152	Thiamine
+indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00152	Thiamine
+indication	79241	Biotinidase deficiency	rare_genetic	DB00200	Hydroxocobalamin
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00200	Hydroxocobalamin
+indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00200	Hydroxocobalamin
+indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00200	Hydroxocobalamin
+indication	79241	Biotinidase deficiency	rare_genetic	DB00115	Cyanocobalamin
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00115	Cyanocobalamin
+indication	209981	IRIDA syndrome	rare_genetic	DB00115	Cyanocobalamin
+indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB00115	Cyanocobalamin
+indication	332	Congenital intrinsic factor deficiency	rare_genetic	DB00115	Cyanocobalamin
+indication	35858	Gräsbeck-Imerslund disease	rare_genetic	DB00115	Cyanocobalamin
+indication	79241	Biotinidase deficiency	rare_genetic	DB00158	Folic Acid
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00158	Folic Acid
+indication	209981	IRIDA syndrome	rare_genetic	DB00158	Folic Acid
+indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB00158	Folic Acid
+indication	79241	Biotinidase deficiency	rare_genetic	DB00650	Leucovorin
+indication	79242	Holocarboxylase synthetase deficiency	rare_genetic	DB00650	Leucovorin
+off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00766	Clavulanate
+indication	882	Tyrosinemia type 1	rare_genetic	DB00348	Nitisinone
+off-label use	976	Adenine phosphoribosyltransferase deficiency	rare_genetic	DB00437	Allopurinol
+off-label use	30	Hereditary orotic aciduria	rare_genetic	DB00437	Allopurinol
+off-label use	46	Adenylosuccinate lyase deficiency	rare_genetic	DB00437	Allopurinol
+off-label use	1675	Dihydropyrimidine dehydrogenase deficiency	rare_genetic	DB00437	Allopurinol
+off-label use	1187	Lethal ataxia with deafness and optic atrophy	rare_genetic	DB00437	Allopurinol
+off-label use	250977	AICA-ribosiduria	rare_genetic	DB00437	Allopurinol
+off-label use	411536	Mild phosphoribosylpyrophosphate synthetase superactivity	rare_genetic	DB00437	Allopurinol
+off-label use	411543	Severe phosphoribosylpyrophosphate synthetase superactivity	rare_genetic	DB00437	Allopurinol
+off-label use	423479	X-linked intellectual disability-limb spasticity-retinal dystrophy-diabetes insipidus syndrome	rare_genetic	DB00437	Allopurinol
+off-label use	65287	Beta-ureidopropionase deficiency	rare_genetic	DB00437	Allopurinol
+off-label use	79233	Hypoxanthine guanine phosphoribosyltransferase partial deficiency	rare_genetic	DB00437	Allopurinol
+off-label use	38874	Dihydropyrimidinuria	rare_genetic	DB00437	Allopurinol
+off-label use	93602	Xanthinuria type II	rare_genetic	DB00437	Allopurinol
+off-label use	93601	Xanthinuria type I	rare_genetic	DB00437	Allopurinol
+indication	1930	Herpes simplex encephalitis	rare_genetic	DB00787	Aciclovir
+indication	79254	Classic phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	226	Dihydropteridine reductase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	2102	GTP cyclohydrolase I deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	13	6-pyruvoyl-tetrahydropterin synthase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	2209	Maternal phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	1578	Dehydratase deficiency	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	293284	Tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	79253	Mild phenylketonuria	rare_genetic	DB00360	Tetrahydrobiopterin
+indication	79651	Mild hyperphenylalaninemia	rare_genetic	DB00360	Tetrahydrobiopterin
+off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00571	Propranolol
+indication	319509	Combined oxidative phosphorylation defect type 9	rare_genetic	DB00571	Propranolol
+indication	319504	Combined oxidative phosphorylation defect type 8	rare_genetic	DB00571	Propranolol
+indication	314637	Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency	rare_genetic	DB00571	Propranolol
+indication	352563	Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency	rare_genetic	DB00571	Propranolol
+indication	289527	Fatal infantile hypertrophic cardiomyopathy due to mitochondrial complex I deficiency	rare_genetic	DB00571	Propranolol
+indication	444013	Combined oxidative phosphorylation defect type 23	rare_genetic	DB00571	Propranolol
+indication	399	Huntington disease	rare_genetic	DB04844	Tetrabenazine
+indication	157941	Huntington disease-like 1	rare_genetic	DB04844	Tetrabenazine
+indication	248111	Juvenile Huntington disease	rare_genetic	DB04844	Tetrabenazine
+indication	401901	Huntington disease-like syndrome due to C9ORF72 expansions	rare_genetic	DB04844	Tetrabenazine
+indication	59306	McLeod neuroacanthocytosis syndrome	rare_genetic	DB04844	Tetrabenazine
+indication	98934	Huntington disease-like 2	rare_genetic	DB04844	Tetrabenazine
+indication	186	Primary biliary cholangitis	not_genetic	DB01586	Ursodeoxycholic acid
+indication	779	Reynolds syndrome	not_genetic	DB01586	Ursodeoxycholic acid
+off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00264	Metoprolol
+off-label use	3286	Catecholaminergic polymorphic ventricular tachycardia	rare_genetic	DB00264	Metoprolol
+off-label use	25	Glutaryl-CoA dehydrogenase deficiency	rare_genetic	DB00140	Riboflavin
+off-label use	3124	Saccharopinuria	rare_genetic	DB00140	Riboflavin
+off-label use	2203	Hyperlysinemia	rare_genetic	DB00140	Riboflavin
+off-label use	79154	2-aminoadipic 2-oxoadipic aciduria	rare_genetic	DB00140	Riboflavin
+off-label use	35706	Glutaric acidemia type 3	rare_genetic	DB00140	Riboflavin
+indication	803	Amyotrophic lateral sclerosis	not_genetic	DB00740	Riluzole
+off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00232	Methyclothiazide
+off-label use	30925	Hereditary central diabetes insipidus	rare_genetic	DB00310	Chlorthalidone
 indication	209981	IRIDA syndrome	rare_genetic	DB01592	Iron
 indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB01592	Iron
 indication	209981	IRIDA syndrome	rare_genetic	DB00139	Succinic acid
 indication	83642	Microcytic anemia with liver iron overload	rare_genetic	DB00139	Succinic acid
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00387	Procyclidine
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00387	Procyclidine
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00387	Procyclidine
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00387	Procyclidine
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00387	Procyclidine
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00387	Procyclidine
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00387	Procyclidine
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00190	Carbidopa
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00190	Carbidopa
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00190	Carbidopa
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00190	Carbidopa
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00190	Carbidopa
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00190	Carbidopa
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00190	Carbidopa
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01235	L-DOPA
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB01235	L-DOPA
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01235	L-DOPA
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01235	L-DOPA
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01235	L-DOPA
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01235	L-DOPA
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB01235	L-DOPA
 indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00268	Ropinirole
 indication	2828	Young-onset Parkinson disease	rare_genetic	DB00268	Ropinirole
 indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00268	Ropinirole
@@ -1757,13 +1891,6 @@ indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00268
 indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00268	Ropinirole
 indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00268	Ropinirole
 indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00268	Ropinirole
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00810	Biperiden
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00810	Biperiden
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00810	Biperiden
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00810	Biperiden
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00810	Biperiden
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00810	Biperiden
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00810	Biperiden
 indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB05271	Rotigotine
 indication	2828	Young-onset Parkinson disease	rare_genetic	DB05271	Rotigotine
 indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB05271	Rotigotine
@@ -1771,13 +1898,6 @@ indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB05271
 indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB05271	Rotigotine
 indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB05271	Rotigotine
 indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB05271	Rotigotine
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00245	Benzatropine
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00245	Benzatropine
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00245	Benzatropine
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00245	Benzatropine
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00245	Benzatropine
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00245	Benzatropine
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00245	Benzatropine
 indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00714	Apomorphine
 indication	2828	Young-onset Parkinson disease	rare_genetic	DB00714	Apomorphine
 indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00714	Apomorphine
@@ -1792,13 +1912,6 @@ indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00494
 indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00494	Entacapone
 indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00494	Entacapone
 indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00494	Entacapone
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00376	Trihexyphenidyl
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00376	Trihexyphenidyl
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00376	Trihexyphenidyl
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00376	Trihexyphenidyl
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00376	Trihexyphenidyl
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00376	Trihexyphenidyl
-indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00376	Trihexyphenidyl
 indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01037	Selegiline
 indication	2828	Young-onset Parkinson disease	rare_genetic	DB01037	Selegiline
 indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01037	Selegiline
@@ -1842,24 +1955,6 @@ indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00942
 indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00942	Cycrimine
 indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00942	Cycrimine
 indication	227510	Multiple system atrophy, cerebellar type	not_genetic	DB00942	Cycrimine
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01173	Orphenadrine
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB01173	Orphenadrine
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01173	Orphenadrine
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01173	Orphenadrine
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01173	Orphenadrine
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01173	Orphenadrine
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB01186	Pergolide
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB01186	Pergolide
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB01186	Pergolide
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB01186	Pergolide
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB01186	Pergolide
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB01186	Pergolide
-indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00340	Metixene
-indication	2828	Young-onset Parkinson disease	rare_genetic	DB00340	Metixene
-indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00340	Metixene
-indication	363654	X-linked parkinsonism-spasticity syndrome	rare_genetic	DB00340	Metixene
-indication	411602	Hereditary late-onset Parkinson disease	rare_genetic	DB00340	Metixene
-indication	391411	Atypical juvenile parkinsonism	rare_genetic	DB00340	Metixene
 indication	171695	Parkinsonian-pyramidal syndrome	rare_genetic	DB00989	Rivastigmine
 indication	2828	Young-onset Parkinson disease	rare_genetic	DB00989	Rivastigmine
 indication	2379	Early-onset parkinsonism-intellectual disability syndrome	rare_genetic	DB00989	Rivastigmine
@@ -1871,8 +1966,6 @@ indication	443236	Orthostatic intolerance due to NET deficiency	rare_genetic	DB0
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB00626	Bacitracin
 off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00722	Lisinopril
 indication	2334	Autosomal dominant keratitis	rare_genetic	DB00826	Natamycin
-off-label use	2334	Autosomal dominant keratitis	rare_genetic	DB00249	Idoxuridine
-indication	70587	Infant acute respiratory distress syndrome	not_genetic	DB06439	Tyloxapol
 off-label use	2290	Microvillus inclusion disease	rare_genetic	DB00575	Clonidine
 off-label use	329242	Congenital chronic diarrhea with protein-losing enteropathy	rare_genetic	DB00575	Clonidine
 off-label use	314373	Chronic diarrhea due to guanylate cyclase 2C overactivity	rare_genetic	DB00575	Clonidine
@@ -1923,13 +2016,6 @@ off-label use	92050	Congenital tufting enteropathy	rare_genetic	DB00424	Hyoscyam
 off-label use	83620	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells	rare_genetic	DB00424	Hyoscyamine
 off-label use	103908	Congenital sodium diarrhea	rare_genetic	DB00424	Hyoscyamine
 off-label use	2704	Ochoa syndrome	rare_genetic	DB00424	Hyoscyamine
-off-label use	2290	Microvillus inclusion disease	rare_genetic	DB00318	Codeine
-off-label use	329242	Congenital chronic diarrhea with protein-losing enteropathy	rare_genetic	DB00318	Codeine
-off-label use	314373	Chronic diarrhea due to guanylate cyclase 2C overactivity	rare_genetic	DB00318	Codeine
-off-label use	53689	Congenital chloride diarrhea	rare_genetic	DB00318	Codeine
-off-label use	92050	Congenital tufting enteropathy	rare_genetic	DB00318	Codeine
-off-label use	83620	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells	rare_genetic	DB00318	Codeine
-off-label use	103908	Congenital sodium diarrhea	rare_genetic	DB00318	Codeine
 indication	2290	Microvillus inclusion disease	rare_genetic	DB00295	Morphine
 indication	329242	Congenital chronic diarrhea with protein-losing enteropathy	rare_genetic	DB00295	Morphine
 indication	314373	Chronic diarrhea due to guanylate cyclase 2C overactivity	rare_genetic	DB00295	Morphine
@@ -1938,50 +2024,13 @@ indication	92050	Congenital tufting enteropathy	rare_genetic	DB00295	Morphine
 indication	83620	Congenital malabsorptive diarrhea due to paucity of enteroendocrine cells	rare_genetic	DB00295	Morphine
 indication	103908	Congenital sodium diarrhea	rare_genetic	DB00295	Morphine
 indication	1334	Chronic mucocutaneous candidiasis	rare_genetic	DB01188	Ciclopirox
-indication	552	MODY	rare_genetic	DB01120	Gliclazide
-indication	552	MODY	rare_genetic	DB06203	Alogliptin
-indication	552	MODY	rare_genetic	DB08907	Canagliflozin
-indication	552	MODY	rare_genetic	DB06292	Dapagliflozin
-indication	552	MODY	rare_genetic	DB04876	Vildagliptin
-indication	552	MODY	rare_genetic	DB00222	Glimepiride
-indication	552	MODY	rare_genetic	DB01132	Pioglitazone
-indication	552	MODY	rare_genetic	DB00731	Nateglinide
-indication	552	MODY	rare_genetic	DB08882	Linagliptin
-indication	552	MODY	rare_genetic	DB00491	Miglitol
-indication	552	MODY	rare_genetic	DB00839	Tolazamide
-indication	552	MODY	rare_genetic	DB06335	Saxagliptin
-indication	552	MODY	rare_genetic	DB00331	Metformin
-indication	552	MODY	rare_genetic	DB00284	Acarbose
-indication	552	MODY	rare_genetic	DB01261	Sitagliptin
-indication	552	MODY	rare_genetic	DB01016	Glyburide
-indication	552	MODY	rare_genetic	DB00912	Repaglinide
-indication	552	MODY	rare_genetic	DB01067	Glipizide
-indication	552	MODY	rare_genetic	DB01124	Tolbutamide
-indication	552	MODY	rare_genetic	DB01252	Mitiglinide
-indication	552	MODY	rare_genetic	DB01289	Glisoxepide
-indication	552	MODY	rare_genetic	DB01251	Gliquidone
-indication	552	MODY	rare_genetic	DB01382	Glycodiazine
 indication	3002	Immune thrombocytopenic purpura	not_genetic	DB06210	Eltrombopag
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB06268	Sitaxentan
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB06268	Sitaxentan
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB08932	MACITENTAN
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB08932	MACITENTAN
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB01240	Epoprostenol
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB01240	Epoprostenol
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00203	Sildenafil
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00203	Sildenafil
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB01088	Iloprost
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB01088	Iloprost
-indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00374	Treprostinil
-indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00374	Treprostinil
 indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00820	Tadalafil
 indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00820	Tadalafil
 indication	275786	Drug- or toxin-induced pulmonary arterial hypertension	not_genetic	DB00435	Nitric Oxide
 indication	275798	Pulmonary arterial hypertension associated with connective tissue disease	not_genetic	DB00435	Nitric Oxide
 indication	1331	Familial prostate cancer	rare_genetic	DB08913	Radium Ra 223 Dichloride
 indication	1331	Familial prostate cancer	rare_genetic	DB05812	Abiraterone
-indication	1331	Familial prostate cancer	rare_genetic	DB01248	Docetaxel
-indication	26106	Hereditary diffuse gastric cancer	rare_genetic	DB01248	Docetaxel
 indication	98976	Congenital glaucoma	rare_genetic	DB08808	Bupranolol
 indication	98978	Axenfeld anomaly	rare_genetic	DB08808	Bupranolol
 off-label use	171	Primary sclerosing cholangitis	not_genetic	DB00948	Mezlocillin
@@ -2000,15 +2049,9 @@ off-label use	254688	Complete hydatidiform mole	not_genetic	DB00429	Carboprost T
 off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01602	Bacampicillin
 off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01000	Cyclacillin
 off-label use	171	Primary sclerosing cholangitis	not_genetic	DB01147	Cloxacillin
-indication	213711	Endometrial stromal sarcoma	not_genetic	DB00351	Megestrol acetate
-off-label use	213711	Endometrial stromal sarcoma	not_genetic	DB00675	Tamoxifen
 indication	752	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	rare_genetic	DB01420	Testosterone Propionate
 indication	443087	46,XY disorder of sex development due to testicular 17,20-desmolase deficiency	rare_genetic	DB01420	Testosterone Propionate
 indication	90796	46,XY disorder of sex development due to isolated 17,20-lyase deficiency	rare_genetic	DB01420	Testosterone Propionate
-indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00169	Cholecalciferol
-indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB01070	Dihydrotachysterol
-off-label use	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00136	Calcitriol
-indication	289157	Hypocalcemic vitamin D-dependent rickets	rare_genetic	DB00153	Ergocalciferol
 indication	2801	Juvenile Paget disease	rare_genetic	DB01077	Etidronic acid
 indication	2801	Juvenile Paget disease	rare_genetic	DB00884	Risedronate
 indication	2801	Juvenile Paget disease	rare_genetic	DB01133	Tiludronate
@@ -2017,8 +2060,6 @@ indication	2801	Juvenile Paget disease	rare_genetic	DB00630	Alendronate
 indication	2801	Juvenile Paget disease	rare_genetic	DB00399	Zoledronate
 off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00335	Atenolol
 off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00373	Timolol
-off-label use	741	Familial mitral valve prolapse	rare_genetic	DB00264	Metoprolol
-off-label use	3286	Catecholaminergic polymorphic ventricular tachycardia	rare_genetic	DB00264	Metoprolol
 off-label use	741	Familial mitral valve prolapse	rare_genetic	DB01193	Acebutolol
 off-label use	741	Familial mitral valve prolapse	rare_genetic	DB01203	Nadolol
 indication	93606	Nephrogenic syndrome of inappropriate antidiuresis	rare_genetic	DB06212	Tolvaptan

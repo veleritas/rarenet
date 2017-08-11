@@ -22420,6 +22420,11 @@ dise_id	dise_name	freq	hpo_id	hpo_name	mesh_id
 56425	Cold agglutinin disease	Very frequent (99-80%)	HP:0002829	Arthralgia	D018771
 56425	Cold agglutinin disease	Occasional (29-5%)	HP:0003418	Back pain	D001416
 56425	Cold agglutinin disease	Very frequent (99-80%)	HP:0012378	Fatigue	D005221
+57782	Mazabraud syndrome	Occasional (29-5%)	HP:0000924	Abnormality of the skeletal system	
+57782	Mazabraud syndrome	Occasional (29-5%)	HP:0002652	Skeletal dysplasia	D010009
+57782	Mazabraud syndrome	Occasional (29-5%)	HP:0002653	Bone pain	
+57782	Mazabraud syndrome	Occasional (29-5%)	HP:0002757	Recurrent fractures	D000069076
+57782	Mazabraud syndrome	Very frequent (99-80%)	HP:0010734	Fibrous dysplasia of the bones	D005357
 59303	Neonatal ichthyosis-sclerosing cholangitis syndrome	Very frequent (99-80%)	HP:0000535	Sparse and thin eyebrow	
 59303	Neonatal ichthyosis-sclerosing cholangitis syndrome	Very frequent (99-80%)	HP:0000653	Sparse eyelashes	
 59303	Neonatal ichthyosis-sclerosing cholangitis syndrome	Occasional (29-5%)	HP:0000668	Hypodontia	D000848
@@ -31903,9 +31908,39 @@ dise_id	dise_name	freq	hpo_id	hpo_name	mesh_id
 238750	4q21 microdeletion syndrome	Occasional (29-5%)	HP:0001250	Seizures	D012640
 238750	4q21 microdeletion syndrome	Very frequent (99-80%)	HP:0001252	Muscular hypotonia	D009123
 238750	4q21 microdeletion syndrome	Occasional (29-5%)	HP:0001337	Tremor	D014202
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000076	Vesicoureteral reflux	D014718
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000085	Horseshoe kidney	D000069337
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000218	High palate	
+238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0000233	Thin vermilion border	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000238	Hydrocephalus	D006849
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000252	Microcephaly	
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000286	Epicanthus	
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000316	Hypertelorism	D006972
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000319	Smooth philtrum	
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000347	Micrognathia	D008844
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000348	High forehead	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000384	Preauricular skin tag	
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000486	Strabismus	D013285
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000506	Telecanthus	C562941
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0000582	Upslanted palpebral fissure	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0000664	Synophrys	
 238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0000750	Delayed speech and language development	D007805
 238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0001252	Muscular hypotonia	D009123
+238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0001263	Global developmental delay	
+238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0001274	Agenesis of corpus callosum	D061085
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0001510	Growth delay	
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0001671	Abnormality of the cardiac septa	D006343
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0002007	Frontal bossing	
 238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0002069	Generalized tonic-clonic seizures	D012640
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0002119	Ventriculomegaly	
+238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0002263	Exaggerated cupid's bow	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0002566	Intestinal malrotation	C562456
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0002650	Scoliosis	D013121
+238769	1q44 microdeletion syndrome	Frequent (79-30%)	HP:0004322	Short stature	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0004422	Biparietal narrowing	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0005487	Prominent metopic ridge	
+238769	1q44 microdeletion syndrome	Occasional (29-5%)	HP:0007766	Optic disc hypoplasia	
+238769	1q44 microdeletion syndrome	Very frequent (99-80%)	HP:0010864	Intellectual disability, severe	
 243343	Dimethylglycine dehydrogenase deficiency	Very frequent (99-80%)	HP:0001939	Abnormality of metabolism/homeostasis	
 243343	Dimethylglycine dehydrogenase deficiency	Very frequent (99-80%)	HP:0003236	Elevated serum creatine phosphokinase	
 243343	Dimethylglycine dehydrogenase deficiency	Very frequent (99-80%)	HP:0003750	Increased muscle fatiguability	D018763
